@@ -1,0 +1,591 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-03-05",
+  "questions": {
+    "tyt": {
+      "turkce": [
+        {
+          "id": "tyt_tr_1",
+          "subject": "Türkçe",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "\"Kitap\" kelimesinin eş anlamlısı nedir?",
+          "options": [
+            { "id": "a", "text": "Defter", "isCorrect": false },
+            { "id": "b", "text": "Kalem", "isCorrect": false },
+            { "id": "c", "text": "Eser", "isCorrect": true },
+            { "id": "d", "text": "Masa", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_tr_2",
+          "subject": "Türkçe",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "\"Önce ilk başta bu konuyu ele alalım.\" cümlesindeki anlatım bozukluğunun nedeni nedir?",
+          "options": [
+            { "id": "a", "text": "Sözcük eksikliği", "isCorrect": false },
+            { "id": "b", "text": "Gereksiz sözcük kullanımı", "isCorrect": true },
+            { "id": "c", "text": "Özne-yüklem uyumsuzluğu", "isCorrect": false },
+            { "id": "d", "text": "Anlam belirsizliği", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_tr_3",
+          "subject": "Türkçe",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "Hangisinde büyük harf kullanımı YANLIŞTIR?",
+          "options": [
+            { "id": "a", "text": "Türkiye Cumhuriyeti", "isCorrect": false },
+            { "id": "b", "text": "Ankara'ya gittim", "isCorrect": false },
+            { "id": "c", "text": "pazartesi günü", "isCorrect": true },
+            { "id": "d", "text": "Atatürk'ün eserleri", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_tr_4",
+          "subject": "Türkçe",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "Hangisinde kesme işareti DOĞRU kullanılmıştır?",
+          "options": [
+            { "id": "a", "text": "Ahmet'in kalemi", "isCorrect": true },
+            { "id": "b", "text": "Güzel'in evi", "isCorrect": false },
+            { "id": "c", "text": "Okul'un bahçesi", "isCorrect": false },
+            { "id": "d", "text": "Kitap'ın sayfası", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_tr_5",
+          "subject": "Türkçe",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "\"Kesin ve mutlaka yarın geleceğim.\" cümlesindeki anlatım bozukluğu nedir?",
+          "options": [
+            { "id": "a", "text": "Anlam belirsizliği", "isCorrect": false },
+            { "id": "b", "text": "Gereksiz sözcük kullanımı", "isCorrect": true },
+            { "id": "c", "text": "Mantık hatası", "isCorrect": false },
+            { "id": "d", "text": "Çelişki", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_tr_6",
+          "subject": "Türkçe",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "\"Belki de kesinlikle yarın yağmur yağacak.\" cümlesindeki hata nedir?",
+          "options": [
+            { "id": "a", "text": "Gereksiz sözcük", "isCorrect": false },
+            { "id": "b", "text": "Anlamca çelişki", "isCorrect": true },
+            { "id": "c", "text": "Sözcük eksikliği", "isCorrect": false },
+            { "id": "d", "text": "Yüklem yanlışlığı", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_tr_7",
+          "subject": "Türkçe",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "\"Sen de gel\" cümlesinde \"de\" nasıl yazılmalıdır?",
+          "options": [
+            { "id": "a", "text": "Bitişik (Sende)", "isCorrect": false },
+            { "id": "b", "text": "Ayrı (de)", "isCorrect": true },
+            { "id": "c", "text": "Her iki şekilde de olabilir", "isCorrect": false },
+            { "id": "d", "text": "Kesme işaretiyle (de')", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_tr_8",
+          "subject": "Türkçe",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Hangisi DOĞRU yazılmıştır?",
+          "options": [
+            { "id": "a", "text": "Başbakan", "isCorrect": true },
+            { "id": "b", "text": "Baş bakan", "isCorrect": false },
+            { "id": "c", "text": "Baş-bakan", "isCorrect": false },
+            { "id": "d", "text": "baş bakan", "isCorrect": false }
+          ]
+        }
+      ],
+      "matematik": [
+        {
+          "id": "tyt_mat_1",
+          "subject": "Matematik",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "2 + 2 = ?",
+          "options": [
+            { "id": "a", "text": "3", "isCorrect": false },
+            { "id": "b", "text": "4", "isCorrect": true },
+            { "id": "c", "text": "5", "isCorrect": false },
+            { "id": "d", "text": "6", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_mat_2",
+          "subject": "Matematik",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "5 x 3 = ?",
+          "options": [
+            { "id": "a", "text": "12", "isCorrect": false },
+            { "id": "b", "text": "15", "isCorrect": true },
+            { "id": "c", "text": "18", "isCorrect": false },
+            { "id": "d", "text": "8", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_mat_3",
+          "subject": "Matematik",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "2³ × 2⁴ işleminin sonucu kaçtır?",
+          "options": [
+            { "id": "a", "text": "2⁷ = 128", "isCorrect": true },
+            { "id": "b", "text": "2¹² = 4096", "isCorrect": false },
+            { "id": "c", "text": "4⁷", "isCorrect": false },
+            { "id": "d", "text": "2³ = 8", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_mat_4",
+          "subject": "Matematik",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "3⁵ ÷ 3² işleminin sonucu kaçtır?",
+          "options": [
+            { "id": "a", "text": "3³ = 27", "isCorrect": true },
+            { "id": "b", "text": "3⁷ = 2187", "isCorrect": false },
+            { "id": "c", "text": "3¹⁰", "isCorrect": false },
+            { "id": "d", "text": "1³ = 1", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_mat_5",
+          "subject": "Matematik",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "5⁰ = ?",
+          "options": [
+            { "id": "a", "text": "0", "isCorrect": false },
+            { "id": "b", "text": "1", "isCorrect": true },
+            { "id": "c", "text": "5", "isCorrect": false },
+            { "id": "d", "text": "Tanımsız", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_mat_6",
+          "subject": "Matematik",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "√49 kaçtır?",
+          "options": [
+            { "id": "a", "text": "6", "isCorrect": false },
+            { "id": "b", "text": "7", "isCorrect": true },
+            { "id": "c", "text": "8", "isCorrect": false },
+            { "id": "d", "text": "49", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_mat_7",
+          "subject": "Matematik",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "(2³)⁴ işleminin sonucu kaçtır?",
+          "options": [
+            { "id": "a", "text": "2⁷", "isCorrect": false },
+            { "id": "b", "text": "2¹²", "isCorrect": true },
+            { "id": "c", "text": "6⁴", "isCorrect": false },
+            { "id": "d", "text": "8⁴", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_mat_8",
+          "subject": "Matematik",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "√12 ifadesi sadeleştirilirse hangisi olur?",
+          "options": [
+            { "id": "a", "text": "2√3", "isCorrect": true },
+            { "id": "b", "text": "3√2", "isCorrect": false },
+            { "id": "c", "text": "4√3", "isCorrect": false },
+            { "id": "d", "text": "6", "isCorrect": false }
+          ]
+        }
+      ],
+      "fizik": [
+        {
+          "id": "tyt_fiz_1",
+          "subject": "Fizik",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Işık hızı yaklaşık olarak kaç km/s'dir?",
+          "options": [
+            { "id": "a", "text": "100.000 km/s", "isCorrect": false },
+            { "id": "b", "text": "300.000 km/s", "isCorrect": true },
+            { "id": "c", "text": "500.000 km/s", "isCorrect": false },
+            { "id": "d", "text": "1.000.000 km/s", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_fiz_2",
+          "subject": "Fizik",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "Newton'un 2. Yasası hangisidir?",
+          "options": [
+            { "id": "a", "text": "F = m × a", "isCorrect": true },
+            { "id": "b", "text": "E = mc²", "isCorrect": false },
+            { "id": "c", "text": "V = I × R", "isCorrect": false },
+            { "id": "d", "text": "P = F / A", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_fiz_3",
+          "subject": "Fizik",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "Ohm Kanunu hangisidir?",
+          "options": [
+            { "id": "a", "text": "F = m × a", "isCorrect": false },
+            { "id": "b", "text": "V = I × R", "isCorrect": true },
+            { "id": "c", "text": "E = mc²", "isCorrect": false },
+            { "id": "d", "text": "W = F × s", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_fiz_4",
+          "subject": "Fizik",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Kinetik enerji formülü hangisidir?",
+          "options": [
+            { "id": "a", "text": "Eₖ = mgh", "isCorrect": false },
+            { "id": "b", "text": "Eₖ = ½mv²", "isCorrect": true },
+            { "id": "c", "text": "Eₖ = Fd", "isCorrect": false },
+            { "id": "d", "text": "Eₖ = mc²", "isCorrect": false }
+          ]
+        }
+      ],
+      "kimya": [
+        {
+          "id": "tyt_kim_1",
+          "subject": "Kimya",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "Au hangi elementin sembolüdür?",
+          "options": [
+            { "id": "a", "text": "Gümüş", "isCorrect": false },
+            { "id": "b", "text": "Altın", "isCorrect": true },
+            { "id": "c", "text": "Alüminyum", "isCorrect": false },
+            { "id": "d", "text": "Argon", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_kim_2",
+          "subject": "Kimya",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "Fe hangi elementin sembolüdür?",
+          "options": [
+            { "id": "a", "text": "Flor", "isCorrect": false },
+            { "id": "b", "text": "Fosfor", "isCorrect": false },
+            { "id": "c", "text": "Demir", "isCorrect": true },
+            { "id": "d", "text": "Fermiyum", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_kim_3",
+          "subject": "Kimya",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "Na hangi elementin sembolüdür?",
+          "options": [
+            { "id": "a", "text": "Azot", "isCorrect": false },
+            { "id": "b", "text": "Sodyum", "isCorrect": true },
+            { "id": "c", "text": "Neon", "isCorrect": false },
+            { "id": "d", "text": "Nikel", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_kim_4",
+          "subject": "Kimya",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "1A grubu elementlerine ne ad verilir?",
+          "options": [
+            { "id": "a", "text": "Halojenler", "isCorrect": false },
+            { "id": "b", "text": "Soy gazlar", "isCorrect": false },
+            { "id": "c", "text": "Alkali metaller", "isCorrect": true },
+            { "id": "d", "text": "Toprak alkali metaller", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_kim_5",
+          "subject": "Kimya",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "8A grubu elementlerine ne ad verilir?",
+          "options": [
+            { "id": "a", "text": "Halojenler", "isCorrect": false },
+            { "id": "b", "text": "Soy gazlar", "isCorrect": true },
+            { "id": "c", "text": "Alkali metaller", "isCorrect": false },
+            { "id": "d", "text": "Geçiş metalleri", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_kim_6",
+          "subject": "Kimya",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Hangisi oda sıcaklığında sıvı halde bulunan metaldir?",
+          "options": [
+            { "id": "a", "text": "Demir", "isCorrect": false },
+            { "id": "b", "text": "Civa", "isCorrect": true },
+            { "id": "c", "text": "Bakır", "isCorrect": false },
+            { "id": "d", "text": "Çinko", "isCorrect": false }
+          ]
+        }
+      ],
+      "biyoloji": [
+        {
+          "id": "tyt_bio_1",
+          "subject": "Biyoloji",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "Proteinlerin kimyasal sindirimi ilk olarak hangi organda başlar?",
+          "options": [
+            { "id": "a", "text": "Ağız", "isCorrect": false },
+            { "id": "b", "text": "Mide", "isCorrect": true },
+            { "id": "c", "text": "İnce bağırsak", "isCorrect": false },
+            { "id": "d", "text": "Kalın bağırsak", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_bio_2",
+          "subject": "Biyoloji",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "Besinlerin emilimi en çok hangi organda gerçekleşir?",
+          "options": [
+            { "id": "a", "text": "Mide", "isCorrect": false },
+            { "id": "b", "text": "İnce bağırsak", "isCorrect": true },
+            { "id": "c", "text": "Kalın bağırsak", "isCorrect": false },
+            { "id": "d", "text": "Yemek borusu", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_bio_3",
+          "subject": "Biyoloji",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "Kalbin hangi odacığı temiz kanı vücuda pompalar?",
+          "options": [
+            { "id": "a", "text": "Sağ kulakçık", "isCorrect": false },
+            { "id": "b", "text": "Sağ karıncık", "isCorrect": false },
+            { "id": "c", "text": "Sol kulakçık", "isCorrect": false },
+            { "id": "d", "text": "Sol karıncık", "isCorrect": true }
+          ]
+        },
+        {
+          "id": "tyt_bio_4",
+          "subject": "Biyoloji",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "Gaz değişimi hangi yapılarda gerçekleşir?",
+          "options": [
+            { "id": "a", "text": "Bronşlar", "isCorrect": false },
+            { "id": "b", "text": "Bronşçuklar", "isCorrect": false },
+            { "id": "c", "text": "Alveoller", "isCorrect": true },
+            { "id": "d", "text": "Soluk borusu", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_bio_5",
+          "subject": "Biyoloji",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "Merkezi sinir sistemini oluşturan yapılar hangileridir?",
+          "options": [
+            { "id": "a", "text": "Beyin ve omurilik", "isCorrect": true },
+            { "id": "b", "text": "Beyin ve sinirler", "isCorrect": false },
+            { "id": "c", "text": "Omurilik ve ganglionlar", "isCorrect": false },
+            { "id": "d", "text": "Sinirler ve reseptörler", "isCorrect": false }
+          ]
+        }
+      ],
+      "tarih": [
+        {
+          "id": "tyt_tar_1",
+          "subject": "Tarih",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Türkiye Cumhuriyeti hangi yılda kurulmuştur?",
+          "options": [
+            { "id": "a", "text": "1920", "isCorrect": false },
+            { "id": "b", "text": "1921", "isCorrect": false },
+            { "id": "c", "text": "1922", "isCorrect": false },
+            { "id": "d", "text": "1923", "isCorrect": true }
+          ]
+        },
+        {
+          "id": "tyt_tar_2",
+          "subject": "Tarih",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "Osmanlı Devleti'nin kurucusu kimdir?",
+          "options": [
+            { "id": "a", "text": "Osman Bey", "isCorrect": true },
+            { "id": "b", "text": "Ertuğrul Gazi", "isCorrect": false },
+            { "id": "c", "text": "Orhan Bey", "isCorrect": false },
+            { "id": "d", "text": "I. Murad", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_tar_3",
+          "subject": "Tarih",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "İstanbul'u fetheden padişah kimdir?",
+          "options": [
+            { "id": "a", "text": "I. Mehmed", "isCorrect": false },
+            { "id": "b", "text": "II. Murad", "isCorrect": false },
+            { "id": "c", "text": "Fatih Sultan Mehmed", "isCorrect": true },
+            { "id": "d", "text": "II. Bayezid", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_tar_4",
+          "subject": "Tarih",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "\"Kanuni\" lakabıyla anılan padişah kimdir?",
+          "options": [
+            { "id": "a", "text": "Fatih Sultan Mehmed", "isCorrect": false },
+            { "id": "b", "text": "Yavuz Sultan Selim", "isCorrect": false },
+            { "id": "c", "text": "Kanuni Sultan Süleyman", "isCorrect": true },
+            { "id": "d", "text": "II. Selim", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_tar_5",
+          "subject": "Tarih",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "Osmanlı Devleti'nin son padişahı kimdir?",
+          "options": [
+            { "id": "a", "text": "V. Mehmed", "isCorrect": false },
+            { "id": "b", "text": "VI. Mehmed", "isCorrect": true },
+            { "id": "c", "text": "II. Abdülhamid", "isCorrect": false },
+            { "id": "d", "text": "V. Murad", "isCorrect": false }
+          ]
+        }
+      ],
+      "cografya": [],
+      "felsefe": []
+    },
+    "ayt": {
+      "matematik": [],
+      "fizik": [],
+      "kimya": [],
+      "biyoloji": [],
+      "edebiyat": [
+        {
+          "id": "ayt_edb_1",
+          "subject": "Edebiyat",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "\"Çalıkuşu\" romanının yazarı kimdir?",
+          "options": [
+            { "id": "a", "text": "Halide Edib Adıvar", "isCorrect": false },
+            { "id": "b", "text": "Reşat Nuri Güntekin", "isCorrect": true },
+            { "id": "c", "text": "Yakup Kadri Karaosmanoğlu", "isCorrect": false },
+            { "id": "d", "text": "Peyami Safa", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_edb_2",
+          "subject": "Edebiyat",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "\"Ateşten Gömlek\" romanının yazarı kimdir?",
+          "options": [
+            { "id": "a", "text": "Halide Edib Adıvar", "isCorrect": true },
+            { "id": "b", "text": "Reşat Nuri Güntekin", "isCorrect": false },
+            { "id": "c", "text": "Ömer Seyfettin", "isCorrect": false },
+            { "id": "d", "text": "Yahya Kemal", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_edb_3",
+          "subject": "Edebiyat",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "\"İnce Memed\" romanının yazarı kimdir?",
+          "options": [
+            { "id": "a", "text": "Orhan Kemal", "isCorrect": false },
+            { "id": "b", "text": "Yaşar Kemal", "isCorrect": true },
+            { "id": "c", "text": "Kemal Tahir", "isCorrect": false },
+            { "id": "d", "text": "Fakir Baykurt", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_edb_4",
+          "subject": "Edebiyat",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "\"Safahat\" adlı şiir kitabının yazarı kimdir?",
+          "options": [
+            { "id": "a", "text": "Yahya Kemal Beyatlı", "isCorrect": false },
+            { "id": "b", "text": "Mehmet Akif Ersoy", "isCorrect": true },
+            { "id": "c", "text": "Tevfik Fikret", "isCorrect": false },
+            { "id": "d", "text": "Namık Kemal", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_edb_5",
+          "subject": "Edebiyat",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "\"Kürk Mantolu Madonna\" romanının yazarı kimdir?",
+          "options": [
+            { "id": "a", "text": "Orhan Kemal", "isCorrect": false },
+            { "id": "b", "text": "Sabahattin Ali", "isCorrect": true },
+            { "id": "c", "text": "Sait Faik", "isCorrect": false },
+            { "id": "d", "text": "Aziz Nesin", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_edb_6",
+          "subject": "Edebiyat",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "\"Tutunamayanlar\" romanının yazarı kimdir?",
+          "options": [
+            { "id": "a", "text": "Oğuz Atay", "isCorrect": true },
+            { "id": "b", "text": "Yusuf Atılgan", "isCorrect": false },
+            { "id": "c", "text": "Orhan Pamuk", "isCorrect": false },
+            { "id": "d", "text": "Ahmet Hamdi Tanpınar", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_edb_7",
+          "subject": "Edebiyat",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "\"İstiklal Marşı\"nın şairi kimdir?",
+          "options": [
+            { "id": "a", "text": "Yahya Kemal Beyatlı", "isCorrect": false },
+            { "id": "b", "text": "Mehmet Akif Ersoy", "isCorrect": true },
+            { "id": "c", "text": "Tevfik Fikret", "isCorrect": false },
+            { "id": "d", "text": "Ziya Gökalp", "isCorrect": false }
+          ]
+        }
+      ],
+      "tarih": [],
+      "cografya": []
+    }
+  }
+}

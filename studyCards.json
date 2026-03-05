@@ -1,0 +1,384 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-03-05",
+  "studyCards": [
+    {
+      "id": "sc_mat_1",
+      "subject": "Matematik",
+      "topic": "Türev",
+      "front": "f(x) = x² fonksiyonunun türevi nedir?",
+      "back": "f'(x) = 2x\n\nAçıklama: x^n fonksiyonunun türevi n·x^(n-1) şeklindedir."
+    },
+    {
+      "id": "sc_mat_2",
+      "subject": "Matematik",
+      "topic": "İntegral",
+      "front": "∫x dx = ?",
+      "back": "(x²/2) + C\n\nAçıklama: x^n fonksiyonunun integrali (x^(n+1))/(n+1) + C şeklindedir."
+    },
+    {
+      "id": "sc_mat_3",
+      "subject": "Matematik",
+      "topic": "Limit",
+      "front": "lim(x→∞) 1/x = ?",
+      "back": "0\n\nPay sabit, payda sonsuza giderken limit 0 olur."
+    },
+    {
+      "id": "sc_mat_4",
+      "subject": "Matematik",
+      "topic": "Logaritma",
+      "front": "log₁₀(100) = ?",
+      "back": "2\n\n10² = 100 olduğundan log₁₀(100) = 2"
+    },
+    {
+      "id": "sc_mat_5",
+      "subject": "Matematik",
+      "topic": "Trigonometri",
+      "front": "sin²x + cos²x = ?",
+      "back": "1\n\nPitagor teoreminden gelen temel trigonometrik özdeşlik."
+    },
+    {
+      "id": "sc_mat_6",
+      "subject": "Matematik",
+      "topic": "Üslü Sayılar",
+      "front": "a⁰ = ?",
+      "back": "1\n\nSıfırıncı kuvvet kuralı: Her sayının sıfırıncı kuvveti 1 dir."
+    },
+    {
+      "id": "sc_mat_7",
+      "subject": "Matematik",
+      "topic": "Permütasyon",
+      "front": "n! (n faktöriyel) ne demektir?",
+      "back": "n! = n × (n-1) × (n-2) × ... × 2 × 1\n\nÖrnek: 5! = 5×4×3×2×1 = 120"
+    },
+    {
+      "id": "sc_mat_8",
+      "subject": "Matematik",
+      "topic": "Kümeler",
+      "front": "A ∩ B nedir?",
+      "back": "Kesişim kümesi\n\nHem A da hem B de olan elemanların kümesi."
+    },
+    {
+      "id": "sc_mat_9",
+      "subject": "Matematik",
+      "topic": "Fonksiyonlar",
+      "front": "f⁻¹(x) nedir?",
+      "back": "Ters fonksiyon\n\nf fonksiyonunun tersini veren fonksiyon."
+    },
+    {
+      "id": "sc_mat_10",
+      "subject": "Matematik",
+      "topic": "Diziler",
+      "front": "Aritmetik dizinin genel terimi nedir?",
+      "back": "aₙ = a₁ + (n-1)d\n\na₁: İlk terim, d: Ortak fark"
+    },
+    {
+      "id": "sc_fiz_1",
+      "subject": "Fizik",
+      "topic": "Newton Yasaları",
+      "front": "Newton'un 2. Yasası nedir?",
+      "back": "F = m × a\n\nKuvvet = Kütle × İvme\n\nBir cisme etki eden net kuvvet, cismin kütlesi ile ivmesinin çarpımına eşittir."
+    },
+    {
+      "id": "sc_fiz_2",
+      "subject": "Fizik",
+      "topic": "Elektrik",
+      "front": "Ohm Kanunu nedir?",
+      "back": "V = I × R\n\nGerilim = Akım × Direnç\n\nBir iletkenin uçları arasındaki gerilim, akım ile direncin çarpımına eşittir."
+    },
+    {
+      "id": "sc_fiz_3",
+      "subject": "Fizik",
+      "topic": "Enerji",
+      "front": "Kinetik enerji formülü nedir?",
+      "back": "Eₖ = ½mv²\n\nm: Kütle, v: Hız\n\nHareket eden cisimlerin sahip olduğu enerji."
+    },
+    {
+      "id": "sc_fiz_4",
+      "subject": "Fizik",
+      "topic": "Işık",
+      "front": "Işığın hızı nedir?",
+      "back": "c = 3 × 10⁸ m/s\n\nBoşlukta ışık hızı sabittir ve evrendeki en yüksek hızdır."
+    },
+    {
+      "id": "sc_fiz_5",
+      "subject": "Fizik",
+      "topic": "Çekim",
+      "front": "Evrensel çekim kuvveti formülü?",
+      "back": "F = G(m₁m₂)/r²\n\nG: Evrensel çekim sabiti\nİki kütle arasındaki çekim kuvveti."
+    },
+    {
+      "id": "sc_fiz_6",
+      "subject": "Fizik",
+      "topic": "Basınç",
+      "front": "Basınç nasıl hesaplanır?",
+      "back": "P = F/A\n\nBasınç = Kuvvet / Alan\n\nBirim alandaki kuvvettir."
+    },
+    {
+      "id": "sc_fiz_7",
+      "subject": "Fizik",
+      "topic": "Dalga",
+      "front": "Dalga hızı formülü?",
+      "back": "v = λf\n\nHız = Dalga boyu × Frekans"
+    },
+    {
+      "id": "sc_fiz_8",
+      "subject": "Fizik",
+      "topic": "İş",
+      "front": "Fiziksel iş nedir?",
+      "back": "W = F × s\n\nİş = Kuvvet × Yol\n\nKuvvetin yaptığı hareket."
+    },
+    {
+      "id": "sc_fiz_9",
+      "subject": "Fizik",
+      "topic": "Momentum",
+      "front": "Momentum formülü?",
+      "back": "p = mv\n\nMomentum = Kütle × Hız\n\nHareket miktarıdır."
+    },
+    {
+      "id": "sc_fiz_10",
+      "subject": "Fizik",
+      "topic": "Isı",
+      "front": "Isı transferi yöntemleri?",
+      "back": "İletim, Taşınım, Işınım\n\nIsı sıcaktan soğuğa doğru akar."
+    },
+    {
+      "id": "sc_fiz_11",
+      "subject": "Fizik",
+      "topic": "Akım",
+      "front": "Elektrik akımı nedir?",
+      "back": "I = Q/t\n\nAkım = Yük / Zaman\n\nBirim zamanda geçen yük miktarı."
+    },
+    {
+      "id": "sc_kim_1",
+      "subject": "Kimya",
+      "topic": "Periyodik Tablo",
+      "front": "Altın elementinin sembolü nedir?",
+      "back": "Au\n\nLatince adı: Aurum\nAtom numarası: 79\nGrup: 11 (Geçiş metalleri)"
+    },
+    {
+      "id": "sc_kim_2",
+      "subject": "Kimya",
+      "topic": "Asit-Baz",
+      "front": "pH 7'den küçükse ne anlama gelir?",
+      "back": "ASİDİK\n\npH < 7: Asidik\npH = 7: Nötr\npH > 7: Bazik"
+    },
+    {
+      "id": "sc_kim_3",
+      "subject": "Kimya",
+      "topic": "Mol Kavramı",
+      "front": "1 mol kaç tanedir?",
+      "back": "6.02 × 10²³ (Avogadro Sayısı)\n\n1 mol, herhangi bir maddenin Avogadro sayısı kadar tanecik içermesidir."
+    },
+    {
+      "id": "sc_kim_4",
+      "subject": "Kimya",
+      "topic": "Suyun Formülü",
+      "front": "Suyun kimyasal formülü?",
+      "back": "H₂O\n\n2 Hidrojen + 1 Oksijen\n\nKovalent bağ ile bağlanmıştır."
+    },
+    {
+      "id": "sc_kim_5",
+      "subject": "Kimya",
+      "topic": "Elektron Dizilimi",
+      "front": "İlk 4 enerji seviyesi kaçar elektron alır?",
+      "back": "2, 8, 18, 32\n\nFormül: 2n²\nn: Enerji seviyesi"
+    },
+    {
+      "id": "sc_kim_6",
+      "subject": "Kimya",
+      "topic": "Gazlar",
+      "front": "İdeal gaz denklemi?",
+      "back": "PV = nRT\n\nP: Basınç, V: Hacim\nn: Mol sayısı, R: Gaz sabiti, T: Sıcaklık"
+    },
+    {
+      "id": "sc_kim_7",
+      "subject": "Kimya",
+      "topic": "Oksidasyon",
+      "front": "Oksijen gazının formülü?",
+      "back": "O₂\n\nİki oksijen atomu çift bağ ile bağlanır."
+    },
+    {
+      "id": "sc_kim_8",
+      "subject": "Kimya",
+      "topic": "Tuz",
+      "front": "Sofra tuzunun kimyasal formülü?",
+      "back": "NaCl\n\nSodyum Klorür\nİyonik bağ ile bağlanmıştır."
+    },
+    {
+      "id": "sc_kim_9",
+      "subject": "Kimya",
+      "topic": "Karbon",
+      "front": "Karbonun atom numarası?",
+      "back": "6\n\nSembol: C\nOrganik kimyanın temelidir."
+    },
+    {
+      "id": "sc_kim_10",
+      "subject": "Kimya",
+      "topic": "Çözeltiler",
+      "front": "Derişim nasıl hesaplanır?",
+      "back": "C = n/V\n\nDerişim = Mol sayısı / Hacim\nBirim: mol/L"
+    },
+    {
+      "id": "sc_kim_11",
+      "subject": "Kimya",
+      "topic": "Tepkimeler",
+      "front": "Ekzotermik tepkime nedir?",
+      "back": "Isı Veren Tepkime\n\nTepkime sırasında ısı açığa çıkar.\nÖrnek: Yanma"
+    },
+    {
+      "id": "sc_kim_12",
+      "subject": "Kimya",
+      "topic": "Bağlar",
+      "front": "Kovalent bağ nedir?",
+      "back": "Elektron Paylaşımı\n\nİki atom arasında elektron çiftlerinin paylaşılması ile oluşan bağ."
+    },
+    {
+      "id": "sc_bio_1",
+      "subject": "Biyoloji",
+      "topic": "Hücre",
+      "front": "Mitokondri ne yapar?",
+      "back": "Enerji Üretimi\n\nMitokondri, hücrenin enerji santralidir. ATP (adenozin trifosfat) üretir."
+    },
+    {
+      "id": "sc_bio_2",
+      "subject": "Biyoloji",
+      "topic": "DNA",
+      "front": "DNA nın açılımı nedir?",
+      "back": "Deoksiribonükleik Asit\n\nKalıtım bilgilerini taşıyan molekül.\nÇift sarmal yapıya sahiptir."
+    },
+    {
+      "id": "sc_bio_3",
+      "subject": "Biyoloji",
+      "topic": "Fotosentez",
+      "front": "Fotosentez denklemi nedir?",
+      "back": "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂\n\nBitkilerin ışıktan yararlanarak glukozu sentezlemesidir."
+    },
+    {
+      "id": "sc_bio_4",
+      "subject": "Biyoloji",
+      "topic": "Hücre Zarı",
+      "front": "Hücre zarının görevi nedir?",
+      "back": "Seçici Geçirgenlik\n\nHücreyi dış ortamdan ayırır ve madde alış verişini kontrol eder."
+    },
+    {
+      "id": "sc_bio_5",
+      "subject": "Biyoloji",
+      "topic": "Kan Grupları",
+      "front": "Evrensel kan vericisi hangisidir?",
+      "back": "0 Rh(-)\n\nTüm kan gruplarına kan verebilir.\nEvrensel alıcı: AB Rh(+)"
+    },
+    {
+      "id": "sc_bio_6",
+      "subject": "Biyoloji",
+      "topic": "Sindirim",
+      "front": "Protein sindirimi nerede başlar?",
+      "back": "Mide\n\nPepsin enzimi ile başlar.\nTamamlanması ince bağırsakta olur."
+    },
+    {
+      "id": "sc_bio_7",
+      "subject": "Biyoloji",
+      "topic": "Solunum",
+      "front": "Hücresel solunum denklemi?",
+      "back": "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + ATP\n\nGlukozdan enerji (ATP) üretimi."
+    },
+    {
+      "id": "sc_bio_8",
+      "subject": "Biyoloji",
+      "topic": "Kromozom",
+      "front": "İnsanda kaç kromozom vardır?",
+      "back": "46 kromozom (23 çift)\n\n44 otozomal + 2 cinsiyet kromozomu\nXX: Kadın, XY: Erkek"
+    },
+    {
+      "id": "sc_bio_9",
+      "subject": "Biyoloji",
+      "topic": "Ekosistem",
+      "front": "Besin zincirinin ilk halkası?",
+      "back": "Üreticiler (Bitkiler)\n\nFotosentez yaparak kendi besinlerini üretirler."
+    },
+    {
+      "id": "sc_bio_10",
+      "subject": "Biyoloji",
+      "topic": "Ribozom",
+      "front": "Ribozomun görevi nedir?",
+      "back": "Protein Sentezi\n\nmRNA daki bilgiyi kullanarak protein üretir."
+    },
+    {
+      "id": "sc_bio_11",
+      "subject": "Biyoloji",
+      "topic": "Kalp",
+      "front": "Kalbin kaç odası vardır?",
+      "back": "4 odacık\n\n2 kulakçık + 2 karıncık\nSol: Temiz kan, Sağ: Kirli kan"
+    },
+    {
+      "id": "sc_tar_1",
+      "subject": "Tarih",
+      "topic": "Osmanlı İmparatorluğu",
+      "front": "İstanbul hangi yıl fethedildi?",
+      "back": "29 Mayıs 1453\n\nFatih Sultan Mehmet tarafından fethedildi.\nBizans İmparatorluğu sona erdi."
+    },
+    {
+      "id": "sc_tar_2",
+      "subject": "Tarih",
+      "topic": "Cumhuriyet",
+      "front": "Cumhuriyet hangi yıl ilan edildi?",
+      "back": "29 Ekim 1923\n\nMustafa Kemal Atatürk ilk cumhurbaşkanı oldu.\nAnkara başkent yapıldı."
+    },
+    {
+      "id": "sc_tar_3",
+      "subject": "Tarih",
+      "topic": "I. Dünya Savaşı",
+      "front": "I. Dünya Savaşı hangi yıllar arasında?",
+      "back": "1914-1918\n\nOsmanlı İmparatorluğu yenik tarafta yer aldı.\nMondros Ateşkes Antlaşması imzalandı."
+    },
+    {
+      "id": "sc_tar_4",
+      "subject": "Tarih",
+      "topic": "İnkılaplar",
+      "front": "Harf İnkılabı hangi yılda yapıldı?",
+      "back": "1928\n\nArap alfabesi yerine Latin alfabesi kabul edildi.\nOkuma yazma oranı arttı."
+    },
+    {
+      "id": "sc_tar_5",
+      "subject": "Tarih",
+      "topic": "Kurtuluş Savaşı",
+      "front": "Mustafa Kemal Samsun a ne zaman çıktı?",
+      "back": "19 Mayıs 1919\n\nKurtuluş Savaşı nın başlangıcı.\nGençlik ve Spor Bayramı."
+    },
+    {
+      "id": "sc_tar_6",
+      "subject": "Tarih",
+      "topic": "Osmanlı Devleti",
+      "front": "Osmanlı Devleti hangi yılda kuruldu?",
+      "back": "1299\n\nOsman Bey tarafından Söğüt te kuruldu.\n624 yıl sürdü."
+    },
+    {
+      "id": "sc_tar_7",
+      "subject": "Tarih",
+      "topic": "Lozan Antlaşması",
+      "front": "Lozan Antlaşması ne zaman imzalandı?",
+      "back": "24 Temmuz 1923\n\nTürkiye nin sınırları belirlendi.\nBağımsızlığın resmen tanınması."
+    },
+    {
+      "id": "sc_tar_8",
+      "subject": "Tarih",
+      "topic": "Büyük Taarruz",
+      "front": "Büyük Taarruz ne zaman başladı?",
+      "back": "26 Ağustos 1922\n\nSon büyük savaş.\n30 Ağustos ta Başkomutan Meydan Muharebesi kazanıldı."
+    },
+    {
+      "id": "sc_tar_9",
+      "subject": "Tarih",
+      "topic": "Meclis",
+      "front": "TBMM ne zaman açıldı?",
+      "back": "23 Nisan 1920\n\nAnkara da Türkiye Büyük Millet Meclisi açıldı.\nUlusal Egemenlik ve Çocuk Bayramı."
+    },
+    {
+      "id": "sc_tar_10",
+      "subject": "Tarih",
+      "topic": "Saltanat",
+      "front": "Saltanat ne zaman kaldırıldı?",
+      "back": "1 Kasım 1922\n\nOsmanlı saltanatı TBMM tarafından kaldırıldı.\nHilafet 1924 te kaldırıldı."
+    }
+  ]
+}
