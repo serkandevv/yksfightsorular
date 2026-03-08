@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-03-05",
+  "lastUpdated": "2026-03-09",
   "studyCards": [
     {
       "id": "sc_mat_1",
@@ -71,6 +71,34 @@
       "topic": "Diziler",
       "front": "Aritmetik dizinin genel terimi nedir?",
       "back": "aₙ = a₁ + (n-1)d\n\na₁: İlk terim, d: Ortak fark"
+    },
+    {
+      "id": "sc_mat_11",
+      "subject": "Matematik",
+      "topic": "Olasılık",
+      "front": "Bir olayın olasılığı nasıl hesaplanır?",
+      "back": "P(A) = İstenen olay sayısı / Toplam olay sayısı\n\nOlasılık değeri 0 ile 1 arasındadır.\n0: İmkânsız olay, 1: Kesin olay"
+    },
+    {
+      "id": "sc_mat_12",
+      "subject": "Matematik",
+      "topic": "Kombinasyon",
+      "front": "C(n, r) kombinasyon formülü nedir?",
+      "back": "C(n, r) = n! / (r! × (n-r)!)\n\nSıralama önemli olmadan n elemandan r tanesini seçme sayısı.\nÖrnek: C(5,2) = 10"
+    },
+    {
+      "id": "sc_mat_13",
+      "subject": "Matematik",
+      "topic": "Matris",
+      "front": "2×2 matrisin determinantı nasıl hesaplanır?",
+      "back": "A = |a b; c d| ise det(A) = ad - bc\n\nÇapraz çarpımların farkı alınır.\nDeterminant 0 ise matrisin tersi yoktur."
+    },
+    {
+      "id": "sc_mat_14",
+      "subject": "Matematik",
+      "topic": "Polinomlar",
+      "front": "Bir polinomun derecesi nasıl belirlenir?",
+      "back": "En yüksek kuvvetli terimin derecesidir.\n\nÖrnek: P(x) = 3x⁴ + 2x² - 1 → Derece: 4\nKatsayısı sıfır olmayan en yüksek dereceli terime bakılır."
     },
     {
       "id": "sc_fiz_1",
@@ -148,6 +176,27 @@
       "topic": "Akım",
       "front": "Elektrik akımı nedir?",
       "back": "I = Q/t\n\nAkım = Yük / Zaman\n\nBirim zamanda geçen yük miktarı."
+    },
+    {
+      "id": "sc_fiz_12",
+      "subject": "Fizik",
+      "topic": "Modern Fizik",
+      "front": "Fotoelektrik olay nedir ve Einstein denklemi nasıl yazılır?",
+      "back": "Işığın metal yüzeyine çarparak elektron koparması olayıdır.\n\nEₖ = hf - W\n\nh: Planck sabiti, f: Frekans, W: Eşik enerjisi\nIşığın tanecik (foton) yapısını kanıtlar."
+    },
+    {
+      "id": "sc_fiz_13",
+      "subject": "Fizik",
+      "topic": "Elektromanyetik İndüksiyon",
+      "front": "Faraday'ın elektromanyetik indüksiyon yasası nedir?",
+      "back": "EMK = -ΔΦ/Δt\n\nBir iletken çerçeveden geçen manyetik akı değişirse, iletkende elektromotor kuvvet (EMK) oluşur.\nLenz Yasası: İndüklenen akım, onu oluşturan akı değişimine karşı yönde akar."
+    },
+    {
+      "id": "sc_fiz_14",
+      "subject": "Fizik",
+      "topic": "Termodinamik Yasaları",
+      "front": "Termodinamiğin birinci yasası nedir?",
+      "back": "ΔU = Q - W\n\nİç enerji değişimi = Sisteme verilen ısı - Sistemin yaptığı iş\n\nEnerjinin korunumu yasasının termodinamiğe uygulanmasıdır. Enerji yoktan var edilemez, vardan yok edilemez."
     },
     {
       "id": "sc_kim_1",
@@ -234,6 +283,27 @@
       "back": "Elektron Paylaşımı\n\nİki atom arasında elektron çiftlerinin paylaşılması ile oluşan bağ."
     },
     {
+      "id": "sc_kim_13",
+      "subject": "Kimya",
+      "topic": "Organik Kimya",
+      "front": "Organik kimyada temel fonksiyonel grupları sayınız.",
+      "back": "1. Alkol (-OH)\n2. Aldehit (-CHO)\n3. Keton (C=O)\n4. Karboksilik asit (-COOH)\n5. Ester (-COO-)\n6. Amin (-NH₂)\n7. Eter (-O-)\n\nFonksiyonel gruplar, organik bileşiklerin kimyasal özelliklerini belirler."
+    },
+    {
+      "id": "sc_kim_14",
+      "subject": "Kimya",
+      "topic": "Kimyasal Denge",
+      "front": "Le Chatelier ilkesi nedir?",
+      "back": "Dengede olan bir sisteme dışarıdan etki yapılırsa, sistem bu etkiyi azaltacak yönde tepki verir.\n\nDerişim artarsa: Derişimi azaltacak yöne kayar\nSıcaklık artarsa: Endotermik yöne kayar\nBasınç artarsa: Mol sayısı az olan yöne kayar\n\nKatalizör dengeyi değiştirmez, dengeye ulaşma süresini kısaltır."
+    },
+    {
+      "id": "sc_kim_15",
+      "subject": "Kimya",
+      "topic": "Çözünürlük",
+      "front": "Çözünürlüğü etkileyen faktörler nelerdir?",
+      "back": "1. Sıcaklık: Katılarda genelde artırır, gazlarda azaltır\n2. Basınç: Sadece gazların çözünürlüğünü artırır\n3. Çözücü-çözünen cinsi: Benzer benzeri çözer kuralı\n4. Ortak iyon etkisi: Çözünürlüğü azaltır\n\nÇözünürlük çarpımı: Kçç = [iyon]ⁿ × [iyon]ᵐ"
+    },
+    {
       "id": "sc_bio_1",
       "subject": "Biyoloji",
       "topic": "Hücre",
@@ -311,6 +381,27 @@
       "back": "4 odacık\n\n2 kulakçık + 2 karıncık\nSol: Temiz kan, Sağ: Kirli kan"
     },
     {
+      "id": "sc_bio_12",
+      "subject": "Biyoloji",
+      "topic": "DNA Replikasyonu",
+      "front": "DNA replikasyonu nedir ve hangi enzim görev yapar?",
+      "back": "DNA nın kendini eşlemesi olayıdır.\n\nDNA helikaz: Çift zinciri açar\nDNA polimeraz: Yeni zinciri sentezler\nDNA ligaz: Okazaki parçalarını birleştirir\n\nYarı korunumlu (semikonservatif) eşlenmedir: Her yeni DNA bir eski, bir yeni iplikten oluşur."
+    },
+    {
+      "id": "sc_bio_13",
+      "subject": "Biyoloji",
+      "topic": "Protein Sentezi",
+      "front": "Protein sentezinin aşamaları nelerdir?",
+      "back": "1. Transkripsiyon (Çekirdekte):\nDNA dan mRNA sentezlenir.\nRNA polimeraz enzimi görev yapar.\n\n2. Translasyon (Ribozomda):\nmRNA daki kodonlara uygun aminoasitler tRNA ile taşınır.\nPeptit bağları ile aminoasitler birleşir.\n\nBaşlangıç kodonu: AUG (metiyonin)\nDurdurma kodonları: UAA, UAG, UGA"
+    },
+    {
+      "id": "sc_bio_14",
+      "subject": "Biyoloji",
+      "topic": "Biyoteknoloji",
+      "front": "GDO nedir ve genetik mühendisliğinde hangi teknikler kullanılır?",
+      "back": "GDO: Genetiği Değiştirilmiş Organizma\n\nTemel teknikler:\n1. Restriksiyon enzimleri: DNA yı belirli noktalardan keser\n2. DNA ligaz: DNA parçalarını birleştirir\n3. PCR (Polimeraz Zincir Reaksiyonu): DNA çoğaltma\n4. Gel elektroforezi: DNA parçalarını ayırma\n5. Plazmid vektörler: Gen aktarım araçları"
+    },
+    {
       "id": "sc_tar_1",
       "subject": "Tarih",
       "topic": "Osmanlı İmparatorluğu",
@@ -379,6 +470,244 @@
       "topic": "Saltanat",
       "front": "Saltanat ne zaman kaldırıldı?",
       "back": "1 Kasım 1922\n\nOsmanlı saltanatı TBMM tarafından kaldırıldı.\nHilafet 1924 te kaldırıldı."
+    },
+    {
+      "id": "sc_tar_11",
+      "subject": "Tarih",
+      "topic": "Atatürk İlkeleri",
+      "front": "Atatürk'ün 6 temel ilkesi nelerdir ve ne anlama gelir?",
+      "back": "1. Cumhuriyetçilik: Egemenlik kayıtsız şartsız milletindir\n2. Milliyetçilik: Ulusal birlik ve beraberlik\n3. Halkçılık: Halk arasında eşitlik, ayrıcalık yok\n4. Devletçilik: Ekonomide devlet öncülüğü\n5. Laiklik: Din ve devlet işlerinin ayrılması\n6. İnkılapçılık: Çağdaşlaşma ve yenilikçilik\n\nBütünleyici ilkeler: Ulusal egemenlik, ulusal bağımsızlık, yurtta sulh cihanda sulh, bilimsellik."
+    },
+    {
+      "id": "sc_tar_12",
+      "subject": "Tarih",
+      "topic": "Atatürk İlkeleri - Laiklik",
+      "front": "Laiklik ilkesi doğrultusunda yapılan inkılaplar nelerdir?",
+      "back": "1. Halifeliğin kaldırılması (1924)\n2. Tevhid-i Tedrisat Kanunu (1924)\n3. Şer'iye ve Evkaf Vekâletinin kaldırılması (1924)\n4. Tekke ve zaviyelerin kapatılması (1925)\n5. Medeni Kanun'un kabulü (1926)\n6. Anayasadan 'devletin dini İslam'dır' ibaresinin çıkarılması (1928)\n7. Laiklik ilkesinin anayasaya girmesi (1937)"
+    },
+    {
+      "id": "sc_tar_13",
+      "subject": "Tarih",
+      "topic": "Çok Partili Dönem",
+      "front": "Türkiye'de çok partili hayata geçiş denemeleri nelerdir?",
+      "back": "1. Cumhuriyet Halk Fırkası (1923) - Tek parti\n2. Terakkiperver Cumhuriyet Fırkası (1924) - Kapatıldı (Şeyh Said İsyanı)\n3. Serbest Cumhuriyet Fırkası (1930) - Kendini feshetti\n4. Demokrat Parti (1946) - Başarılı geçiş\n\n14 Mayıs 1950: İlk demokratik iktidar değişikliği\nDP iktidara, CHP muhalefete geçti."
+    },
+    {
+      "id": "sc_tar_14",
+      "subject": "Tarih",
+      "topic": "Çok Partili Dönem - 1950 Sonrası",
+      "front": "1950-1960 dönemi Türkiye'de siyasi hayatta neler yaşandı?",
+      "back": "1950: Demokrat Parti iktidara geldi (Adnan Menderes)\nEkonomide liberalleşme politikaları uygulandı\nNATO'ya üyelik (1952)\nKore Savaşı'na asker gönderildi\n\n27 Mayıs 1960: Askerî müdahale\nSebepleri: Basın üzerinde baskı, üniversitelere müdahale, muhalefeti kısıtlama\n1961 Anayasası hazırlandı."
+    },
+    {
+      "id": "sc_tr_1",
+      "subject": "Türkçe",
+      "topic": "Dilbilgisi - Fiil Çatısı",
+      "front": "Fiil çatısı nedir? Türlerini sayınız.",
+      "back": "Fiillerin özne ve nesneye göre gösterdiği özelliktir.\n\nÖznesine göre:\n1. Etken: Öznesi belli (Ali geldi)\n2. Edilgen: Öznesi belli değil (-ıl, -ın eki: Kapı açıldı)\n\nNesnesine göre:\n1. Geçişli: Nesne alır (Kitap okudu)\n2. Geçişsiz: Nesne almaz (Uyudu)\n3. Oldurgan: Geçişsize nesne kazandırma (Uyuttu)\n4. Ettirgen: Başkasına yaptırma (Yazdırdı)\n\nDönüşlü: Özne işi kendi üzerinde yapar (Yıkandı)\nİşteş: Birlikte veya karşılıklı yapma (Barıştılar)"
+    },
+    {
+      "id": "sc_tr_2",
+      "subject": "Türkçe",
+      "topic": "Dilbilgisi - Cümle Ögeleri",
+      "front": "Türkçe'de temel cümle ögeleri nelerdir?",
+      "back": "Temel Ögeler:\n1. Özne: İşi yapan (Kim? Ne?)\n2. Yüklem: İşi bildiren (Cümlenin temel ögesi)\n\nYardımcı Ögeler:\n3. Nesne: İşten etkilenen\n   - Belirtili nesne (-i hâli): Kitabı okudum\n   - Belirtisiz nesne: Kitap okudum\n4. Dolaylı tümleç: Yönelme (-e), Bulunma (-de), Ayrılma (-den)\n5. Zarf tümleci: Nasıl? Ne zaman? Ne kadar?"
+    },
+    {
+      "id": "sc_tr_3",
+      "subject": "Türkçe",
+      "topic": "Söz Sanatları",
+      "front": "Teşbih (benzetme) sanatının unsurları nelerdir?",
+      "back": "4 Unsur:\n1. Benzeyen (Zayıf unsur)\n2. Kendisine benzetilen (Güçlü unsur)\n3. Benzetme yönü (Ortak özellik)\n4. Benzetme edatı (gibi, kadar, sanki...)\n\nÖrnek: 'Aslan gibi güçlü adam'\nBenzeyen: Adam\nKendisine benzetilen: Aslan\nBenzetme yönü: Güçlü\nBenzetme edatı: Gibi\n\nTeşbih-i belîğ: Sadece benzeyen ve benzetilen kullanılır. 'Aslan adam'"
+    },
+    {
+      "id": "sc_tr_4",
+      "subject": "Türkçe",
+      "topic": "Söz Sanatları",
+      "front": "Mecaz, istiare ve kinaye arasındaki fark nedir?",
+      "back": "Mecaz: Sözcüğün gerçek anlamı dışında kullanılması.\n'Ayağına taş değdi' → Gerçek\n'Yüreğine ateş düştü' → Mecaz\n\nİstiare (Eğretileme): Benzetmenin sadece bir unsuru kullanılır.\nAçık istiare: Sadece benzetilen var. 'Aslan geliyor' (asker)\nKapalı istiare: Sadece benzeyen var. 'Ağaçlar ağlıyordu'\n\nKinaye: Söz hem gerçek hem mecaz anlama gelir, mecaz kastedilir.\n'Atatürk'ün eli açıktı' → Hem gerçekten eli açık, hem cömert"
+    },
+    {
+      "id": "sc_tr_5",
+      "subject": "Türkçe",
+      "topic": "Anlatım Bozuklukları",
+      "front": "Anlatım bozukluğu türleri nelerdir?",
+      "back": "Yapıyla İlgili:\n1. Özne-yüklem uyumsuzluğu (Kişi, çoğul eki)\n2. Öge eksikliği (Yüklem, nesne, tümleç eksik)\n3. Tamlama yanlışlığı (Ek eksikliği)\n4. Bağlama yanlışlığı (ve, veya, ama yanlış kullanımı)\n\nAnlamla İlgili:\n1. Gereksiz sözcük kullanımı (Anlamca çatışma)\n2. Anlamca çelişki\n3. Mantık hatası\n4. Deyim yanlışlığı\n5. Sözcüğün yanlış anlamda kullanılması"
+    },
+    {
+      "id": "sc_tr_6",
+      "subject": "Türkçe",
+      "topic": "Anlatım Bozuklukları - Örnekler",
+      "front": "Aşağıdaki cümledeki anlatım bozukluğunu bulun: 'Bu konuyu hem sen hem de arkadaşların bilirsiniz.'",
+      "back": "Özne-yüklem uyumsuzluğu (Kişi uyumsuzluğu)\n\nYanlış: 'hem sen hem de arkadaşların bilirsiniz'\nDoğru: 'hem sen hem de arkadaşların bilir' (3. çoğul kişi)\nveya: 'hem sen hem de arkadaşların bilirsiniz' → Yüklem 2. çoğul kişi olmuş ama özne karışık.\n\nKural: Farklı kişiler özneyse yüklem 3. çoğul kişi olur."
+    },
+    {
+      "id": "sc_tr_7",
+      "subject": "Türkçe",
+      "topic": "Paragraf Türleri",
+      "front": "Paragrafta düşünceyi geliştirme yolları nelerdir?",
+      "back": "1. Tanımlama: Kavramı açıklama\n2. Örneklendirme: Somut örnek verme\n3. Karşılaştırma: İki kavramı kıyaslama\n4. Tanık gösterme (Alıntı): Otorite sözü kullanma\n5. Sayısal verilerden yararlanma: İstatistik kullanma\n6. Benzetme: Soyut kavramı somutlaştırma\n7. Neden-sonuç ilişkisi: Sebep ve sonuç gösterme"
+    },
+    {
+      "id": "sc_tr_8",
+      "subject": "Türkçe",
+      "topic": "Paragraf Türleri - Yapı",
+      "front": "Paragrafta ana düşünce ve yardımcı düşünce nedir?",
+      "back": "Ana Düşünce:\nParagrafın bütününde savunulan temel görüş.\nGenellikle giriş veya sonuç cümlesinde bulunur.\nParagrafı tek cümleyle özetleyen düşüncedir.\n\nYardımcı Düşünce:\nAna düşünceyi destekleyen, açıklayan düşünceler.\nÖrnekler, ayrıntılar, açıklamalar.\n\nİpucu: 'Bu parçada asıl anlatılmak istenen nedir?' sorusunun cevabı ana düşüncedir."
+    },
+    {
+      "id": "sc_ed_1",
+      "subject": "Edebiyat",
+      "topic": "Edebi Dönemler",
+      "front": "Türk edebiyatının ana dönemleri nelerdir?",
+      "back": "1. İslamiyet Öncesi Türk Edebiyatı\n   - Sözlü dönem (Destanlar: Oğuz Kağan, Ergenekon)\n   - Yazılı dönem (Orhun Yazıtları, 8. yy)\n\n2. İslami Dönem Türk Edebiyatı\n   - Divan Edebiyatı (13-19. yy)\n   - Halk Edebiyatı (Anonim, Âşık, Tekke)\n\n3. Batı Etkisindeki Türk Edebiyatı\n   - Tanzimat (1860-1896)\n   - Servetifünun (1896-1901)\n   - Fecr-i Âti (1909-1912)\n   - Millî Edebiyat (1911-1923)\n   - Cumhuriyet Dönemi (1923-...)"
+    },
+    {
+      "id": "sc_ed_2",
+      "subject": "Edebiyat",
+      "topic": "Edebi Dönemler - Tanzimat",
+      "front": "Tanzimat Edebiyatı'nın özellikleri ve temsilcileri kimlerdir?",
+      "back": "I. Dönem (1860-1876):\nSanat toplum içindir.\nŞinasi, Namık Kemal, Ziya Paşa\nİlk roman: Taaşşuk-ı Talat ve Fitnat (Şemsettin Sami)\nİlk edebi roman: İntibah (Namık Kemal)\nİlk gazete: Tercüman-ı Ahval (Şinasi)\n\nII. Dönem (1876-1896):\nSanat sanat içindir.\nRecaizade Mahmut Ekrem, Abdülhak Hamit Tarhan\nİlk realist roman: Araba Sevdası (R.M. Ekrem)"
+    },
+    {
+      "id": "sc_ed_3",
+      "subject": "Edebiyat",
+      "topic": "Nazım Biçimleri - Divan",
+      "front": "Divan edebiyatının başlıca nazım biçimleri nelerdir?",
+      "back": "1. Gazel: Aşk ve güzellik konulu, 5-15 beyit, aa ba ca da...\n2. Kaside: Övgü şiiri, 33-99 beyit, aa ba ca da...\n3. Mesnevi: Her beyit kendi içinde kafiyeli, aa bb cc dd...\n4. Rubai: 4 mısra, aaba kafiye, felsefi konular\n5. Tuyuğ: Rubai gibi ama aruz ölçüsünün farklı kalıbı\n6. Şarkı: Bestelenmek için yazılan, dörtlüklerle\n7. Murabba: Dörtlüklerden oluşan\n8. Kıta: 2 beyitlik, genellikle düşünce şiiri"
+    },
+    {
+      "id": "sc_ed_4",
+      "subject": "Edebiyat",
+      "topic": "Nazım Biçimleri - Halk",
+      "front": "Halk edebiyatı nazım biçimleri nelerdir?",
+      "back": "Âşık Edebiyatı:\n1. Koşma: En yaygın, 11'li hece, abab cccb dddb\n2. Semai: 8'li hece, ezgiyle söylenir\n3. Varsağı: Yiğitçe söylenen, 'bre, hey' nidalı\n4. Destan: Uzun, toplumsal konular\n\nAnonim Halk Edebiyatı:\n1. Mâni: 7'li hece, 4 mısra, aaba\n2. Türkü: Bent + kavuştak, ezgiyle söylenir\n3. Ninni: Çocuk uyutma\n4. Ağıt: Ölüm acısı\n\nTekke Edebiyatı:\nİlahi, nefes, nutuk, şathiye"
+    },
+    {
+      "id": "sc_ed_5",
+      "subject": "Edebiyat",
+      "topic": "Edebi Akımlar",
+      "front": "Klasisizm ve Romantizm arasındaki farklar nelerdir?",
+      "back": "Klasisizm (17. yy):\n- Akıl ve sağduyu ön plandadır\n- Antik Yunan ve Roma örnek alınır\n- Üç birlik kuralı (yer, zaman, olay)\n- Sanat sanat içindir\n- Temsilciler: Molière, Racine, La Fontaine\n\nRomantizm (19. yy başı):\n- Duygu ve hayal ön plandadır\n- Ulusal konulara yönelme\n- Üç birlik kuralı yıkılır\n- Sanat toplum içindir\n- Temsilciler: Victor Hugo, Goethe, Schiller"
+    },
+    {
+      "id": "sc_ed_6",
+      "subject": "Edebiyat",
+      "topic": "Edebi Akımlar",
+      "front": "Realizm ve Natüralizm akımlarının özellikleri nelerdir?",
+      "back": "Realizm (19. yy ortası):\n- Gerçeklik olduğu gibi yansıtılır\n- Gözlem ve araştırma önemlidir\n- Betimlemeler ayrıntılıdır\n- Yazar eserde kişiliğini gizler\n- Temsilciler: Balzac, Stendhal, Flaubert, Tolstoy\n\nNatüralizm:\n- Realizmin ileri aşamasıdır\n- Determinizm (çevre + soy belirler) anlayışı\n- Deney yöntemi uygulanır\n- Toplumun her kesimi konu olabilir\n- Temsilciler: Emile Zola, Guy de Maupassant"
+    },
+    {
+      "id": "sc_ed_7",
+      "subject": "Edebiyat",
+      "topic": "Önemli Yazarlar",
+      "front": "Türk romanının önemli isimleri ve eserleri nelerdir?",
+      "back": "Halit Ziya Uşaklıgil: Mai ve Siyah, Aşk-ı Memnu (İlk modern roman)\nHalide Edip Adıvar: Ateşten Gömlek, Sinekli Bakkal\nReşat Nuri Güntekin: Çalıkuşu, Yaprak Dökümü\nYakup Kadri Karaosmanoğlu: Yaban, Kiralık Konak\nOrhan Kemal: Bereketli Topraklar Üzerinde\nYaşar Kemal: İnce Memed\nOğuz Atay: Tutunamayanlar\nOrhan Pamuk: Benim Adım Kırmızı (Nobel Ödülü, 2006)"
+    },
+    {
+      "id": "sc_ed_8",
+      "subject": "Edebiyat",
+      "topic": "Önemli Yazarlar - Şiir",
+      "front": "Cumhuriyet dönemi Türk şiirinin önemli isimleri ve özellikleri nelerdir?",
+      "back": "Beş Hececiler: Hececi, millî konular (Faruk Nafiz Çamlıbel)\n\nGarip Akımı (I. Yeni, 1941):\nOrhan Veli, Oktay Rifat, Melih Cevdet\nÖlçü ve kafiyeye karşı, günlük dil\n\nİkinci Yeni (1950'ler):\nCemal Süreya, Turgut Uyar, Edip Cansever, İlhan Berk\nSoyut, imge ağırlıklı, kapalı anlatım\n\nToplumcu Gerçekçiler:\nNâzım Hikmet (Serbest nazım öncüsü)\nAhmet Arif, Rıfat Ilgaz"
+    },
+    {
+      "id": "sc_cog_1",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Bölgeleri",
+      "front": "Türkiye'nin 7 coğrafi bölgesi ve en büyük şehirleri nelerdir?",
+      "back": "1. Marmara Bölgesi: İstanbul (En kalabalık), Bursa\n2. Ege Bölgesi: İzmir, Aydın, Denizli\n3. Akdeniz Bölgesi: Antalya, Adana, Mersin\n4. Karadeniz Bölgesi: Trabzon, Samsun\n5. İç Anadolu Bölgesi: Ankara (Başkent), Konya (En büyük yüzölçümü)\n6. Doğu Anadolu Bölgesi: Erzurum, Van (En büyük bölge)\n7. Güneydoğu Anadolu Bölgesi: Gaziantep, Diyarbakır\n\nEn küçük bölge: Marmara (yüzölçümü)\nEn kalabalık: Marmara"
+    },
+    {
+      "id": "sc_cog_2",
+      "subject": "Coğrafya",
+      "topic": "Türkiye'nin Bölgeleri - Ekonomi",
+      "front": "Türkiye'nin bölgelerinin temel ekonomik faaliyetleri nelerdir?",
+      "back": "Marmara: Sanayi, ticaret, tarım (Trakya: ayçiçeği, buğday)\nEge: Zeytincilik, pamuk, tütün, turizm, ihracat\nAkdeniz: Narenciye, seracılık, turizm, pamuk\nKaradeniz: Çay, fındık (dünya 1.si), balıkçılık\nİç Anadolu: Tahıl (buğday ambarı), hayvancılık\nDoğu Anadolu: Büyükbaş hayvancılık, arıcılık\nGüneydoğu Anadolu: GAP projeleri, pamuk, fıstık"
+    },
+    {
+      "id": "sc_cog_3",
+      "subject": "Coğrafya",
+      "topic": "İklim Tipleri",
+      "front": "Türkiye'de görülen iklim tipleri nelerdir?",
+      "back": "1. Karadeniz İklimi: Her mevsim yağışlı, yazlar serin, kışlar ılık\n2. Akdeniz İklimi: Yazlar sıcak-kurak, kışlar ılık-yağışlı (maki bitki örtüsü)\n3. Karasal İklim: Yazlar sıcak-kurak, kışlar soğuk-karlı, yağış az (step/bozkır)\n4. Marmara (Geçiş) İklimi: Karadeniz ve Akdeniz arası geçiş\n\nEn çok yağış: Doğu Karadeniz (Rize-Hopa)\nEn az yağış: İç Anadolu (Tuz Gölü çevresi)\nEn soğuk: Doğu Anadolu"
+    },
+    {
+      "id": "sc_cog_4",
+      "subject": "Coğrafya",
+      "topic": "İklim Tipleri - Bitki Örtüsü",
+      "front": "Türkiye'deki iklim tiplerine göre bitki örtüsü nasıl dağılır?",
+      "back": "Karadeniz İklimi → Orman (Geniş yapraklı + iğne yapraklı)\nTürkiye'nin en gür ormanları burada bulunur.\n\nAkdeniz İklimi → Maki (kızılçam, defne, mersin, zeytin)\nYükseklerde: Garig (Frigana) ve Pseudomaki\n\nKarasal İklim → Bozkır (Step)\nKısa boylu otlar, çalılar\n\nDağ İklimi → Yükseklik arttıkça: Orman → Çayır → Çıplak kaya\n\nTürkiye orman oranı: Yaklaşık %27"
+    },
+    {
+      "id": "sc_cog_5",
+      "subject": "Coğrafya",
+      "topic": "Yer Şekilleri",
+      "front": "Türkiye'nin başlıca dağları ve oluşum şekilleri nelerdir?",
+      "back": "Kuzey Anadolu Dağları: Küre, Canik, Kaçkar (Kıvrım dağlar)\nGüney: Toroslar (Kıvrım dağlar)\nBatı: Kaz Dağı, Uludağ (Horst-Graben)\n\nVolkanik Dağlar: Ağrı (5137m - en yüksek), Erciyes, Süphan, Nemrut\n\nÖnemli Ovalar:\nÇukurova, Bafra, Çarşamba (Delta ovaları)\nKonya Ovası (Tektonik)\nGediz, B. Menderes (Graben ovaları)\n\nKarst Şekilleri: Obruk, dolin, polyeler (Göller Bölgesi, Toroslar)"
+    },
+    {
+      "id": "sc_cog_6",
+      "subject": "Coğrafya",
+      "topic": "Yer Şekilleri - Akarsular",
+      "front": "Türkiye'nin önemli akarsuları ve özellikleri nelerdir?",
+      "back": "En uzun: Kızılırmak (1355 km)\nEn çok su taşıyan: Fırat\n\nKaradeniz'e dökülenler: Kızılırmak, Yeşilırmak, Sakarya, Çoruh\nAkdeniz'e: Seyhan, Ceyhan, Göksu\nEge'ye: B. Menderes, K. Menderes, Gediz\nBasra Körfezi'ne: Fırat, Dicle\n\nÖnemli Göller:\nVan Gölü: En büyük (sodalı)\nTuz Gölü: 2. büyük (tuzlu)\nBeyşehir Gölü: En büyük tatlı su gölü"
+    },
+    {
+      "id": "sc_cog_7",
+      "subject": "Coğrafya",
+      "topic": "Nüfus",
+      "front": "Türkiye'nin nüfus özellikleri ve nüfusu etkileyen faktörler nelerdir?",
+      "back": "Nüfus artış hızı giderek azalmaktadır.\n\nNüfusu Artıran: Doğumlar, göçler (dış)\nNüfusu Azaltan: Ölümler, dışa göç\n\nNüfus yoğunluğu en fazla: Marmara Bölgesi\nEn az yoğun: Doğu Anadolu\n\nNüfus piramidi genç nüfustan yaşlı nüfusa geçiş sürecindedir.\nKentsel nüfus oranı %75'in üzerindedir.\n\nGöç sebepleri: İş imkânı, eğitim, sağlık, güvenlik"
+    },
+    {
+      "id": "sc_cog_8",
+      "subject": "Coğrafya",
+      "topic": "Doğal Kaynaklar",
+      "front": "Türkiye'nin başlıca yeraltı kaynakları ve bulundukları yerler nerelerdir?",
+      "back": "Bor: Eskişehir, Kütahya, Balıkesir (Dünya 1.si, %73 rezerv)\nKrom: Elazığ, Guleman, Fethiye\nBakır: Murgul (Artvin), Küre (Kastamonu)\nDemir: Divriği (Sivas), Hekimhan (Malatya)\nLinyit: Soma, Tunçbilek, Afşin-Elbistan\nTaşkömürü: Zonguldak (Tek yatağı)\nPetrol: Batman, Adıyaman, Diyarbakır (Yetersiz)\n\nJeotermal enerji potansiyeli yüksektir (Denizli, Aydın).\nRüzgâr enerjisi: Ege ve Marmara kıyıları"
+    },
+    {
+      "id": "sc_fel_1",
+      "subject": "Felsefe",
+      "topic": "Felsefe Dalları",
+      "front": "Felsefenin temel dalları nelerdir?",
+      "back": "1. Ontoloji (Varlık Felsefesi): Varlığın ne olduğunu sorgular\n2. Epistemoloji (Bilgi Felsefesi): Bilginin kaynağı, doğruluğu\n3. Etik (Ahlak Felsefesi): İyi-kötü, doğru-yanlış\n4. Estetik (Sanat Felsefesi): Güzellik nedir?\n5. Mantık: Doğru düşünmenin kuralları\n6. Siyaset Felsefesi: Devlet, iktidar, adalet\n7. Din Felsefesi: Tanrı, inanç, din kavramları\n8. Bilim Felsefesi: Bilimsel bilginin yapısı"
+    },
+    {
+      "id": "sc_fel_2",
+      "subject": "Felsefe",
+      "topic": "Felsefe Dalları - Epistemoloji",
+      "front": "Bilgi felsefesinde temel yaklaşımlar nelerdir?",
+      "back": "Rasyonalizm (Akılcılık):\nBilginin kaynağı akıldır. Descartes, Leibniz, Spinoza\n\nEmpirizm (Deneycilik):\nBilginin kaynağı deneyimdir. Locke, Hume, Berkeley\n\nKritisizm (Eleştiricilik):\nAkıl + Deney birlikte. Kant\n\nPozitivizm:\nBilimsel bilgi tek geçerli bilgidir. Auguste Comte\n\nPragmatizm:\nYararlı olan doğrudur. William James, John Dewey\n\nEntüisyonizm (Sezgicilik):\nBilginin kaynağı sezgidir. Bergson"
+    },
+    {
+      "id": "sc_fel_3",
+      "subject": "Felsefe",
+      "topic": "Önemli Filozoflar",
+      "front": "Antik Yunan'ın üç büyük filozofu ve temel görüşleri nelerdir?",
+      "back": "Sokrates (MÖ 469-399):\n'Bildiğim tek şey hiçbir şey bilmediğimdir.'\nSorgulama yöntemi (Maieutike/doğurtma)\nYazılı eser bırakmadı\n\nPlaton/Eflatun (MÖ 427-347):\nİdealar kuramı: Gerçek varlık idealardır\nDevlet adlı eseri, Akademia'yı kurdu\n\nAristoteles (MÖ 384-322):\nMantığın kurucusu, tümevarım-tümdengelim\nVarlık madde + biçimden oluşur\nLykeion'u kurdu"
+    },
+    {
+      "id": "sc_fel_4",
+      "subject": "Felsefe",
+      "topic": "Önemli Filozoflar - Modern",
+      "front": "Modern felsefenin önemli düşünürleri ve katkıları nelerdir?",
+      "back": "Descartes (1596-1650):\n'Düşünüyorum, öyleyse varım.' Modern felsefenin babası.\n\nKant (1724-1804):\nSaf Aklın Eleştirisi. Fenomen-numen ayrımı.\n\nHegel (1770-1831):\nDiyalektik yöntem (tez-antitez-sentez).\n\nMarx (1818-1883):\nDiyalektik materyalizm, sınıf mücadelesi.\n\nNietzsche (1844-1900):\nÜstinsan kavramı, değerlerin yeniden değerlendirilmesi.\n\nSartre (1905-1980):\nVaroluşçuluk. 'Varoluş özden önce gelir.'"
+    },
+    {
+      "id": "sc_fel_5",
+      "subject": "Felsefe",
+      "topic": "Düşünce Akımları - Varoluşçuluk",
+      "front": "Varoluşçuluk (Egzistansiyalizm) nedir ve temel ilkeleri nelerdir?",
+      "back": "20. yy felsefe akımı. İnsanın bireysel varoluşunu ön plana koyar.\n\nTemel İlkeler:\n1. Varoluş özden önce gelir (İnsan önce var olur, sonra kendini tanımlar)\n2. İnsan özgürdür ve bu özgürlük kaçınılmazdır\n3. İnsan kendi seçimlerinden sorumludur\n4. Bunaltı (angoisse): Özgürlüğün yarattığı kaygı\n5. Saçma (absürd): Hayatın anlamının sorgulanması\n\nTemsilciler: Kierkegaard, Heidegger, Sartre, Camus\nCamus: Sisifos Söyleni, Yabancı"
+    },
+    {
+      "id": "sc_fel_6",
+      "subject": "Felsefe",
+      "topic": "Düşünce Akımları - Ahlak Felsefesi",
+      "front": "Ahlak felsefesinde evrenselci ve görecelci yaklaşımlar nelerdir?",
+      "back": "Evrenselci (Objektivist) Yaklaşım:\nAhlak kuralları evrenseldir, herkesi bağlar.\n- Kant: Ödev ahlakı. 'Öyle davran ki davranışın evrensel yasa olsun.'\n- Sokrates, Platon: Erdem bilgidir.\n- Faydacılık (Utilitarizm): En çok kişiye en çok mutluluk. Bentham, Mill\n\nGörecelci (Rölativist) Yaklaşım:\nAhlak toplumdan topluma, kişiden kişiye değişir.\n- Sofistler: 'İnsan her şeyin ölçüsüdür.' (Protagoras)\n- Nihilizm: Ahlaki değerler anlamsızdır. Nietzsche"
     }
   ]
 }

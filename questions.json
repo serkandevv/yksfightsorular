@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-03-05",
+  "lastUpdated": "2026-03-09",
   "questions": {
     "tyt": {
       "turkce": [
@@ -106,6 +106,58 @@
             { "id": "b", "text": "Baş bakan", "isCorrect": false },
             { "id": "c", "text": "Baş-bakan", "isCorrect": false },
             { "id": "d", "text": "baş bakan", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_tr_9",
+          "subject": "Türkçe",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "\"Yazar, toplumsal sorunları ele alarak okuyucuyu derinden etkileyen bir roman yazmıştır.\" Bu cümlede hangi söz sanatı kullanılmıştır?",
+          "options": [
+            { "id": "a", "text": "Benzetme", "isCorrect": false },
+            { "id": "b", "text": "Kişileştirme", "isCorrect": false },
+            { "id": "c", "text": "Abartma", "isCorrect": false },
+            { "id": "d", "text": "Söz sanatı kullanılmamıştır", "isCorrect": true }
+          ]
+        },
+        {
+          "id": "tyt_tr_10",
+          "subject": "Türkçe",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "\"Ağaçlar fısıldaşıyordu.\" cümlesinde hangi söz sanatı vardır?",
+          "options": [
+            { "id": "a", "text": "Benzetme (teşbih)", "isCorrect": false },
+            { "id": "b", "text": "Kişileştirme (teşhis)", "isCorrect": true },
+            { "id": "c", "text": "Abartma (mübalağa)", "isCorrect": false },
+            { "id": "d", "text": "Konuşturma (intak)", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_tr_11",
+          "subject": "Türkçe",
+          "difficulty": "hard",
+          "format": "multiple_choice",
+          "text": "Bir paragrafta ana düşünce genellikle nerede bulunur?",
+          "options": [
+            { "id": "a", "text": "Yalnızca ilk cümlede", "isCorrect": false },
+            { "id": "b", "text": "Yalnızca son cümlede", "isCorrect": false },
+            { "id": "c", "text": "Paragrafın herhangi bir yerinde olabilir", "isCorrect": true },
+            { "id": "d", "text": "Yalnızca ortadaki cümlede", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_tr_12",
+          "subject": "Türkçe",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "\"Aslan gibi güçlü bir adam\" ifadesinde hangi söz sanatı vardır?",
+          "options": [
+            { "id": "a", "text": "İstiare", "isCorrect": false },
+            { "id": "b", "text": "Teşbih (benzetme)", "isCorrect": true },
+            { "id": "c", "text": "Mecaz-ı mürsel", "isCorrect": false },
+            { "id": "d", "text": "Tezat", "isCorrect": false }
           ]
         }
       ],
@@ -213,6 +265,84 @@
             { "id": "c", "text": "4√3", "isCorrect": false },
             { "id": "d", "text": "6", "isCorrect": false }
           ]
+        },
+        {
+          "id": "tyt_mat_9",
+          "subject": "Matematik",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "f(x) = 2x + 3 fonksiyonunda f(4) kaçtır?",
+          "options": [
+            { "id": "a", "text": "8", "isCorrect": false },
+            { "id": "b", "text": "11", "isCorrect": true },
+            { "id": "c", "text": "14", "isCorrect": false },
+            { "id": "d", "text": "10", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_mat_10",
+          "subject": "Matematik",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "f(x) = x² - 1 fonksiyonunun x = 3 için değeri kaçtır?",
+          "options": [
+            { "id": "a", "text": "6", "isCorrect": false },
+            { "id": "b", "text": "8", "isCorrect": true },
+            { "id": "c", "text": "10", "isCorrect": false },
+            { "id": "d", "text": "9", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_mat_11",
+          "subject": "Matematik",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Bir torbada 3 kırmızı, 2 mavi ve 5 yeşil bilye vardır. Rastgele çekilen bir bilyenin kırmızı olma olasılığı kaçtır?",
+          "options": [
+            { "id": "a", "text": "1/2", "isCorrect": false },
+            { "id": "b", "text": "3/10", "isCorrect": true },
+            { "id": "c", "text": "1/3", "isCorrect": false },
+            { "id": "d", "text": "2/5", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_mat_12",
+          "subject": "Matematik",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Bir üçgenin iç açılarının toplamı kaç derecedir?",
+          "options": [
+            { "id": "a", "text": "90°", "isCorrect": false },
+            { "id": "b", "text": "180°", "isCorrect": true },
+            { "id": "c", "text": "270°", "isCorrect": false },
+            { "id": "d", "text": "360°", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_mat_13",
+          "subject": "Matematik",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Kenar uzunlukları 3, 4 ve 5 olan bir üçgenin alanı kaç birim karedir?",
+          "options": [
+            { "id": "a", "text": "6", "isCorrect": true },
+            { "id": "b", "text": "10", "isCorrect": false },
+            { "id": "c", "text": "12", "isCorrect": false },
+            { "id": "d", "text": "8", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_mat_14",
+          "subject": "Matematik",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Bir zarın atılmasında çift sayı gelme olasılığı kaçtır?",
+          "options": [
+            { "id": "a", "text": "1/3", "isCorrect": false },
+            { "id": "b", "text": "1/2", "isCorrect": true },
+            { "id": "c", "text": "2/3", "isCorrect": false },
+            { "id": "d", "text": "1/6", "isCorrect": false }
+          ]
         }
       ],
       "fizik": [
@@ -266,6 +396,84 @@
             { "id": "b", "text": "Eₖ = ½mv²", "isCorrect": true },
             { "id": "c", "text": "Eₖ = Fd", "isCorrect": false },
             { "id": "d", "text": "Eₖ = mc²", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_fiz_5",
+          "subject": "Fizik",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Düz bir aynada oluşan görüntü nasıldır?",
+          "options": [
+            { "id": "a", "text": "Ters ve küçük", "isCorrect": false },
+            { "id": "b", "text": "Düz, aynı boyutta ve sanal", "isCorrect": true },
+            { "id": "c", "text": "Ters ve büyük", "isCorrect": false },
+            { "id": "d", "text": "Düz ve büyük", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_fiz_6",
+          "subject": "Fizik",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Işığın farklı bir ortama geçerken kırılmasının nedeni nedir?",
+          "options": [
+            { "id": "a", "text": "Işığın dalga boyu değişmez", "isCorrect": false },
+            { "id": "b", "text": "Işığın hızı farklı ortamlarda değişir", "isCorrect": true },
+            { "id": "c", "text": "Işığın frekansı değişir", "isCorrect": false },
+            { "id": "d", "text": "Işığın enerjisi artar", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_fiz_7",
+          "subject": "Fizik",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Sesin havada yayılma hızı yaklaşık kaç m/s'dir?",
+          "options": [
+            { "id": "a", "text": "100 m/s", "isCorrect": false },
+            { "id": "b", "text": "340 m/s", "isCorrect": true },
+            { "id": "c", "text": "1000 m/s", "isCorrect": false },
+            { "id": "d", "text": "3000 m/s", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_fiz_8",
+          "subject": "Fizik",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Termodinamiğin 1. yasasına göre hangisi doğrudur?",
+          "options": [
+            { "id": "a", "text": "Enerji yoktan var edilebilir", "isCorrect": false },
+            { "id": "b", "text": "Enerji bir formdan diğerine dönüştürülebilir, toplam enerji korunur", "isCorrect": true },
+            { "id": "c", "text": "Entropi her zaman azalır", "isCorrect": false },
+            { "id": "d", "text": "Isı soğuktan sıcağa kendiliğinden geçer", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_fiz_9",
+          "subject": "Fizik",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Bir mıknatısın etrafında oluşan alana ne denir?",
+          "options": [
+            { "id": "a", "text": "Elektrik alan", "isCorrect": false },
+            { "id": "b", "text": "Gravitasyon alanı", "isCorrect": false },
+            { "id": "c", "text": "Manyetik alan", "isCorrect": true },
+            { "id": "d", "text": "Nükleer alan", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_fiz_10",
+          "subject": "Fizik",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Dalgaların birbiriyle karşılaştığında üst üste binmesine ne denir?",
+          "options": [
+            { "id": "a", "text": "Kırınım", "isCorrect": false },
+            { "id": "b", "text": "Girişim", "isCorrect": true },
+            { "id": "c", "text": "Yansıma", "isCorrect": false },
+            { "id": "d", "text": "Kırılma", "isCorrect": false }
           ]
         }
       ],
@@ -347,6 +555,58 @@
             { "id": "c", "text": "Bakır", "isCorrect": false },
             { "id": "d", "text": "Çinko", "isCorrect": false }
           ]
+        },
+        {
+          "id": "tyt_kim_7",
+          "subject": "Kimya",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Atomlar arasında elektronların ortaklaşa kullanılmasıyla oluşan bağ türü hangisidir?",
+          "options": [
+            { "id": "a", "text": "İyonik bağ", "isCorrect": false },
+            { "id": "b", "text": "Kovalent bağ", "isCorrect": true },
+            { "id": "c", "text": "Metalik bağ", "isCorrect": false },
+            { "id": "d", "text": "Hidrojen bağı", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_kim_8",
+          "subject": "Kimya",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Bir maddenin suda çözünerek iyon oluşturmasına ne denir?",
+          "options": [
+            { "id": "a", "text": "Nötrleşme", "isCorrect": false },
+            { "id": "b", "text": "İyonlaşma", "isCorrect": true },
+            { "id": "c", "text": "Oksidasyon", "isCorrect": false },
+            { "id": "d", "text": "İndirgenme", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_kim_9",
+          "subject": "Kimya",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Bir kimyasal tepkime denkleminde okun sol tarafındaki maddelere ne denir?",
+          "options": [
+            { "id": "a", "text": "Ürünler", "isCorrect": false },
+            { "id": "b", "text": "Girenlere (reaktifler)", "isCorrect": true },
+            { "id": "c", "text": "Katalizörler", "isCorrect": false },
+            { "id": "d", "text": "Ara ürünler", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_kim_10",
+          "subject": "Kimya",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Homojen karışımlara ne ad verilir?",
+          "options": [
+            { "id": "a", "text": "Süspansiyon", "isCorrect": false },
+            { "id": "b", "text": "Emülsiyon", "isCorrect": false },
+            { "id": "c", "text": "Çözelti", "isCorrect": true },
+            { "id": "d", "text": "Koloit", "isCorrect": false }
+          ]
         }
       ],
       "biyoloji": [
@@ -413,6 +673,71 @@
             { "id": "b", "text": "Beyin ve sinirler", "isCorrect": false },
             { "id": "c", "text": "Omurilik ve ganglionlar", "isCorrect": false },
             { "id": "d", "text": "Sinirler ve reseptörler", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_bio_6",
+          "subject": "Biyoloji",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "DNA'nın yapısında hangi şeker bulunur?",
+          "options": [
+            { "id": "a", "text": "Riboz", "isCorrect": false },
+            { "id": "b", "text": "Deoksiriboz", "isCorrect": true },
+            { "id": "c", "text": "Glikoz", "isCorrect": false },
+            { "id": "d", "text": "Fruktoz", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_bio_7",
+          "subject": "Biyoloji",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Bir ekosistemde üreticilerden tüketicilere doğru enerji akışını gösteren şemaya ne denir?",
+          "options": [
+            { "id": "a", "text": "Besin ağı", "isCorrect": false },
+            { "id": "b", "text": "Besin zinciri", "isCorrect": true },
+            { "id": "c", "text": "Enerji piramidi", "isCorrect": false },
+            { "id": "d", "text": "Biyokütle piramidi", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_bio_8",
+          "subject": "Biyoloji",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Mitoz bölünme sonucunda kaç hücre oluşur?",
+          "options": [
+            { "id": "a", "text": "1", "isCorrect": false },
+            { "id": "b", "text": "2", "isCorrect": true },
+            { "id": "c", "text": "4", "isCorrect": false },
+            { "id": "d", "text": "8", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_bio_9",
+          "subject": "Biyoloji",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Mayoz bölünme sonucunda kaç hücre oluşur?",
+          "options": [
+            { "id": "a", "text": "1", "isCorrect": false },
+            { "id": "b", "text": "2", "isCorrect": false },
+            { "id": "c", "text": "4", "isCorrect": true },
+            { "id": "d", "text": "8", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_bio_10",
+          "subject": "Biyoloji",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Fotosentez yapan canlılar ekosistemde hangi rolü üstlenir?",
+          "options": [
+            { "id": "a", "text": "Birincil tüketici", "isCorrect": false },
+            { "id": "b", "text": "İkincil tüketici", "isCorrect": false },
+            { "id": "c", "text": "Üretici (ototrof)", "isCorrect": true },
+            { "id": "d", "text": "Ayrıştırıcı", "isCorrect": false }
           ]
         }
       ],
@@ -481,16 +806,685 @@
             { "id": "c", "text": "II. Abdülhamid", "isCorrect": false },
             { "id": "d", "text": "V. Murad", "isCorrect": false }
           ]
+        },
+        {
+          "id": "tyt_tar_6",
+          "subject": "Tarih",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Kurtuluş Savaşı'nın başlangıcı kabul edilen olay hangisidir?",
+          "options": [
+            { "id": "a", "text": "Amasya Genelgesi", "isCorrect": false },
+            { "id": "b", "text": "Mustafa Kemal'in Samsun'a çıkışı (19 Mayıs 1919)", "isCorrect": true },
+            { "id": "c", "text": "Erzurum Kongresi", "isCorrect": false },
+            { "id": "d", "text": "Sivas Kongresi", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_tar_7",
+          "subject": "Tarih",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "TBMM hangi tarihte açılmıştır?",
+          "options": [
+            { "id": "a", "text": "19 Mayıs 1919", "isCorrect": false },
+            { "id": "b", "text": "23 Nisan 1920", "isCorrect": true },
+            { "id": "c", "text": "29 Ekim 1923", "isCorrect": false },
+            { "id": "d", "text": "30 Ağustos 1922", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_tar_8",
+          "subject": "Tarih",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Halifelik hangi yıl kaldırılmıştır?",
+          "options": [
+            { "id": "a", "text": "1922", "isCorrect": false },
+            { "id": "b", "text": "1923", "isCorrect": false },
+            { "id": "c", "text": "1924", "isCorrect": true },
+            { "id": "d", "text": "1925", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_tar_9",
+          "subject": "Tarih",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Türk kadınlarına seçme ve seçilme hakkı hangi yıl verilmiştir?",
+          "options": [
+            { "id": "a", "text": "1930", "isCorrect": false },
+            { "id": "b", "text": "1934", "isCorrect": true },
+            { "id": "c", "text": "1938", "isCorrect": false },
+            { "id": "d", "text": "1928", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_tar_10",
+          "subject": "Tarih",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Harf inkılabı hangi yıl gerçekleştirilmiştir?",
+          "options": [
+            { "id": "a", "text": "1925", "isCorrect": false },
+            { "id": "b", "text": "1926", "isCorrect": false },
+            { "id": "c", "text": "1928", "isCorrect": true },
+            { "id": "d", "text": "1930", "isCorrect": false }
+          ]
         }
       ],
-      "cografya": [],
-      "felsefe": []
+      "cografya": [
+        {
+          "id": "tyt_cog_1",
+          "subject": "Coğrafya",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "Türkiye'nin en büyük coğrafi bölgesi hangisidir?",
+          "options": [
+            { "id": "a", "text": "Marmara Bölgesi", "isCorrect": false },
+            { "id": "b", "text": "İç Anadolu Bölgesi", "isCorrect": false },
+            { "id": "c", "text": "Doğu Anadolu Bölgesi", "isCorrect": true },
+            { "id": "d", "text": "Karadeniz Bölgesi", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_cog_2",
+          "subject": "Coğrafya",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "Türkiye'nin en kalabalık şehri hangisidir?",
+          "options": [
+            { "id": "a", "text": "Ankara", "isCorrect": false },
+            { "id": "b", "text": "İstanbul", "isCorrect": true },
+            { "id": "c", "text": "İzmir", "isCorrect": false },
+            { "id": "d", "text": "Bursa", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_cog_3",
+          "subject": "Coğrafya",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Türkiye'de Akdeniz iklimi hangi bölgelerde görülür?",
+          "options": [
+            { "id": "a", "text": "Karadeniz ve Marmara", "isCorrect": false },
+            { "id": "b", "text": "Akdeniz ve Ege kıyıları", "isCorrect": true },
+            { "id": "c", "text": "İç Anadolu ve Doğu Anadolu", "isCorrect": false },
+            { "id": "d", "text": "Güneydoğu Anadolu ve Karadeniz", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_cog_4",
+          "subject": "Coğrafya",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Türkiye'nin en yüksek dağı hangisidir?",
+          "options": [
+            { "id": "a", "text": "Erciyes Dağı", "isCorrect": false },
+            { "id": "b", "text": "Uludağ", "isCorrect": false },
+            { "id": "c", "text": "Ağrı Dağı", "isCorrect": true },
+            { "id": "d", "text": "Kaçkar Dağı", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_cog_5",
+          "subject": "Coğrafya",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "Türkiye'nin en uzun nehri hangisidir?",
+          "options": [
+            { "id": "a", "text": "Fırat Nehri", "isCorrect": false },
+            { "id": "b", "text": "Kızılırmak", "isCorrect": true },
+            { "id": "c", "text": "Sakarya Nehri", "isCorrect": false },
+            { "id": "d", "text": "Dicle Nehri", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_cog_6",
+          "subject": "Coğrafya",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Karadeniz Bölgesi'nin iklim özelliği hangisidir?",
+          "options": [
+            { "id": "a", "text": "Yazları sıcak ve kurak, kışları ılık", "isCorrect": false },
+            { "id": "b", "text": "Her mevsim yağışlı, yazları serin", "isCorrect": true },
+            { "id": "c", "text": "Yazları sıcak, kışları çok soğuk ve kar yağışlı", "isCorrect": false },
+            { "id": "d", "text": "Kurak ve yarı kurak", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_cog_7",
+          "subject": "Coğrafya",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Türkiye'de nüfusun en yoğun olduğu bölge hangisidir?",
+          "options": [
+            { "id": "a", "text": "Ege Bölgesi", "isCorrect": false },
+            { "id": "b", "text": "Marmara Bölgesi", "isCorrect": true },
+            { "id": "c", "text": "Akdeniz Bölgesi", "isCorrect": false },
+            { "id": "d", "text": "İç Anadolu Bölgesi", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_cog_8",
+          "subject": "Coğrafya",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Türkiye'nin önemli doğal kaynaklarından biri olan bor madeni en çok hangi bölgede çıkarılır?",
+          "options": [
+            { "id": "a", "text": "Karadeniz Bölgesi", "isCorrect": false },
+            { "id": "b", "text": "İç Anadolu ve Ege Bölgesi", "isCorrect": true },
+            { "id": "c", "text": "Doğu Anadolu Bölgesi", "isCorrect": false },
+            { "id": "d", "text": "Güneydoğu Anadolu Bölgesi", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_cog_9",
+          "subject": "Coğrafya",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "Rüzgâr ve su gibi etkenlerle toprağın aşınmasına ne denir?",
+          "options": [
+            { "id": "a", "text": "Heyelan", "isCorrect": false },
+            { "id": "b", "text": "Erozyon", "isCorrect": true },
+            { "id": "c", "text": "Deprem", "isCorrect": false },
+            { "id": "d", "text": "Sel", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_cog_10",
+          "subject": "Coğrafya",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Türkiye hangi deprem kuşağı üzerinde yer alır?",
+          "options": [
+            { "id": "a", "text": "Pasifik deprem kuşağı", "isCorrect": false },
+            { "id": "b", "text": "Alp-Himalaya deprem kuşağı", "isCorrect": true },
+            { "id": "c", "text": "Atlas Okyanusu deprem kuşağı", "isCorrect": false },
+            { "id": "d", "text": "Büyük Rift deprem kuşağı", "isCorrect": false }
+          ]
+        }
+      ],
+      "felsefe": [
+        {
+          "id": "tyt_fel_1",
+          "subject": "Felsefe",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "Felsefe kelimesinin anlamı nedir?",
+          "options": [
+            { "id": "a", "text": "Bilgi sevgisi (philosophia)", "isCorrect": true },
+            { "id": "b", "text": "Doğa bilimi", "isCorrect": false },
+            { "id": "c", "text": "Toplum bilimi", "isCorrect": false },
+            { "id": "d", "text": "Ruh bilimi", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_fel_2",
+          "subject": "Felsefe",
+          "difficulty": "easy",
+          "format": "multiple_choice",
+          "text": "\"Düşünüyorum, öyleyse varım\" sözü hangi filozofa aittir?",
+          "options": [
+            { "id": "a", "text": "Platon", "isCorrect": false },
+            { "id": "b", "text": "Aristoteles", "isCorrect": false },
+            { "id": "c", "text": "René Descartes", "isCorrect": true },
+            { "id": "d", "text": "Immanuel Kant", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_fel_3",
+          "subject": "Felsefe",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Doğru düşünmenin kurallarını inceleyen felsefe dalı hangisidir?",
+          "options": [
+            { "id": "a", "text": "Etik", "isCorrect": false },
+            { "id": "b", "text": "Estetik", "isCorrect": false },
+            { "id": "c", "text": "Mantık", "isCorrect": true },
+            { "id": "d", "text": "Ontoloji", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_fel_4",
+          "subject": "Felsefe",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Ahlak felsefesinin diğer adı nedir?",
+          "options": [
+            { "id": "a", "text": "Estetik", "isCorrect": false },
+            { "id": "b", "text": "Etik", "isCorrect": true },
+            { "id": "c", "text": "Epistemoloji", "isCorrect": false },
+            { "id": "d", "text": "Metafizik", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_fel_5",
+          "subject": "Felsefe",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "\"Biliyorum ki hiçbir şey bilmiyorum\" sözü hangi filozofa aittir?",
+          "options": [
+            { "id": "a", "text": "Platon", "isCorrect": false },
+            { "id": "b", "text": "Sokrates", "isCorrect": true },
+            { "id": "c", "text": "Aristoteles", "isCorrect": false },
+            { "id": "d", "text": "Epikuros", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_fel_6",
+          "subject": "Felsefe",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Varoluşçuluk (egzistansiyalizm) akımının öncülerinden biri kimdir?",
+          "options": [
+            { "id": "a", "text": "Karl Marx", "isCorrect": false },
+            { "id": "b", "text": "Jean-Paul Sartre", "isCorrect": true },
+            { "id": "c", "text": "Auguste Comte", "isCorrect": false },
+            { "id": "d", "text": "John Locke", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_fel_7",
+          "subject": "Felsefe",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "İslam felsefesinde \"İkinci Öğretmen\" (Muallim-i Sani) olarak bilinen düşünür kimdir?",
+          "options": [
+            { "id": "a", "text": "İbn-i Sina", "isCorrect": false },
+            { "id": "b", "text": "İbn-i Rüşd", "isCorrect": false },
+            { "id": "c", "text": "Farabi", "isCorrect": true },
+            { "id": "d", "text": "Gazali", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_fel_8",
+          "subject": "Felsefe",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Bilgi felsefesinin (epistemoloji) temel sorusu hangisidir?",
+          "options": [
+            { "id": "a", "text": "Güzel nedir?", "isCorrect": false },
+            { "id": "b", "text": "İyi nedir?", "isCorrect": false },
+            { "id": "c", "text": "Bilgi nedir ve sınırları nelerdir?", "isCorrect": true },
+            { "id": "d", "text": "Varlık nedir?", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_fel_9",
+          "subject": "Felsefe",
+          "difficulty": "hard",
+          "format": "multiple_choice",
+          "text": "Pragmatizm (faydacılık) felsefesine göre doğru bilginin ölçütü nedir?",
+          "options": [
+            { "id": "a", "text": "Akla uygunluk", "isCorrect": false },
+            { "id": "b", "text": "Deneyle doğrulanabilirlik", "isCorrect": false },
+            { "id": "c", "text": "Pratikte işe yaraması (fayda)", "isCorrect": true },
+            { "id": "d", "text": "Sezgisel kavrayış", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "tyt_fel_10",
+          "subject": "Felsefe",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Mantıkta \"Tüm insanlar ölümlüdür. Sokrates insandır. O halde Sokrates ölümlüdür.\" ifadesi hangi akıl yürütme türüne örnektir?",
+          "options": [
+            { "id": "a", "text": "Tümevarım", "isCorrect": false },
+            { "id": "b", "text": "Tümdengelim (kıyas)", "isCorrect": true },
+            { "id": "c", "text": "Analoji", "isCorrect": false },
+            { "id": "d", "text": "Paradoks", "isCorrect": false }
+          ]
+        }
+      ]
     },
     "ayt": {
-      "matematik": [],
-      "fizik": [],
-      "kimya": [],
-      "biyoloji": [],
+      "matematik": [
+        {
+          "id": "ayt_mat_1",
+          "subject": "Matematik",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "f(x) = x³ - 3x² + 2 fonksiyonunun türevi f'(x) nedir?",
+          "options": [
+            { "id": "a", "text": "3x² - 6x", "isCorrect": true },
+            { "id": "b", "text": "3x² - 6x + 2", "isCorrect": false },
+            { "id": "c", "text": "x² - 6x", "isCorrect": false },
+            { "id": "d", "text": "3x³ - 6x²", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_mat_2",
+          "subject": "Matematik",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "∫(2x + 1)dx belirsiz integrali nedir?",
+          "options": [
+            { "id": "a", "text": "x² + x + C", "isCorrect": true },
+            { "id": "b", "text": "2x² + x + C", "isCorrect": false },
+            { "id": "c", "text": "x² + C", "isCorrect": false },
+            { "id": "d", "text": "2x + C", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_mat_3",
+          "subject": "Matematik",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "lim(x→2) (x² - 4)/(x - 2) limitinin değeri kaçtır?",
+          "options": [
+            { "id": "a", "text": "0", "isCorrect": false },
+            { "id": "b", "text": "2", "isCorrect": false },
+            { "id": "c", "text": "4", "isCorrect": true },
+            { "id": "d", "text": "Tanımsız", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_mat_4",
+          "subject": "Matematik",
+          "difficulty": "hard",
+          "format": "multiple_choice",
+          "text": "y = x² + 4x + 3 parabolünün tepe noktasının koordinatları nedir?",
+          "options": [
+            { "id": "a", "text": "(-2, -1)", "isCorrect": true },
+            { "id": "b", "text": "(2, -1)", "isCorrect": false },
+            { "id": "c", "text": "(-2, 1)", "isCorrect": false },
+            { "id": "d", "text": "(2, 1)", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_mat_5",
+          "subject": "Matematik",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "f(x) = sin(x) fonksiyonunun türevi nedir?",
+          "options": [
+            { "id": "a", "text": "-sin(x)", "isCorrect": false },
+            { "id": "b", "text": "cos(x)", "isCorrect": true },
+            { "id": "c", "text": "-cos(x)", "isCorrect": false },
+            { "id": "d", "text": "tan(x)", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_mat_6",
+          "subject": "Matematik",
+          "difficulty": "hard",
+          "format": "multiple_choice",
+          "text": "∫₀¹ x² dx belirli integralinin değeri kaçtır?",
+          "options": [
+            { "id": "a", "text": "1/2", "isCorrect": false },
+            { "id": "b", "text": "1/3", "isCorrect": true },
+            { "id": "c", "text": "1/4", "isCorrect": false },
+            { "id": "d", "text": "1", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_mat_7",
+          "subject": "Matematik",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "A(1, 2) ve B(4, 6) noktaları arasındaki uzaklık kaç birimdir?",
+          "options": [
+            { "id": "a", "text": "4", "isCorrect": false },
+            { "id": "b", "text": "5", "isCorrect": true },
+            { "id": "c", "text": "6", "isCorrect": false },
+            { "id": "d", "text": "7", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_mat_8",
+          "subject": "Matematik",
+          "difficulty": "hard",
+          "format": "multiple_choice",
+          "text": "lim(x→0) sin(x)/x limitinin değeri kaçtır?",
+          "options": [
+            { "id": "a", "text": "0", "isCorrect": false },
+            { "id": "b", "text": "1", "isCorrect": true },
+            { "id": "c", "text": "∞", "isCorrect": false },
+            { "id": "d", "text": "Tanımsız", "isCorrect": false }
+          ]
+        }
+      ],
+      "fizik": [
+        {
+          "id": "ayt_fiz_1",
+          "subject": "Fizik",
+          "difficulty": "hard",
+          "format": "multiple_choice",
+          "text": "Fotoelektrik olayı hangi bilim insanı tarafından açıklanmıştır?",
+          "options": [
+            { "id": "a", "text": "Isaac Newton", "isCorrect": false },
+            { "id": "b", "text": "Albert Einstein", "isCorrect": true },
+            { "id": "c", "text": "Niels Bohr", "isCorrect": false },
+            { "id": "d", "text": "Max Planck", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_fiz_2",
+          "subject": "Fizik",
+          "difficulty": "hard",
+          "format": "multiple_choice",
+          "text": "E = mc² formülünde c neyi temsil eder?",
+          "options": [
+            { "id": "a", "text": "Ses hızı", "isCorrect": false },
+            { "id": "b", "text": "Işık hızı", "isCorrect": true },
+            { "id": "c", "text": "Coulomb sabiti", "isCorrect": false },
+            { "id": "d", "text": "Özgül ısı", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_fiz_3",
+          "subject": "Fizik",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Elektromanyetik dalgalar hangi ortamda yayılabilir?",
+          "options": [
+            { "id": "a", "text": "Yalnızca katı ortamda", "isCorrect": false },
+            { "id": "b", "text": "Yalnızca sıvı ortamda", "isCorrect": false },
+            { "id": "c", "text": "Yalnızca maddesel ortamda", "isCorrect": false },
+            { "id": "d", "text": "Hem maddesel ortamda hem boşlukta (vakumda)", "isCorrect": true }
+          ]
+        },
+        {
+          "id": "ayt_fiz_4",
+          "subject": "Fizik",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Bir dalganın frekansı artırılırsa dalga boyu nasıl değişir? (Hız sabit kalırsa)",
+          "options": [
+            { "id": "a", "text": "Artar", "isCorrect": false },
+            { "id": "b", "text": "Azalır", "isCorrect": true },
+            { "id": "c", "text": "Değişmez", "isCorrect": false },
+            { "id": "d", "text": "Önce artar sonra azalır", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_fiz_5",
+          "subject": "Fizik",
+          "difficulty": "hard",
+          "format": "multiple_choice",
+          "text": "Heisenberg belirsizlik ilkesine göre hangisi doğrudur?",
+          "options": [
+            { "id": "a", "text": "Bir parçacığın konumu ve momentumu aynı anda kesin olarak ölçülebilir", "isCorrect": false },
+            { "id": "b", "text": "Bir parçacığın konumu ve momentumu aynı anda kesin olarak belirlenemez", "isCorrect": true },
+            { "id": "c", "text": "Bir parçacığın enerjisi sınırsızdır", "isCorrect": false },
+            { "id": "d", "text": "Elektronlar çekirdek etrafında belirli yörüngelerde döner", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_fiz_6",
+          "subject": "Fizik",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Coulomb Kanunu'na göre iki yük arasındaki elektrik kuvveti hangi büyüklükle ters orantılıdır?",
+          "options": [
+            { "id": "a", "text": "Yüklerin çarpımı", "isCorrect": false },
+            { "id": "b", "text": "Aralarındaki uzaklığın karesi", "isCorrect": true },
+            { "id": "c", "text": "Yüklerin toplamı", "isCorrect": false },
+            { "id": "d", "text": "Aralarındaki uzaklık", "isCorrect": false }
+          ]
+        }
+      ],
+      "kimya": [
+        {
+          "id": "ayt_kim_1",
+          "subject": "Kimya",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Organik kimyada karbon atomunun değerliği (bağ yapma kapasitesi) kaçtır?",
+          "options": [
+            { "id": "a", "text": "2", "isCorrect": false },
+            { "id": "b", "text": "3", "isCorrect": false },
+            { "id": "c", "text": "4", "isCorrect": true },
+            { "id": "d", "text": "6", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_kim_2",
+          "subject": "Kimya",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "En basit alkan hangisidir?",
+          "options": [
+            { "id": "a", "text": "Etan (C₂H₆)", "isCorrect": false },
+            { "id": "b", "text": "Metan (CH₄)", "isCorrect": true },
+            { "id": "c", "text": "Propan (C₃H₈)", "isCorrect": false },
+            { "id": "d", "text": "Bütan (C₄H₁₀)", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_kim_3",
+          "subject": "Kimya",
+          "difficulty": "hard",
+          "format": "multiple_choice",
+          "text": "Elektroliz işleminde anotta (pozitif elektrot) hangi olay gerçekleşir?",
+          "options": [
+            { "id": "a", "text": "İndirgenme", "isCorrect": false },
+            { "id": "b", "text": "Yükseltgenme (oksidasyon)", "isCorrect": true },
+            { "id": "c", "text": "Nötrleşme", "isCorrect": false },
+            { "id": "d", "text": "Çökelme", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_kim_4",
+          "subject": "Kimya",
+          "difficulty": "hard",
+          "format": "multiple_choice",
+          "text": "Le Chatelier ilkesine göre, bir denge tepkimesinde ürün derişimi artırılırsa denge hangi yöne kayar?",
+          "options": [
+            { "id": "a", "text": "Ürünler yönüne (sağa)", "isCorrect": false },
+            { "id": "b", "text": "Girenlere yönüne (sola)", "isCorrect": true },
+            { "id": "c", "text": "Değişmez", "isCorrect": false },
+            { "id": "d", "text": "Her iki yöne eşit kayar", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_kim_5",
+          "subject": "Kimya",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Hangisi bir organik asittir?",
+          "options": [
+            { "id": "a", "text": "HCl (Hidroklorik asit)", "isCorrect": false },
+            { "id": "b", "text": "H₂SO₄ (Sülfürik asit)", "isCorrect": false },
+            { "id": "c", "text": "CH₃COOH (Asetik asit)", "isCorrect": true },
+            { "id": "d", "text": "HNO₃ (Nitrik asit)", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_kim_6",
+          "subject": "Kimya",
+          "difficulty": "hard",
+          "format": "multiple_choice",
+          "text": "Galvanik (voltaik) pilde hangi olay kendiliğinden gerçekleşir?",
+          "options": [
+            { "id": "a", "text": "Elektrik enerjisi kimyasal enerjiye dönüşür", "isCorrect": false },
+            { "id": "b", "text": "Kimyasal enerji elektrik enerjisine dönüşür", "isCorrect": true },
+            { "id": "c", "text": "Isı enerjisi elektrik enerjisine dönüşür", "isCorrect": false },
+            { "id": "d", "text": "Hiçbir enerji dönüşümü olmaz", "isCorrect": false }
+          ]
+        }
+      ],
+      "biyoloji": [
+        {
+          "id": "ayt_bio_1",
+          "subject": "Biyoloji",
+          "difficulty": "hard",
+          "format": "multiple_choice",
+          "text": "Genetik mühendisliğinde bir organizmanın DNA'sına başka bir canlının geni aktarılarak oluşturulan organizmalara ne denir?",
+          "options": [
+            { "id": "a", "text": "Hibrit organizma", "isCorrect": false },
+            { "id": "b", "text": "Transgenik organizma (GDO)", "isCorrect": true },
+            { "id": "c", "text": "Mutant organizma", "isCorrect": false },
+            { "id": "d", "text": "Poliploit organizma", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_bio_2",
+          "subject": "Biyoloji",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "DNA'nın kendini eşlemesine ne ad verilir?",
+          "options": [
+            { "id": "a", "text": "Transkripsiyon", "isCorrect": false },
+            { "id": "b", "text": "Translasyon", "isCorrect": false },
+            { "id": "c", "text": "Replikasyon", "isCorrect": true },
+            { "id": "d", "text": "Mutasyon", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_bio_3",
+          "subject": "Biyoloji",
+          "difficulty": "hard",
+          "format": "multiple_choice",
+          "text": "Darwin'in evrim teorisine göre doğal seçilimin temel mekanizması nedir?",
+          "options": [
+            { "id": "a", "text": "En güçlü bireylerin hayatta kalması", "isCorrect": false },
+            { "id": "b", "text": "Çevreye en iyi uyum sağlayan bireylerin daha çok üremesi", "isCorrect": true },
+            { "id": "c", "text": "Tüm bireylerin eşit şansa sahip olması", "isCorrect": false },
+            { "id": "d", "text": "Canlıların iradesiyle değişmesi", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_bio_4",
+          "subject": "Biyoloji",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Bitkilerde fotosentezin gerçekleştiği organel hangisidir?",
+          "options": [
+            { "id": "a", "text": "Mitokondri", "isCorrect": false },
+            { "id": "b", "text": "Kloroplast", "isCorrect": true },
+            { "id": "c", "text": "Ribozom", "isCorrect": false },
+            { "id": "d", "text": "Golgi aygıtı", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_bio_5",
+          "subject": "Biyoloji",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Bitkilerde suyun köklerden yapraklara taşınmasını sağlayan doku hangisidir?",
+          "options": [
+            { "id": "a", "text": "Floem (soymuk boruları)", "isCorrect": false },
+            { "id": "b", "text": "Ksilem (odun boruları)", "isCorrect": true },
+            { "id": "c", "text": "Parankima", "isCorrect": false },
+            { "id": "d", "text": "Epidermis", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_bio_6",
+          "subject": "Biyoloji",
+          "difficulty": "hard",
+          "format": "multiple_choice",
+          "text": "PCR (Polimeraz Zincir Reaksiyonu) tekniği ne amaçla kullanılır?",
+          "options": [
+            { "id": "a", "text": "Proteinleri ayırmak için", "isCorrect": false },
+            { "id": "b", "text": "DNA'yı çoğaltmak (amplifiye etmek) için", "isCorrect": true },
+            { "id": "c", "text": "Hücreleri boyamak için", "isCorrect": false },
+            { "id": "d", "text": "RNA'yı yok etmek için", "isCorrect": false }
+          ]
+        }
+      ],
       "edebiyat": [
         {
           "id": "ayt_edb_1",
@@ -584,8 +1578,166 @@
           ]
         }
       ],
-      "tarih": [],
-      "cografya": []
+      "tarih": [
+        {
+          "id": "ayt_tar_1",
+          "subject": "Tarih",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Sakarya Meydan Muharebesi hangi yıl yapılmıştır?",
+          "options": [
+            { "id": "a", "text": "1919", "isCorrect": false },
+            { "id": "b", "text": "1920", "isCorrect": false },
+            { "id": "c", "text": "1921", "isCorrect": true },
+            { "id": "d", "text": "1922", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_tar_2",
+          "subject": "Tarih",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Büyük Taarruz hangi tarihte başlamıştır?",
+          "options": [
+            { "id": "a", "text": "26 Ağustos 1922", "isCorrect": true },
+            { "id": "b", "text": "30 Ağustos 1922", "isCorrect": false },
+            { "id": "c", "text": "9 Eylül 1922", "isCorrect": false },
+            { "id": "d", "text": "11 Ekim 1922", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_tar_3",
+          "subject": "Tarih",
+          "difficulty": "hard",
+          "format": "multiple_choice",
+          "text": "Lozan Barış Antlaşması hangi tarihte imzalanmıştır?",
+          "options": [
+            { "id": "a", "text": "29 Ekim 1923", "isCorrect": false },
+            { "id": "b", "text": "24 Temmuz 1923", "isCorrect": true },
+            { "id": "c", "text": "11 Ekim 1922", "isCorrect": false },
+            { "id": "d", "text": "23 Nisan 1920", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_tar_4",
+          "subject": "Tarih",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Saltanat hangi yıl kaldırılmıştır?",
+          "options": [
+            { "id": "a", "text": "1920", "isCorrect": false },
+            { "id": "b", "text": "1922", "isCorrect": true },
+            { "id": "c", "text": "1923", "isCorrect": false },
+            { "id": "d", "text": "1924", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_tar_5",
+          "subject": "Tarih",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Medeni Kanun hangi ülkeden alınarak Türkiye'de kabul edilmiştir?",
+          "options": [
+            { "id": "a", "text": "Almanya", "isCorrect": false },
+            { "id": "b", "text": "Fransa", "isCorrect": false },
+            { "id": "c", "text": "İsviçre", "isCorrect": true },
+            { "id": "d", "text": "İtalya", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_tar_6",
+          "subject": "Tarih",
+          "difficulty": "hard",
+          "format": "multiple_choice",
+          "text": "Mustafa Kemal'e \"Başkomutanlık\" yetkisi hangi savaş öncesinde verilmiştir?",
+          "options": [
+            { "id": "a", "text": "I. İnönü Muharebesi", "isCorrect": false },
+            { "id": "b", "text": "II. İnönü Muharebesi", "isCorrect": false },
+            { "id": "c", "text": "Sakarya Meydan Muharebesi", "isCorrect": true },
+            { "id": "d", "text": "Büyük Taarruz", "isCorrect": false }
+          ]
+        }
+      ],
+      "cografya": [
+        {
+          "id": "ayt_cog_1",
+          "subject": "Coğrafya",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Bir ülkenin nüfus artış hızının yüksek, yaşam standartlarının düşük olması hangi gelişmişlik grubuna işaret eder?",
+          "options": [
+            { "id": "a", "text": "Gelişmiş ülkeler", "isCorrect": false },
+            { "id": "b", "text": "Az gelişmiş (gelişmekte olan) ülkeler", "isCorrect": true },
+            { "id": "c", "text": "Sanayi ülkeleri", "isCorrect": false },
+            { "id": "d", "text": "Bilgi toplumu ülkeleri", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_cog_2",
+          "subject": "Coğrafya",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Türkiye'nin en önemli ihracat kalemi hangi sektördedir?",
+          "options": [
+            { "id": "a", "text": "Tarım", "isCorrect": false },
+            { "id": "b", "text": "Madencilik", "isCorrect": false },
+            { "id": "c", "text": "Sanayi (otomotiv, tekstil, makine)", "isCorrect": true },
+            { "id": "d", "text": "Turizm", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_cog_3",
+          "subject": "Coğrafya",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Kırsal kesimden şehre göç eden nüfusun artmasına ne ad verilir?",
+          "options": [
+            { "id": "a", "text": "Beyin göçü", "isCorrect": false },
+            { "id": "b", "text": "Kentleşme (şehirleşme)", "isCorrect": true },
+            { "id": "c", "text": "Mevsimlik göç", "isCorrect": false },
+            { "id": "d", "text": "Mübadele", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_cog_4",
+          "subject": "Coğrafya",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Türkiye'de GAP (Güneydoğu Anadolu Projesi) hangi nehirlerin sularından yararlanır?",
+          "options": [
+            { "id": "a", "text": "Kızılırmak ve Yeşilırmak", "isCorrect": false },
+            { "id": "b", "text": "Fırat ve Dicle", "isCorrect": true },
+            { "id": "c", "text": "Sakarya ve Büyük Menderes", "isCorrect": false },
+            { "id": "d", "text": "Seyhan ve Ceyhan", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_cog_5",
+          "subject": "Coğrafya",
+          "difficulty": "hard",
+          "format": "multiple_choice",
+          "text": "Türkiye'de çay üretimi en fazla hangi bölgede yapılır?",
+          "options": [
+            { "id": "a", "text": "Akdeniz Bölgesi", "isCorrect": false },
+            { "id": "b", "text": "Doğu Karadeniz Bölümü", "isCorrect": true },
+            { "id": "c", "text": "Ege Bölgesi", "isCorrect": false },
+            { "id": "d", "text": "Marmara Bölgesi", "isCorrect": false }
+          ]
+        },
+        {
+          "id": "ayt_cog_6",
+          "subject": "Coğrafya",
+          "difficulty": "medium",
+          "format": "multiple_choice",
+          "text": "Kişi başına düşen milli gelir (GSMH) neyin göstergesidir?",
+          "options": [
+            { "id": "a", "text": "Nüfus yoğunluğu", "isCorrect": false },
+            { "id": "b", "text": "Ekonomik gelişmişlik düzeyi", "isCorrect": true },
+            { "id": "c", "text": "Tarımsal üretim", "isCorrect": false },
+            { "id": "d", "text": "Doğal kaynak zenginliği", "isCorrect": false }
+          ]
+        }
+      ]
     }
   }
 }
