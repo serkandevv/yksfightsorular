@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "lastUpdated": "2026-03-09",
+  "version": "2.0.0",
+  "lastUpdated": "2026-03-14",
   "studyCards": [
     {
       "id": "sc_mat_1",
@@ -708,6 +708,1546 @@
       "topic": "Düşünce Akımları - Ahlak Felsefesi",
       "front": "Ahlak felsefesinde evrenselci ve görecelci yaklaşımlar nelerdir?",
       "back": "Evrenselci (Objektivist) Yaklaşım:\nAhlak kuralları evrenseldir, herkesi bağlar.\n- Kant: Ödev ahlakı. 'Öyle davran ki davranışın evrensel yasa olsun.'\n- Sokrates, Platon: Erdem bilgidir.\n- Faydacılık (Utilitarizm): En çok kişiye en çok mutluluk. Bentham, Mill\n\nGörecelci (Rölativist) Yaklaşım:\nAhlak toplumdan topluma, kişiden kişiye değişir.\n- Sofistler: 'İnsan her şeyin ölçüsüdür.' (Protagoras)\n- Nihilizm: Ahlaki değerler anlamsızdır. Nietzsche"
+    },
+    {
+      "id": "sc_mat_15",
+      "subject": "Matematik",
+      "topic": "Sayı Basamakları",
+      "front": "Üç basamaklı bir sayıda basamak değeri nasıl bulunur?",
+      "back": "Yüzler basamağı × 100 + Onlar basamağı × 10 + Birler basamağı\n\nÖrnek: 375 → 3×100 + 7×10 + 5×1\nBasamak değeri: Rakamın bulunduğu basamağa göre değeri\nSayı değeri: Rakamın kendi değeri"
+    },
+    {
+      "id": "sc_mat_16",
+      "subject": "Matematik",
+      "topic": "OBEB-OKEK",
+      "front": "OBEB ve OKEK nasıl hesaplanır?",
+      "back": "OBEB (En Büyük Ortak Bölen): Ortak asal çarpanların en küçük kuvvetlerinin çarpımı\nOKEK (En Küçük Ortak Kat): Tüm asal çarpanların en büyük kuvvetlerinin çarpımı\n\nÖrnek: 12=2²×3, 18=2×3²\nOBEB=2×3=6\nOKEK=2²×3²=36\n\nOBEB×OKEK = a×b"
+    },
+    {
+      "id": "sc_mat_17",
+      "subject": "Matematik",
+      "topic": "Oran-Orantı",
+      "front": "Doğru ve ters orantı nedir?",
+      "back": "Doğru Orantı: x artarsa y de artar → y/x = k (sabit)\nTers Orantı: x artarsa y azalır → x·y = k (sabit)\n\nÖrnek: 3 işçi 12 günde bitirirse, 6 işçi kaç günde bitirir?\nTers orantı: 3×12 = 6×x → x = 6 gün"
+    },
+    {
+      "id": "sc_mat_18",
+      "subject": "Matematik",
+      "topic": "Yüzde Hesaplama",
+      "front": "Kar ve zarar nasıl hesaplanır?",
+      "back": "Kar = Satış Fiyatı - Maliyet\nKar Yüzdesi = (Kar / Maliyet) × 100\nZarar = Maliyet - Satış Fiyatı\n\nÖrnek: 100₺ ye alınan mal 130₺ ye satılırsa\nKar = 30₺, Kar% = 30/100 × 100 = %30"
+    },
+    {
+      "id": "sc_mat_19",
+      "subject": "Matematik",
+      "topic": "1. Derece Denklem",
+      "front": "ax + b = 0 nasıl çözülür?",
+      "back": "x = -b/a\n\nÖrnek: 3x + 6 = 0\nx = -6/3 = -2\n\nKural: Eşitliğin her iki tarafına aynı işlem uygulanır."
+    },
+    {
+      "id": "sc_mat_20",
+      "subject": "Matematik",
+      "topic": "2. Derece Denklem",
+      "front": "ax² + bx + c = 0 denkleminin kök formülü nedir?",
+      "back": "x = (-b ± √(b²-4ac)) / 2a\n\nDiskriminant: Δ = b² - 4ac\nΔ > 0 → İki farklı gerçek kök\nΔ = 0 → Çakışık iki kök (eşit kök)\nΔ < 0 → Gerçek kök yok\n\nVieta: x₁+x₂ = -b/a, x₁·x₂ = c/a"
+    },
+    {
+      "id": "sc_mat_21",
+      "subject": "Matematik",
+      "topic": "Mutlak Değer",
+      "front": "|x| mutlak değer nedir?",
+      "back": "|x| = x, eğer x ≥ 0\n|x| = -x, eğer x < 0\n\nSayının sıfıra uzaklığıdır, her zaman ≥ 0\n\nÖzellikler:\n|a·b| = |a|·|b|\n|a+b| ≤ |a|+|b| (Üçgen eşitsizliği)\n|x| < a ise -a < x < a"
+    },
+    {
+      "id": "sc_mat_22",
+      "subject": "Matematik",
+      "topic": "Bölünebilme Kuralları",
+      "front": "Temel bölünebilme kuralları nelerdir?",
+      "back": "2: Son rakam çift\n3: Rakamlar toplamı 3'e bölünür\n4: Son iki rakam 4'e bölünür\n5: Son rakam 0 veya 5\n6: Hem 2'ye hem 3'e bölünür\n9: Rakamlar toplamı 9'a bölünür\n10: Son rakam 0\n11: Tek ve çift basamaktaki rakamlar toplamının farkı 0 veya 11'in katı"
+    },
+    {
+      "id": "sc_mat_23",
+      "subject": "Matematik",
+      "topic": "Modüler Aritmetik",
+      "front": "Mod (kalan) kavramı nedir?",
+      "back": "a ≡ b (mod n) → a ve b, n ile bölündüğünde aynı kalanı verir\n\nÖrnek: 17 ≡ 2 (mod 5) çünkü 17÷5 = 3, kalan 2\n\nÖzellikler:\n(a+b) mod n = ((a mod n) + (b mod n)) mod n\n(a×b) mod n = ((a mod n) × (b mod n)) mod n"
+    },
+    {
+      "id": "sc_mat_24",
+      "subject": "Matematik",
+      "topic": "Analitik Geometri - Doğru",
+      "front": "Doğru denklemi nasıl yazılır?",
+      "back": "y = mx + n (eğim-kesim noktası formu)\n\nm: Eğim = (y₂-y₁)/(x₂-x₁)\nn: y-kesim noktası\n\nİki nokta arası uzaklık:\nd = √((x₂-x₁)² + (y₂-y₁)²)\n\nOrta nokta: ((x₁+x₂)/2, (y₁+y₂)/2)\n\nParalel doğrular: m₁ = m₂\nDik doğrular: m₁ × m₂ = -1"
+    },
+    {
+      "id": "sc_mat_25",
+      "subject": "Matematik",
+      "topic": "Çember Denklemi",
+      "front": "Çember denklemi nasıl yazılır?",
+      "back": "(x-a)² + (y-b)² = r²\n\nMerkez: (a, b)\nYarıçap: r\n\nGenel denklem: x²+y²+Dx+Ey+F=0\nMerkez: (-D/2, -E/2)\nr = √(D²/4 + E²/4 - F)"
+    },
+    {
+      "id": "sc_mat_26",
+      "subject": "Matematik",
+      "topic": "Karmaşık Sayılar",
+      "front": "Karmaşık sayı nedir?",
+      "back": "z = a + bi şeklindedir\ni = √(-1), i² = -1\n\ni³ = -i, i⁴ = 1 (periyodik)\n\nToplama: (a+bi)+(c+di) = (a+c)+(b+d)i\nÇarpma: (a+bi)(c+di) = (ac-bd)+(ad+bc)i\nEşlenik: z̄ = a - bi\n|z| = √(a²+b²)"
+    },
+    {
+      "id": "sc_mat_27",
+      "subject": "Matematik",
+      "topic": "Seriler",
+      "front": "Geometrik serinin toplamı nedir?",
+      "back": "Sonsuz geometrik seri (|r|<1):\nS = a₁/(1-r)\n\nSonlu geometrik seri:\nSₙ = a₁(1-rⁿ)/(1-r)\n\na₁: İlk terim, r: Ortak oran\n\nÖrnek: 1 + 1/2 + 1/4 + ... = 1/(1-0.5) = 2"
+    },
+    {
+      "id": "sc_mat_28",
+      "subject": "Matematik",
+      "topic": "Süreklilik",
+      "front": "Fonksiyonun sürekli olması ne demektir?",
+      "back": "f(x), x=a da süreklidir eğer:\n1. f(a) tanımlı\n2. lim(x→a) f(x) var\n3. lim(x→a) f(x) = f(a)\n\nÜç koşul da sağlanmalıdır.\nPolinom fonksiyonları her yerde süreklidir."
+    },
+    {
+      "id": "sc_mat_29",
+      "subject": "Matematik",
+      "topic": "Türev Uygulamaları",
+      "front": "Maksimum ve minimum nasıl bulunur?",
+      "back": "1. f'(x) = 0 olan kritik noktaları bul\n2. f''(x) ile kontrol et:\n   f''(x) > 0 → Minimum\n   f''(x) < 0 → Maksimum\n\nVeya işaret tablosu:\nf' + dan - ye geçiyor → Maksimum\nf' - dan + ya geçiyor → Minimum"
+    },
+    {
+      "id": "sc_mat_30",
+      "subject": "Matematik",
+      "topic": "İntegral Uygulamaları",
+      "front": "İki eğri arasındaki alan nasıl bulunur?",
+      "back": "A = ∫[a,b] |f(x) - g(x)| dx\n\nf(x) üstte, g(x) altta ise:\nA = ∫[a,b] (f(x) - g(x)) dx\n\nKesişim noktaları: f(x) = g(x) çöz → a, b sınırları"
+    },
+    {
+      "id": "sc_mat_31",
+      "subject": "Matematik",
+      "topic": "Rasyonel Sayılar",
+      "front": "Rasyonel sayı nedir?",
+      "back": "a/b şeklinde yazılabilen sayılar (b≠0)\n\nÖzellikler:\n- Her tam sayı rasyoneldir (5 = 5/1)\n- Devirli ondalık sayılar rasyoneldir\n- √2, π irrasyoneldir\n- Rasyonel + İrrasyonel = İrrasyonel"
+    },
+    {
+      "id": "sc_mat_32",
+      "subject": "Matematik",
+      "topic": "Üçgen Eşitsizliği",
+      "front": "Üçgen eşitsizliği kuralı nedir?",
+      "back": "Bir üçgenin herhangi bir kenarı, diğer iki kenarın toplamından küçük, farklarından büyüktür.\n\n|a-b| < c < a+b\n\nÖrnek: 3, 5, x kenarları\n|5-3| < x < 5+3\n2 < x < 8"
+    },
+    {
+      "id": "sc_mat_33",
+      "subject": "Matematik",
+      "topic": "Açılar",
+      "front": "Üçgende açı özellikleri nelerdir?",
+      "back": "İç açılar toplamı = 180°\nDış açılar toplamı = 360°\n\nBir dış açı, komşu olmayan iki iç açının toplamına eşittir.\n\nÖzel üçgenler:\nEşkenar: 60°-60°-60°\nİkizkenar: Taban açıları eşit\n30-60-90: Kenarlar 1, √3, 2 oranında"
+    },
+    {
+      "id": "sc_mat_34",
+      "subject": "Matematik",
+      "topic": "Veri Yorumlama",
+      "front": "Aritmetik ortalama, medyan ve mod nedir?",
+      "back": "Aritmetik Ortalama = Toplam / Eleman sayısı\n\nMedyan: Sıralandığında ortadaki değer\nÇift elemanlı: Ortadaki ikinin ortalaması\n\nMod: En çok tekrar eden değer\n\nÖrnek: 2,3,3,5,7\nOrtalama = 20/5 = 4\nMedyan = 3\nMod = 3"
+    },
+    {
+      "id": "sc_mat_35",
+      "subject": "Matematik",
+      "topic": "Parabol",
+      "front": "y = ax² + bx + c parabolünün özellikleri?",
+      "back": "a > 0: Ağzı yukarı açık (minimum var)\na < 0: Ağzı aşağı açık (maksimum var)\n\nTepe noktası: (-b/2a, f(-b/2a))\nSimetri ekseni: x = -b/2a\ny-kesim: (0, c)\nx-kesimleri: Δ = b²-4ac ile bulunur"
+    },
+    {
+      "id": "sc_mat_36",
+      "subject": "Matematik",
+      "topic": "Basit Kesirler",
+      "front": "Kesir işlemleri nasıl yapılır?",
+      "back": "Toplama/Çıkarma: Paydalar eşitlenir\na/b + c/d = (ad+bc)/bd\n\nÇarpma: Pay×Pay / Payda×Payda\na/b × c/d = ac/bd\n\nBölme: İkinci kesrin tersiyle çarpılır\na/b ÷ c/d = a/b × d/c = ad/bc"
+    },
+    {
+      "id": "sc_mat_37",
+      "subject": "Matematik",
+      "topic": "Kombinasyon Uygulamaları",
+      "front": "Pascal üçgeni nedir?",
+      "back": "Her satırdaki sayı, üstündeki iki sayının toplamıdır.\n\n      1\n     1 1\n    1 2 1\n   1 3 3 1\n  1 4 6 4 1\n\nC(n,r) = C(n-1,r-1) + C(n-1,r)\nBinom açılımı: (a+b)ⁿ = ΣC(n,k)·aⁿ⁻ᵏ·bᵏ"
+    },
+    {
+      "id": "sc_mat_38",
+      "subject": "Matematik",
+      "topic": "Polinomlar - Bölme",
+      "front": "Polinom bölmesinde kalan nasıl bulunur?",
+      "back": "P(x), (x-a) ile bölündüğünde kalan = P(a)\n\nÖrnek: P(x) = x³-2x+1, (x-1) ile bölümde kalan:\nP(1) = 1-2+1 = 0 → Kalan 0 (tam bölünür)\n\nP(a) = 0 ise (x-a) bir çarpandır."
+    },
+    {
+      "id": "sc_mat_39",
+      "subject": "Matematik",
+      "topic": "Matris İşlemleri",
+      "front": "Matris çarpması nasıl yapılır?",
+      "back": "A(m×n) × B(n×p) = C(m×p)\n\nSatır × Sütun: Cᵢⱼ = Σ Aᵢₖ × Bₖⱼ\n\nÖzellikler:\n- A×B ≠ B×A (değişme özelliği yok)\n- A×I = I×A = A (birim matris)\n- (AB)C = A(BC) (birleşme var)"
+    },
+    {
+      "id": "sc_mat_40",
+      "subject": "Matematik",
+      "topic": "Logaritma Özellikleri",
+      "front": "Logaritma kuralları nelerdir?",
+      "back": "log_a(x·y) = log_a(x) + log_a(y)\nlog_a(x/y) = log_a(x) - log_a(y)\nlog_a(xⁿ) = n·log_a(x)\nlog_a(a) = 1\nlog_a(1) = 0\n\nTaban değiştirme:\nlog_a(b) = log_c(b) / log_c(a)\n\nDoğal logaritma: ln(x) = log_e(x), e ≈ 2.718"
+    },
+    {
+      "id": "sc_mat_41",
+      "subject": "Matematik",
+      "topic": "Fonksiyon Türleri",
+      "front": "Birebir ve örten fonksiyon nedir?",
+      "back": "Birebir (Enjektif): Her y değerine en fazla bir x karşılık gelir\nf(x₁)=f(x₂) ise x₁=x₂\n\nÖrten (Sürjektif): Görüntü kümesi = Değer kümesi\nHer y için en az bir x vardır\n\nBirebir ve Örten = İçine fonksiyon\nTers fonksiyonu vardır"
+    },
+    {
+      "id": "sc_mat_42",
+      "subject": "Matematik",
+      "topic": "Limit Özellikleri",
+      "front": "Belirsizlik durumlarında limit nasıl hesaplanır?",
+      "back": "0/0 belirsizliği: Çarpanlara ayır, sadeleştir\n∞/∞ belirsizliği: En yüksek dereceli terime böl\n\nL'Hôpital Kuralı: lim f(x)/g(x) = lim f'(x)/g'(x)\n\nÖnemli limitler:\nlim(x→0) sinx/x = 1\nlim(x→∞) (1+1/x)ˣ = e"
+    },
+    {
+      "id": "sc_mat_43",
+      "subject": "Matematik",
+      "topic": "Trigonometri Formülleri",
+      "front": "Temel trigonometrik değerler nelerdir?",
+      "back": "sin0°=0, sin30°=1/2, sin45°=√2/2, sin60°=√3/2, sin90°=1\ncos0°=1, cos30°=√3/2, cos45°=√2/2, cos60°=1/2, cos90°=0\ntan0°=0, tan30°=√3/3, tan45°=1, tan60°=√3, tan90°=tanımsız\n\ntanx = sinx/cosx\n1+tan²x = 1/cos²x"
+    },
+    {
+      "id": "sc_mat_44",
+      "subject": "Matematik",
+      "topic": "Diziler - Geometrik",
+      "front": "Geometrik dizinin genel terimi nedir?",
+      "back": "aₙ = a₁ · rⁿ⁻¹\n\na₁: İlk terim, r: Ortak oran\n\nToplam: Sₙ = a₁(1-rⁿ)/(1-r)\n\nÖrnek: 2, 6, 18, 54...\na₁=2, r=3\na₅ = 2·3⁴ = 162"
+    },
+    {
+      "id": "sc_fiz_15",
+      "subject": "Fizik",
+      "topic": "Düzgün Doğrusal Hareket",
+      "front": "Düzgün doğrusal hareket (DDH) nedir?",
+      "back": "Hız sabit, ivme sıfır olan harekettir.\n\nx = v · t\n\nx: Yer değiştirme\nv: Sabit hız\nt: Zaman\n\nx-t grafiği: Doğru (eğim = hız)\nv-t grafiği: Yatay çizgi"
+    },
+    {
+      "id": "sc_fiz_16",
+      "subject": "Fizik",
+      "topic": "İvmeli Hareket",
+      "front": "Düzgün ivmeli hareket formülleri nelerdir?",
+      "back": "v = v₀ + a·t\nx = v₀·t + ½·a·t²\nv² = v₀² + 2·a·x\n\nv₀: Başlangıç hızı\na: İvme (sabit)\n\nİvme: Hızın zamana göre değişim oranı\na = Δv/Δt (m/s²)"
+    },
+    {
+      "id": "sc_fiz_17",
+      "subject": "Fizik",
+      "topic": "Serbest Düşme",
+      "front": "Serbest düşme hareket nedir?",
+      "back": "Sadece yerçekimi etkisinde düşen cismin hareketidir.\n\ng ≈ 9.8 m/s² (≈10 m/s²)\n\nh = ½·g·t²\nv = g·t\nv² = 2·g·h\n\nHava sürtünmesi ihmal edilir.\nKütle fark etmez, tüm cisimler aynı hızla düşer."
+    },
+    {
+      "id": "sc_fiz_18",
+      "subject": "Fizik",
+      "topic": "Sürtünme Kuvveti",
+      "front": "Sürtünme kuvveti nasıl hesaplanır?",
+      "back": "Fₛ = μ · N\n\nμ: Sürtünme katsayısı\nN: Normal kuvvet (düz yüzeyde N = m·g)\n\nStatik sürtünme: Cisim hareketsizken (μₛ)\nKinetik sürtünme: Cisim hareket halindeyken (μₖ)\nμₛ > μₖ (kaymaya başlamak daha zor)"
+    },
+    {
+      "id": "sc_fiz_19",
+      "subject": "Fizik",
+      "topic": "Eylemsizlik",
+      "front": "Newton'un 1. Yasası (Eylemsizlik) nedir?",
+      "back": "Bir cisme net kuvvet uygulanmadığında:\n- Duruyorsa durmaya devam eder\n- Hareket ediyorsa sabit hızla hareket etmeye devam eder\n\nÖrnekler:\n- Frene basınca öne savrulma\n- Otobüs hareket edince arkaya yaslanma\n- Halının silkelenmesi"
+    },
+    {
+      "id": "sc_fiz_20",
+      "subject": "Fizik",
+      "topic": "Basit Makineler - Kaldıraç",
+      "front": "Kaldıraç çeşitleri nelerdir?",
+      "back": "Moment: M = F × d (Kuvvet × Kuvvet kolu)\nDenge: F₁×d₁ = F₂×d₂\n\n1. tür: Destek ortada (tahterevalli)\n2. tür: Yük ortada (el arabası, ceviz kıracağı)\n3. tür: Kuvvet ortada (maşa, olta)\n\nKuvvet kazancı = Yük kolu / Kuvvet kolu"
+    },
+    {
+      "id": "sc_fiz_21",
+      "subject": "Fizik",
+      "topic": "Basit Makineler - Makara",
+      "front": "Makara sistemleri nasıl çalışır?",
+      "back": "Sabit Makara: Kuvvetin yönünü değiştirir, kazanç yok\nF = W\n\nHareketli Makara: Kuvvetten 2 kat kazanç\nF = W/2\n\nPalanga: n tane ip → F = W/n\n\nAltın Kural: Kuvvetten kazanılan yoldan kaybedilir\nF × d_F = W × d_W"
+    },
+    {
+      "id": "sc_fiz_22",
+      "subject": "Fizik",
+      "topic": "Kaldırma Kuvveti",
+      "front": "Arşimet prensibi nedir?",
+      "back": "Fₖ = ρ_sıvı × V_batan × g\n\nBir cismin sıvı içinde kaybettiği ağırlık, taşırdığı sıvının ağırlığına eşittir.\n\nYüzme: Fₖ > W (cisim yoğunluğu < sıvı)\nAskıda kalma: Fₖ = W\nBatma: Fₖ < W (cisim yoğunluğu > sıvı)"
+    },
+    {
+      "id": "sc_fiz_23",
+      "subject": "Fizik",
+      "topic": "Sıvı Basıncı",
+      "front": "Sıvı basıncı nasıl hesaplanır?",
+      "back": "P = ρ · g · h\n\nρ: Sıvı yoğunluğu (kg/m³)\ng: Yerçekimi ivmesi\nh: Derinlik\n\nÖzellikler:\n- Derinlik arttıkça basınç artar\n- Kabın şekline bağlı değildir\n- Aynı derinlikte her yönde eşittir\n- Sıvı yoğunluğuna bağlıdır"
+    },
+    {
+      "id": "sc_fiz_24",
+      "subject": "Fizik",
+      "topic": "Gaz Basıncı",
+      "front": "Açık hava basıncı nedir?",
+      "back": "Atmosfer basıncı: P₀ = 1 atm = 760 mmHg = 101325 Pa\n\nYükseklik arttıkça basınç azalır.\n\nKapalı kapta gaz basıncı:\nAçık uçlu manometre: P_gaz = P_atm ± ρgh\nKapalı uçlu: P_gaz = ρgh"
+    },
+    {
+      "id": "sc_fiz_25",
+      "subject": "Fizik",
+      "topic": "Ses Dalgaları",
+      "front": "Sesin özellikleri nelerdir?",
+      "back": "Ses mekanik bir dalgadır, maddesel ortam gerektirir.\nBoşlukta yayılmaz.\n\nHavada ses hızı ≈ 340 m/s\nKatılarda en hızlı > sıvılarda > gazlarda\n\nFrekans artar → ince ses\nGenlik artar → şiddetli ses\n\nDoppler etkisi: Kaynak yaklaşırken frekans artar"
+    },
+    {
+      "id": "sc_fiz_26",
+      "subject": "Fizik",
+      "topic": "Yansıma-Kırılma",
+      "front": "Snell yasası nedir?",
+      "back": "n₁ · sinθ₁ = n₂ · sinθ₂\n\nn: Kırılma indisi\nθ: Geliş/kırılma açısı\n\nYansıma: Gelme açısı = Yansıma açısı\nKırılma: Işık farklı ortama geçerken yön değiştirir\n\nYoğun ortamdan seyrek ortama: Işık normalden uzaklaşır\nTam iç yansıma: Kritik açıdan büyükse"
+    },
+    {
+      "id": "sc_fiz_27",
+      "subject": "Fizik",
+      "topic": "Dairesel Hareket",
+      "front": "Merkezcil kuvvet nedir?",
+      "back": "F = m·v²/r = m·ω²·r\n\nv: Çizgisel hız\nω: Açısal hız (rad/s)\nr: Yarıçap\n\nPeriyot: T = 2πr/v = 2π/ω\nFrekans: f = 1/T\n\nMerkezcil ivme: a = v²/r\nKuvvet merkeze yöneliktir."
+    },
+    {
+      "id": "sc_fiz_28",
+      "subject": "Fizik",
+      "topic": "Elektrik Alan",
+      "front": "Elektrik alan nedir?",
+      "back": "E = F/q = k·Q/r²\n\nk = 9×10⁹ N·m²/C²\nQ: Kaynak yük\nr: Uzaklık\n\nPozitif yükten dışa, negatif yüke doğru yönelir.\n\nDüzgün elektrik alan: E = V/d\n(Paralel plakalar arası)\n\nSüperpozisyon: Alanlar vektörel toplanır"
+    },
+    {
+      "id": "sc_fiz_29",
+      "subject": "Fizik",
+      "topic": "Manyetik Alan",
+      "front": "Manyetik kuvvet nasıl hesaplanır?",
+      "back": "F = q·v·B·sinθ\n\nq: Yük, v: Hız, B: Manyetik alan\nθ: Hız ile alan arasındaki açı\n\nSağ el kuralı: Parmaklar v yönünde, bükülünce B yönünde, başparmak F yönünü gösterir.\n\nAkım taşıyan tele etki: F = B·I·L·sinθ"
+    },
+    {
+      "id": "sc_fiz_30",
+      "subject": "Fizik",
+      "topic": "Kondansatör",
+      "front": "Kondansatör nedir?",
+      "back": "C = Q/V (Kapasite = Yük / Gerilim)\nBirim: Farad (F)\n\nEnerji: E = ½·C·V² = ½·Q·V = Q²/(2C)\n\nParalel plaka: C = ε₀·A/d\nA: Alan, d: Plakalar arası mesafe\n\nSeri bağlama: 1/C_t = 1/C₁ + 1/C₂\nParalel: C_t = C₁ + C₂"
+    },
+    {
+      "id": "sc_fiz_31",
+      "subject": "Fizik",
+      "topic": "Optik - Mercekler",
+      "front": "İnce mercek denklemi nedir?",
+      "back": "1/f = 1/u + 1/v\n\nf: Odak uzaklığı\nu: Cisim uzaklığı\nv: Görüntü uzaklığı\n\nİnce kenar (yakınsak): f > 0, toplama merceği\nKalın kenar (ıraksak): f < 0, dağıtma merceği\n\nBüyütme: m = v/u = boy_görüntü/boy_cisim"
+    },
+    {
+      "id": "sc_fiz_32",
+      "subject": "Fizik",
+      "topic": "Optik - Aynalar",
+      "front": "Ayna türleri ve özellikleri nelerdir?",
+      "back": "Düz Ayna: Görüntü sanal, dik, aynı boyda\n\nÇukur Ayna: Işınları toplar\n- F önünde cisim → gerçek, ters görüntü\n- F arkasında cisim → sanal, dik, büyük\n\nTümsek Ayna: Işınları dağıtır\n- Görüntü daima sanal, dik, küçük\n- Ayna denklemi: 1/f = 1/u + 1/v"
+    },
+    {
+      "id": "sc_fiz_33",
+      "subject": "Fizik",
+      "topic": "Atom Modelleri",
+      "front": "Bohr atom modeli nedir?",
+      "back": "1. Elektronlar belirli enerji seviyelerinde (yörüngelerde) bulunur\n2. Elektron enerji aldığında üst yörüngeye çıkar (uyarılma)\n3. Alt yörüngeye dönerken foton yayar (ışıma)\n\nEnerji: Eₙ = -13.6/n² eV (Hidrojen için)\nYörünge yarıçapı: rₙ = n²·r₁\n\nKuantum sayısı n arttıkça enerji artar"
+    },
+    {
+      "id": "sc_fiz_34",
+      "subject": "Fizik",
+      "topic": "Potansiyel Enerji",
+      "front": "Potansiyel enerji formülü nedir?",
+      "back": "Yerçekimi PE: Eₚ = m·g·h\n\nYay PE: Eₚ = ½·k·x²\nk: Yay sabiti, x: Uzama/sıkışma\n\nEnerjinin Korunumu:\nEₖ + Eₚ = sabit (sürtünme yoksa)\n½mv² + mgh = sabit\n\nSürtünme varsa: Eₖ₁ + Eₚ₁ = Eₖ₂ + Eₚ₂ + W_sürtünme"
+    },
+    {
+      "id": "sc_fiz_35",
+      "subject": "Fizik",
+      "topic": "Güç",
+      "front": "Fiziksel güç nedir?",
+      "back": "P = W/t = F·v\n\nP: Güç (Watt)\nW: İş (Joule)\nt: Zaman (saniye)\n\n1 HP (beygir gücü) = 746 W\n1 kW = 1000 W\n\nElektriksel güç: P = V·I = I²·R = V²/R"
+    },
+    {
+      "id": "sc_fiz_36",
+      "subject": "Fizik",
+      "topic": "Eğik Düzlem",
+      "front": "Eğik düzlem nasıl çalışır?",
+      "back": "Kuvvetten kazanç sağlar.\n\nCismin ağırlık bileşenleri:\nEğik düzleme paralel: F‖ = m·g·sinθ\nEğik düzleme dik: F⊥ = m·g·cosθ\n\nSürtünmesiz kayma: a = g·sinθ\nSürtünmeli: a = g(sinθ - μcosθ)\n\nKuvvet kazancı = L/h (eğik yüzey/yükseklik)"
+    },
+    {
+      "id": "sc_fiz_37",
+      "subject": "Fizik",
+      "topic": "Elektrik Devreleri",
+      "front": "Seri ve paralel bağlama farkları nelerdir?",
+      "back": "Seri Bağlama:\nR_t = R₁+R₂+R₃\nAkım her yerde aynı\nGerilim paylaşılır\n\nParalel Bağlama:\n1/R_t = 1/R₁+1/R₂+1/R₃\nGerilim her yerde aynı\nAkım paylaşılır\n\nKirchhoff Kuralları:\n1. Düğüm: ΣI_giren = ΣI_çıkan\n2. Çevrim: ΣV = 0"
+    },
+    {
+      "id": "sc_fiz_38",
+      "subject": "Fizik",
+      "topic": "Transformatör",
+      "front": "Transformatör nasıl çalışır?",
+      "back": "V₁/V₂ = N₁/N₂ = I₂/I₁\n\nN: Sarım sayısı\nV: Gerilim, I: Akım\n\nYükseltici: N₂>N₁ → Gerilim artar, akım azalır\nAlçaltıcı: N₂<N₁ → Gerilim azalır, akım artar\n\nGüç korunur: P₁ = P₂ (ideal)\nSadece AC (alternatif akım) ile çalışır"
+    },
+    {
+      "id": "sc_fiz_39",
+      "subject": "Fizik",
+      "topic": "Dalgaların Girişimi",
+      "front": "Girişim nedir?",
+      "back": "İki dalganın üst üste gelmesidir.\n\nYapıcı girişim: Dalgalar aynı fazda → Genlik artar\nYıkıcı girişim: Dalgalar zıt fazda → Genlik azalır/sıfır\n\nKoşul:\nYapıcı: Yol farkı = nλ (n=0,1,2...)\nYıkıcı: Yol farkı = (n+½)λ"
+    },
+    {
+      "id": "sc_fiz_40",
+      "subject": "Fizik",
+      "topic": "Photoelektrik Olay Detay",
+      "front": "Fotoelektrik olayda eşik frekansı nedir?",
+      "back": "Eşik frekansı (f₀): Elektron koparabilecek minimum frekans\n\nW = h·f₀ (Eşik enerjisi)\n\nf < f₀ → Elektron kopamaz (ışık şiddeti artsa bile)\nf > f₀ → Elektron kopar\n\nEₖ = h·f - W\nDurdurma gerilimi: e·V = Eₖ_max\n\nIşık şiddeti artar → Kopan elektron sayısı artar"
+    },
+    {
+      "id": "sc_fiz_41",
+      "subject": "Fizik",
+      "topic": "Isı ve Sıcaklık",
+      "front": "Isı ve sıcaklık farkı nedir?",
+      "back": "Isı: Enerji aktarımı (Q), birimi Joule veya kalori\nSıcaklık: Maddenin termal durumu (T), birimi °C veya K\n\nQ = m·c·ΔT\nm: Kütle, c: Özgül ısı, ΔT: Sıcaklık farkı\n\nHal değişimi: Q = m·L\nL: Erime/buharlaşma ısısı\n\n1 kalori = 4.18 Joule\nK = °C + 273"
+    },
+    {
+      "id": "sc_fiz_42",
+      "subject": "Fizik",
+      "topic": "Coulomb Yasası",
+      "front": "İki yük arasındaki kuvvet nasıl hesaplanır?",
+      "back": "F = k·|q₁·q₂|/r²\n\nk = 9×10⁹ N·m²/C²\nq: Yükler (Coulomb)\nr: Aralarındaki uzaklık\n\nAynı işaretli yükler: İtme\nZıt işaretli yükler: Çekme\n\nSüperpozisyon: Birden fazla yükün kuvveti vektörel toplanır"
+    },
+    {
+      "id": "sc_kim_16",
+      "subject": "Kimya",
+      "topic": "Dalton Atom Modeli",
+      "front": "Dalton atom modeli nedir?",
+      "back": "1803 - İlk bilimsel atom modeli\n\n1. Madde bölünemez atomlardan oluşur\n2. Aynı elementin atomları aynıdır\n3. Farklı elementlerin atomları farklıdır\n4. Atomlar birleşerek bileşik oluşturur\n\nEksik: Atom altı parçacıkları açıklayamaz"
+    },
+    {
+      "id": "sc_kim_17",
+      "subject": "Kimya",
+      "topic": "Thomson Atom Modeli",
+      "front": "Thomson atom modeli nedir?",
+      "back": "1897 - Üzümlü kek modeli\n\nPozitif yüklü küre içinde negatif elektronlar gömülüdür.\nElektronun keşfi (katot ışınları deneyi)\n\nÖnemi: Atomun bölünebilir olduğunu gösterdi\nEksik: Çekirdeği açıklayamaz"
+    },
+    {
+      "id": "sc_kim_18",
+      "subject": "Kimya",
+      "topic": "Rutherford Atom Modeli",
+      "front": "Rutherford atom modeli nedir?",
+      "back": "1911 - Alfa saçılma deneyi\n\nSonuçlar:\n1. Atomun merkezinde küçük, yoğun, pozitif çekirdek var\n2. Elektronlar çekirdeğin etrafında döner\n3. Atomun büyük kısmı boşluktur\n\nEksik: Elektronun neden çekirdeğe düşmediğini açıklayamaz"
+    },
+    {
+      "id": "sc_kim_19",
+      "subject": "Kimya",
+      "topic": "Madde Sınıflandırması",
+      "front": "Madde nasıl sınıflandırılır?",
+      "back": "Saf Madde:\n- Element: Tek tür atom (Fe, O₂, Au)\n- Bileşik: Farklı atomların bağlanması (H₂O, NaCl)\n\nKarışım:\n- Homojen: Her yeri aynı (tuzlu su, hava, alaşım)\n- Heterojen: Her yeri farklı (kum-su, salata)\n\nAyırma: Damıtma, süzme, kristallendirme"
+    },
+    {
+      "id": "sc_kim_20",
+      "subject": "Kimya",
+      "topic": "Homojen Karışımlar",
+      "front": "Çözelti nedir ve türleri nelerdir?",
+      "back": "Çözelti = Çözücü + Çözünen (homojen karışım)\n\nTürleri:\n- Katı-sıvı: Tuzlu su\n- Sıvı-sıvı: Alkollü su\n- Gaz-sıvı: Gazoz\n- Katı-katı: Alaşım (bronz, pirinç)\n- Gaz-gaz: Hava\n\nDoymuş: Daha fazla çözünemez\nAşırı doymuş: Normalden fazla çözünmüş"
+    },
+    {
+      "id": "sc_kim_21",
+      "subject": "Kimya",
+      "topic": "Heterojen Karışımlar",
+      "front": "Heterojen karışım türleri nelerdir?",
+      "back": "Süspansiyon: Katı-sıvı (tebeşir tozu-su)\n- Parçacıklar büyük, dibe çöker\n\nEmülsiyon: Sıvı-sıvı (yağ-su)\n- Çalkalanınca karışır, bekleyince ayrılır\n\nKolloit: Ara boy parçacıklar (süt, sis, duman)\n- Tyndall etkisi gösterir (ışığı dağıtır)"
+    },
+    {
+      "id": "sc_kim_22",
+      "subject": "Kimya",
+      "topic": "Fiziksel-Kimyasal Değişim",
+      "front": "Fiziksel ve kimyasal değişim farkı nedir?",
+      "back": "Fiziksel Değişim:\n- Maddenin yapısı değişmez\n- Hal değişimi, çözünme, ufalanma\n- Geri dönüşümlü\n\nKimyasal Değişim:\n- Maddenin yapısı değişir, yeni madde oluşur\n- Yanma, paslanma, çürüme, ekşime\n- Genelde geri dönüşümsüz\n\nBelirtiler: Renk, koku, gaz, çökelti oluşumu"
+    },
+    {
+      "id": "sc_kim_23",
+      "subject": "Kimya",
+      "topic": "Lewis Yapısı",
+      "front": "Lewis elektron nokta yapısı nasıl çizilir?",
+      "back": "1. Toplam değerlik elektronlarını say\n2. Merkez atomu belirle (en az elektronegatif)\n3. Atomlar arası bağları çiz (her bağ = 2e⁻)\n4. Kalan elektronları ortaklanmamış çift olarak yerleştir\n5. Oktet kuralını kontrol et\n\nÖrnek: H₂O → O merkez, 2 bağ + 2 ortaklanmamış çift"
+    },
+    {
+      "id": "sc_kim_24",
+      "subject": "Kimya",
+      "topic": "Molekül Geometrisi",
+      "front": "VSEPR kuramına göre molekül şekilleri nelerdir?",
+      "back": "Bağ çifti + Ortaklanmamış çift sayısına göre:\n\n2 bağ, 0 çift → Doğrusal (CO₂, 180°)\n3 bağ, 0 çift → Düzlem üçgen (BF₃, 120°)\n4 bağ, 0 çift → Tetrahedral (CH₄, 109.5°)\n3 bağ, 1 çift → Üçgen piramit (NH₃, 107°)\n2 bağ, 2 çift → Bükülmüş (H₂O, 104.5°)"
+    },
+    {
+      "id": "sc_kim_25",
+      "subject": "Kimya",
+      "topic": "Elektrokimya - Pil",
+      "front": "Galvanik (voltaik) pil nasıl çalışır?",
+      "back": "Kimyasal enerji → Elektrik enerjisi\n\nAnot (-): Yükseltgenme (elektron verir)\nKatot (+): İndirgenme (elektron alır)\nTuz köprüsü: İyon dengesini sağlar\n\nE°_pil = E°_katot - E°_anot\n\nÖrnek: Zn-Cu pili\nAnot: Zn → Zn²⁺ + 2e⁻\nKatot: Cu²⁺ + 2e⁻ → Cu"
+    },
+    {
+      "id": "sc_kim_26",
+      "subject": "Kimya",
+      "topic": "Elektroliz",
+      "front": "Elektroliz nedir?",
+      "back": "Elektrik enerjisi → Kimyasal değişim\n(Kendiliğinden olmayan tepkime zorlanır)\n\nKatot (-): İndirgenme\nAnot (+): Yükseltgenme\n\nFaraday Yasası: m = (M·I·t)/(n·F)\nF = 96500 C/mol\n\nÖrnekler: Su elektrolizi, metal kaplama, alüminyum üretimi"
+    },
+    {
+      "id": "sc_kim_27",
+      "subject": "Kimya",
+      "topic": "Alkanlar",
+      "front": "Alkanlar nedir?",
+      "back": "Genel formül: CₙH₂ₙ₊₂\nTek bağlı (doymuş) hidrokarbonlar\n\nCH₄: Metan\nC₂H₆: Etan\nC₃H₈: Propan\nC₄H₁₀: Bütan\n\nÖzellikleri:\n- Yanma tepkimesi verir\n- Yer değiştirme (halojenasyon)\n- İlk 4'ü gaz, 5-17 sıvı, 18+ katı"
+    },
+    {
+      "id": "sc_kim_28",
+      "subject": "Kimya",
+      "topic": "Alkenler",
+      "front": "Alkenler nedir?",
+      "back": "Genel formül: CₙH₂ₙ\nÇift bağlı (doymamış) hidrokarbonlar\n\nC₂H₄: Etilen (en basit alken)\nC₃H₆: Propilen\n\nÖzellikleri:\n- Katılma tepkimesi verir (H₂, HCl, H₂O, X₂)\n- Polimerizasyon (polietilen)\n- Markovnikov kuralı: H az H'lu karbona eklenir\n- cis-trans izomeri gösterir"
+    },
+    {
+      "id": "sc_kim_29",
+      "subject": "Kimya",
+      "topic": "Alkinler",
+      "front": "Alkinler nedir?",
+      "back": "Genel formül: CₙH₂ₙ₋₂\nÜçlü bağlı hidrokarbonlar\n\nC₂H₂: Asetilen (en basit alkin)\n- Kaynak işlerinde kullanılır\n- Yanıcıdır\n\n1 mol alkin + 1 mol H₂ → Alken\n1 mol alkin + 2 mol H₂ → Alkan"
+    },
+    {
+      "id": "sc_kim_30",
+      "subject": "Kimya",
+      "topic": "Alkoller",
+      "front": "Alkol nedir?",
+      "back": "-OH (hidroksil) grubu taşıyan organik bileşikler\n\nBirincil (1°): OH uç karbonda (CH₃OH metanol)\nİkincil (2°): OH iç karbonda\nÜçüncül (3°): OH 3 karbona bağlı karbonda\n\nMetanol (CH₃OH): Zehirli\nEtanol (C₂H₅OH): İçeceklerde\nGliserol: 3 OH'lu, kozmetikte"
+    },
+    {
+      "id": "sc_kim_31",
+      "subject": "Kimya",
+      "topic": "Karboksilik Asitler",
+      "front": "Karboksilik asit nedir?",
+      "back": "-COOH grubu taşıyan bileşikler\n\nFormik asit (HCOOH): Karınca asidi\nAsetik asit (CH₃COOH): Sirke asidi\nSitrik asit: Limon\nLaktik asit: Süt asidi\n\nÖzellikleri:\n- Zayıf asitlerdir\n- Metallerle tuz oluşturur\n- Alkollerle ester oluşturur"
+    },
+    {
+      "id": "sc_kim_32",
+      "subject": "Kimya",
+      "topic": "Esterler",
+      "front": "Ester nasıl oluşur?",
+      "back": "Asit + Alkol → Ester + Su (Esterleşme)\n\nCH₃COOH + C₂H₅OH → CH₃COOC₂H₅ + H₂O\n(Asetik asit + Etanol → Etil asetat + Su)\n\nÖzellikleri:\n- Hoş kokulu bileşikler\n- Meyve kokularının kaynağı\n- Parfüm ve gıda sanayisinde kullanılır\n- Sabunlaşma: Ester + NaOH → Sabun + Gliserol"
+    },
+    {
+      "id": "sc_kim_33",
+      "subject": "Kimya",
+      "topic": "Reaksiyon Hızı",
+      "front": "Reaksiyon hızını etkileyen faktörler nelerdir?",
+      "back": "1. Sıcaklık: Arttıkça hız artar (10°C artış ≈ 2-3 kat)\n2. Derişim: Arttıkça hız artar\n3. Yüzey alanı: Arttıkça hız artar (toz > kütle)\n4. Katalizör: Aktivasyon enerjisini düşürür, hızı artırır\n5. Maddenin cinsi\n\nAktivasyonEnerjisi (Ea): Tepkimenin başlaması için gereken minimum enerji"
+    },
+    {
+      "id": "sc_kim_34",
+      "subject": "Kimya",
+      "topic": "Entalpi",
+      "front": "Entalpi (ΔH) nedir?",
+      "back": "Sabit basınçta ısı değişimi\n\nΔH < 0 → Ekzotermik (ısı verir)\nΔH > 0 → Endotermik (ısı alır)\n\nHess Yasası: Toplam entalpi değişimi yoldan bağımsızdır.\n\nStandart oluşum entalpisi: ΔH°f\nYanma entalpisi: ΔH°c\n\nBağ enerjisi: Bağı koparmak için gereken enerji"
+    },
+    {
+      "id": "sc_kim_35",
+      "subject": "Kimya",
+      "topic": "Entropi",
+      "front": "Entropi (S) nedir?",
+      "back": "Düzensizlik ölçüsü\n\nΔS > 0 → Düzensizlik artar (kendiliğinden olma eğilimi)\nΔS < 0 → Düzensizlik azalır\n\nSıra: Katı < Sıvı < Gaz (entropi artışı)\n\nGibbs Serbest Enerjisi:\nΔG = ΔH - TΔS\nΔG < 0 → Kendiliğinden olur\nΔG > 0 → Kendiliğinden olmaz"
+    },
+    {
+      "id": "sc_kim_36",
+      "subject": "Kimya",
+      "topic": "Radyoaktivite",
+      "front": "Radyoaktif bozunma türleri nelerdir?",
+      "back": "Alfa (α): ⁴₂He çekirdeği yayılır\nKütle no: -4, Atom no: -2\n\nBeta (β): Elektron yayılır\nKütle no: değişmez, Atom no: +1\n\nGama (γ): Yüksek enerjili ışın\nKütle ve atom no değişmez\n\nYarı ömür (t₁/₂): Maddenin yarısının bozunma süresi\nN = N₀ × (1/2)^(t/t₁/₂)"
+    },
+    {
+      "id": "sc_kim_37",
+      "subject": "Kimya",
+      "topic": "Molarite",
+      "front": "Molarite nasıl hesaplanır?",
+      "back": "M = n/V (mol/L)\n\nn: Çözünenin mol sayısı\nV: Çözeltinin hacmi (Litre)\n\nSeyreltme: M₁V₁ = M₂V₂\n\nÖrnek: 0.5 mol NaCl 2 L suda\nM = 0.5/2 = 0.25 M"
+    },
+    {
+      "id": "sc_kim_38",
+      "subject": "Kimya",
+      "topic": "İyonik Bağ",
+      "front": "İyonik bağ nedir?",
+      "back": "Metal + Ametal arasında oluşur\nElektron transferi ile\n\nMetal elektron verir → Katyon (+)\nAmetal elektron alır → Anyon (-)\n\nÖzellikleri:\n- Kristal yapı, sert ve kırılgan\n- Yüksek erime-kaynama noktası\n- Katı halde iletmez, çözeltide/sıvıda iletir\n- Örnek: NaCl, MgO, CaF₂"
+    },
+    {
+      "id": "sc_kim_39",
+      "subject": "Kimya",
+      "topic": "Kimyasal Denge Sabiti",
+      "front": "Denge sabiti (Kc) nasıl hesaplanır?",
+      "back": "aA + bB ⇌ cC + dD\n\nKc = [C]ᶜ[D]ᵈ / [A]ᵃ[B]ᵇ\n\nKc büyük → Ürünler tarafına kayık\nKc küçük → Girenler tarafına kayık\nKc = 1 → Dengede eşit\n\nKatı ve saf sıvılar Kc ifadesine yazılmaz.\nSıcaklık değişirse Kc değişir.\nKatalizör Kc'yi değiştirmez."
+    },
+    {
+      "id": "sc_kim_40",
+      "subject": "Kimya",
+      "topic": "Asit-Baz Teorileri",
+      "front": "Asit-baz tanımları nelerdir?",
+      "back": "Arrhenius:\nAsit: H⁺ verir (HCl → H⁺ + Cl⁻)\nBaz: OH⁻ verir (NaOH → Na⁺ + OH⁻)\n\nBrønsted-Lowry:\nAsit: Proton (H⁺) vericisi\nBaz: Proton (H⁺) alıcısı\n\nLewis:\nAsit: Elektron çifti alıcısı\nBaz: Elektron çifti vericisi\n\npH = -log[H⁺]\npOH = -log[OH⁻]\npH + pOH = 14"
+    },
+    {
+      "id": "sc_bio_15",
+      "subject": "Biyoloji",
+      "topic": "Mitoz Bölünme",
+      "front": "Mitoz bölünme evreleri nelerdir?",
+      "back": "Profaz: Kromatin iplikçikleri kısalıp kalınlaşarak kromozom halini alır. Çekirdek zarı erir.\nMetafaz: Kromozomlar hücrenin ortasına (ekvatora) dizilir.\nAnafaz: Kardeş kromatitler ayrılarak kutuplara çekilir.\nTelofaz: Çekirdek zarı yeniden oluşur, sitoplazma bölünür.\n\nAmaç: Büyüme, onarım, eşeysiz üreme\nSonuç: 2n → 2n (kromozom sayısı değişmez)"
+    },
+    {
+      "id": "sc_bio_16",
+      "subject": "Biyoloji",
+      "topic": "Mayoz Bölünme",
+      "front": "Mayoz bölünme neden önemlidir?",
+      "back": "Mayoz I: Homolog kromozomlar ayrılır (2n → n)\n- Crossing over (krossing over): Homolog kromozomlar parça değiştirir → Genetik çeşitlilik\n- Bağımsız dağılım: Kromozomlar rastgele kutuplara gider\n\nMayoz II: Kardeş kromatitler ayrılır (n → n)\n\nSonuç: 1 hücreden 4 haploid (n) hücre\nÜreme hücreleri (gamet) oluşturur\nGenetik çeşitliliği sağlar"
+    },
+    {
+      "id": "sc_bio_17",
+      "subject": "Biyoloji",
+      "topic": "Canlıların Sınıflandırılması",
+      "front": "5 âlem sınıflandırması nedir?",
+      "back": "1. Monera: Prokaryot (bakteri, arkeler). Çekirdeksiz.\n2. Protista: Ökaryot, tek hücreli (amip, öglena, paramesyum)\n3. Mantarlar (Fungi): Çürükçül beslenme, hif yapısı (maya, küf, mantar)\n4. Bitkiler (Plantae): Fotosentez, çok hücreli, hücre duvarı (selüloz)\n5. Hayvanlar (Animalia): Heterotrof, çok hücreli, hücre duvarı yok\n\nSınıflandırma sırası: Âlem > Şube > Sınıf > Takım > Familya > Cins > Tür"
+    },
+    {
+      "id": "sc_bio_18",
+      "subject": "Biyoloji",
+      "topic": "Virüsler",
+      "front": "Virüslerin özellikleri nelerdir?",
+      "back": "Canlı-cansız arası varlıklar\n\nYapı: DNA veya RNA + protein kılıf (kapsit)\nHücre dışında cansız (kristalleşir)\nHücre içinde çoğalır (zorunlu hücre içi paraziti)\n\nÖrnekler: Grip, HIV, COVID-19, kuduz\nBakteriyofaj: Bakterileri enfekte eden virüs\n\nAntibiyotik etkisizdir! Aşı ile önlenir."
+    },
+    {
+      "id": "sc_bio_19",
+      "subject": "Biyoloji",
+      "topic": "Bakteriler",
+      "front": "Bakteri özellikleri nelerdir?",
+      "back": "Prokaryot (çekirdeksiz), tek hücreli\nHücre duvarı: Peptidoglikan\n\nGram (+): Kalın peptidoglikan (mor boyanır)\nGram (-): İnce peptidoglikan (pembe boyanır)\n\nÜreme: İkiye bölünme (eşeysiz), konjugasyon (gen aktarımı)\nBeslenme: Ototrof veya heterotrof\n\nYararlılar: Sindirim, fermantasyon, azot fiksasyonu\nZararlılar: Hastalık yapıcı (patojen)\nAntibiyotik ile tedavi edilir"
+    },
+    {
+      "id": "sc_bio_20",
+      "subject": "Biyoloji",
+      "topic": "Bitkisel Dokular",
+      "front": "Bitkisel doku türleri nelerdir?",
+      "back": "Meristem Doku: Bölünme yeteneğinde\n- Uç meristem: Boyuna uzama\n- Yanal meristem (kambiyum): Enine kalınlaşma\n\nTemel Doku:\n- Parankima: Fotosentez, depolama\n- Kollenkima: Esnek destek (canlı)\n- Sklerankima: Sert destek (ölü)\n\nİletim Doku:\n- Ksilem: Su ve mineral taşır (yukarı)\n- Floem: Organik besin taşır (aşağı)"
+    },
+    {
+      "id": "sc_bio_21",
+      "subject": "Biyoloji",
+      "topic": "Hayvansal Dokular",
+      "front": "Hayvansal doku türleri nelerdir?",
+      "back": "1. Epitel Doku: Vücudu ve organları örter, salgı yapar\n2. Bağ Doku: Destek, bağlama\n   - Gevşek, sıkı bağ doku\n   - Kıkırdak, kemik\n   - Kan, lenf\n   - Yağ doku\n3. Kas Doku:\n   - Düz kas: İç organlar (istemsiz)\n   - Çizgili kas: İskelet kasları (istemli)\n   - Kalp kası: Sadece kalpte (istemsiz, çizgili)\n4. Sinir Doku: Uyarı iletimi (nöron)"
+    },
+    {
+      "id": "sc_bio_22",
+      "subject": "Biyoloji",
+      "topic": "Endokrin Sistem",
+      "front": "Önemli hormonlar ve görevleri nelerdir?",
+      "back": "Hipofiz: Büyüme hormonu (GH), TSH, FSH, LH, ADH, oksitosin\nTiroid: Tiroksin (metabolizma hızı), kalsitonin (Ca düşürür)\nParatiroid: Parathormon (Ca artırır)\nPankreas:\n- İnsülin: Kan şekerini düşürür\n- Glukagon: Kan şekerini artırır\nBöbreküstü: Adrenalin (stres), kortizol, aldosteron\nÜreme: Östrojen, progesteron (kadın), testosteron (erkek)"
+    },
+    {
+      "id": "sc_bio_23",
+      "subject": "Biyoloji",
+      "topic": "Boşaltım Sistemi",
+      "front": "Nefron nasıl çalışır?",
+      "back": "Nefron: Böbreğin yapısal ve işlevsel birimi\n\n1. Glomerulus: Kanın süzülmesi (küçük moleküller geçer)\n2. Bowman kapsülü: Süzüntüyü toplar\n3. Proksimal tüp: Glikoz, aminoasit, su geri emilir\n4. Henle kulpu: Su ve tuz geri emilimi\n5. Distal tüp: İnce ayar (hormon kontrolünde)\n6. Toplayıcı kanal: ADH etkisiyle su geri emilimi\n\nGünde ~180 L süzülür, ~1.5 L idrar oluşur"
+    },
+    {
+      "id": "sc_bio_24",
+      "subject": "Biyoloji",
+      "topic": "Mendel Genetiği",
+      "front": "Mendel'in kalıtım yasaları nelerdir?",
+      "back": "1. Baskınlık Yasası: Heterozigotta baskın allel kendini gösterir (Aa → baskın fenotip)\n\n2. Ayrılma (Segregasyon) Yasası: Alleller gamet oluşumunda birbirinden ayrılır\n\n3. Bağımsız Dağılım Yasası: Farklı genlerin allelleri bağımsız dağılır (farklı kromozomdaysa)\n\nP: Anne-baba, F1: 1. nesil, F2: 2. nesil\nTek melez: Aa × Aa → 3:1 fenotip\nÇift melez: AaBb × AaBb → 9:3:3:1"
+    },
+    {
+      "id": "sc_bio_25",
+      "subject": "Biyoloji",
+      "topic": "Genotip-Fenotip",
+      "front": "Genotip ve fenotip nedir?",
+      "back": "Genotip: Genetik yapı (AA, Aa, aa)\nFenotip: Dış görünüm (uzun, kısa)\n\nHomozigot (arı döl): AA veya aa\nHeterozigot (melez): Aa\n\nBaskın allel: Büyük harf (A)\nÇekinik allel: Küçük harf (a)\n\nEksik baskınlık: Aa ara fenotip (kırmızı × beyaz → pembe)\nKodominans: Her iki allel de ifade edilir (AB kan grubu)"
+    },
+    {
+      "id": "sc_bio_26",
+      "subject": "Biyoloji",
+      "topic": "Kan Grubu Kalıtımı",
+      "front": "Kan grubu nasıl kalıtılır?",
+      "back": "3 allel: Iᴬ, Iᴮ, i\n\nA grubu: IᴬIᴬ veya Iᴬi\nB grubu: IᴮIᴮ veya Iᴮi\nAB grubu: IᴬIᴮ (kodominans)\n0 grubu: ii\n\nRh faktörü: Rh⁺ baskın, Rh⁻ çekinik\n\nEvrensel verici: 0 Rh⁻\nEvrensel alıcı: AB Rh⁺"
+    },
+    {
+      "id": "sc_bio_27",
+      "subject": "Biyoloji",
+      "topic": "Genetik Mühendisliği",
+      "front": "Genetik mühendisliği teknikleri nelerdir?",
+      "back": "1. Restriksiyon enzimleri: DNA'yı belirli noktalardan keser\n2. DNA ligaz: DNA parçalarını birleştirir\n3. PCR: DNA'yı çoğaltma (polimeraz zincir reaksiyonu)\n4. Gel elektroforezi: DNA parçalarını boyutlarına göre ayırma\n5. Plazmid: Bakteri DNA'sına gen ekleme aracı\n\nUygulama: GDO, gen tedavisi, insülin üretimi, DNA parmak izi"
+    },
+    {
+      "id": "sc_bio_28",
+      "subject": "Biyoloji",
+      "topic": "Evrim",
+      "front": "Evrim teorileri nelerdir?",
+      "back": "Lamarck: Kullanılan organ gelişir, kullanılmayan körelir (edinilmiş özellikler kalıtılır) → YANLIŞ\n\nDarwin - Doğal Seçilim:\n1. Popülasyonda varyasyon vardır\n2. Kaynaklar sınırlıdır → Yaşam mücadelesi\n3. Uyum sağlayanlar hayatta kalır\n4. Avantajlı özellikler sonraki nesle aktarılır\n\nKanıtlar: Fosiller, homolog organlar, embriyoloji, biyokimya"
+    },
+    {
+      "id": "sc_bio_29",
+      "subject": "Biyoloji",
+      "topic": "Popülasyon Genetiği",
+      "front": "Hardy-Weinberg dengesi nedir?",
+      "back": "p² + 2pq + q² = 1\np + q = 1\n\np: Baskın allel frekansı\nq: Çekinik allel frekansı\np²: Homozigot baskın\n2pq: Heterozigot\nq²: Homozigot çekinik\n\nDenge koşulları: Büyük popülasyon, rastgele çiftleşme, mutasyon yok, göç yok, doğal seçilim yok"
+    },
+    {
+      "id": "sc_bio_30",
+      "subject": "Biyoloji",
+      "topic": "Bitki Fizyolojisi",
+      "front": "Bitkilerde su taşınması nasıolur?",
+      "back": "Transpirasyon (terleme): Yapraklardan su kaybı\n→ Çekme kuvveti oluşturur\n\nKohezyon-Adezyon:\nKohezyon: Su molekülleri arası çekim\nAdezyon: Su-ksilem duvarı arası çekim\n\nKök basıncı: Köklerden yukarı iten kuvvet\n\nStomalar: Gaz alışverişi, terlemeyi kontrol eder\nAçılma: Bekçi hücreler su alır, şişer\nKapanma: Su kaybeder, büzülür"
+    },
+    {
+      "id": "sc_bio_31",
+      "subject": "Biyoloji",
+      "topic": "Komünite Ekolojisi",
+      "front": "Canlılar arası ilişki türleri nelerdir?",
+      "back": "Mutualizm (+/+): Her iki tür yararlanır (arı-çiçek)\nKommensalizm (+/0): Biri yararlanır, diğeri etkilenmez (köpekbalığı-yapışkan balık)\nParazitizm (+/-): Biri yararlanır, diğeri zarar görür (bit, kene)\nAv-Avcı (+/-): Avcı avını yer (aslan-zebra)\nRekabet (-/-): Aynı kaynaklar için yarışma\nAmensalizm (-/0): Biri zarar görür, diğeri etkilenmez"
+    },
+    {
+      "id": "sc_bio_32",
+      "subject": "Biyoloji",
+      "topic": "Embriyonik Gelişim",
+      "front": "Embriyonik gelişim aşamaları nelerdir?",
+      "back": "1. Zigot: Döllenmiş yumurta (2n)\n2. Morula: 16-32 hücreli top\n3. Blastula: İçi boş küre (blastosöl)\n4. Gastrula: 3 tabaka oluşur\n   - Ektoderm: Deri, sinir sistemi\n   - Mezoderm: Kas, iskelet, dolaşım, boşaltım\n   - Endoderm: Sindirim, solunum organları\n5. Organogenez: Organlar oluşur"
+    },
+    {
+      "id": "sc_bio_33",
+      "subject": "Biyoloji",
+      "topic": "Üreme Sistemi",
+      "front": "İnsan üreme sistemi nasıl çalışır?",
+      "back": "Erkek: Testis → Sperm üretimi (testosteron hormonu)\nEpididimis → Sperm olgunlaşması\nVas deferens → Sperm taşınması\n\nKadın: Yumurtalık → Yumurta üretimi (östrojen, progesteron)\nTüp (fallop): Döllenme yeri\nRahim (uterus): Embriyo gelişimi\n\nMenstrüasyon döngüsü: ~28 gün\nOvülasyon: ~14. gün yumurta serbest bırakılır"
+    },
+    {
+      "id": "sc_bio_34",
+      "subject": "Biyoloji",
+      "topic": "Fotosentez Detay",
+      "front": "Fotosentezin aşamaları nelerdir?",
+      "back": "Işığa Bağımlı Tepkimeler (Tilakoid zarında):\n- Su parçalanır (fotoliz): H₂O → O₂ + H⁺ + e⁻\n- ATP ve NADPH üretilir\n\nIşıktan Bağımsız (Calvin Döngüsü - Stromada):\n- CO₂ tutulur (karbondioksit fiksasyonu)\n- ATP ve NADPH kullanılır\n- Glikoz (C₆H₁₂O₆) sentezlenir\n\nFotosentez hızını etkileyen: Işık, CO₂, sıcaklık, su"
+    },
+    {
+      "id": "sc_bio_35",
+      "subject": "Biyoloji",
+      "topic": "Sinir Sistemi Detay",
+      "front": "Nöron yapısı ve sinaps nasıl çalışır?",
+      "back": "Nöron: Dendrit → Hücre gövdesi → Akson → Akson ucu\n\nMiyelin kılıf: Aksonı saran yalıtkan tabaka, iletimi hızlandırır\nRanvier boğumu: Miyelin arası boşluklar, sıçramalı iletim\n\nSinaps: İki nöron arası bağlantı\n1. İmpuls akson ucuna ulaşır\n2. Sinaptik veziküller nörotransmitter salgılar\n3. Nörotransmitter reseptöre bağlanır\n4. Yeni impuls başlar\n\nÖrnekler: Asetilkolin, dopamin, serotonin"
+    },
+    {
+      "id": "sc_bio_36",
+      "subject": "Biyoloji",
+      "topic": "Bağışıklık Sistemi",
+      "front": "Bağışıklık türleri nelerdir?",
+      "back": "Doğal (Doğuştan) Bağışıklık:\n- Deri, mukoza, mide asidi (fiziksel bariyer)\n- Fagositoz, enflamasyon, ateş\n- Özgül değil\n\nEdinilmiş (Kazanılmış) Bağışıklık:\n- T lenfositler: Hücresel bağışıklık\n- B lenfositler: Antikor üretimi (humoral)\n- Bellek hücreleri: Aynı mikroba hızlı yanıt\n\nAktif: Aşı veya hastalık geçirme\nPasif: Hazır antikor verilmesi (anne sütü, serum)"
+    },
+    {
+      "id": "sc_tar_15",
+      "subject": "Tarih",
+      "topic": "İlk Türk Devletleri - Hunlar",
+      "front": "Asya Hun Devleti hakkında neler bilinir?",
+      "back": "Bilinen ilk Türk devleti\nKurucusu: Teoman\nEn parlak dönem: Mete Han (MÖ 209)\n\nMete Han:\n- Onlu (desimal) askeri sistemi kurdu\n- Orta Asya'yı birleştirdi\n- Çin'e üstünlük sağladı\n\nÖnemi: Türk devlet geleneğinin temeli\nYıkılış: İç çekişmeler, Çin baskısı → Kuzey-Güney olarak ikiye ayrıldı"
+    },
+    {
+      "id": "sc_tar_16",
+      "subject": "Tarih",
+      "topic": "İlk Türk Devletleri - Göktürkler",
+      "front": "Göktürk Devleti'nin önemi nedir?",
+      "back": "552'de kuruldu (Bumin Kağan)\nTürk adını kullanan ilk devlet\n\nOrhun (Göktürk) Yazıtları (8. yy):\n- Bilge Kağan, Kül Tigin, Tonyukuk yazıtları\n- Türk tarihinin ve edebiyatının ilk yazılı belgeleri\n- 38 harfli alfabe\n\nÖnemi:\n- İlk Türk alfabesi\n- Türk adının geçtiği ilk belgeler\n- Millete seslenen ilk eserler"
+    },
+    {
+      "id": "sc_tar_17",
+      "subject": "Tarih",
+      "topic": "İlk Türk Devletleri - Uygurlar",
+      "front": "Uygurların Türk tarihindeki yeri nedir?",
+      "back": "744-840 yılları arası\nYerleşik hayata geçen ilk Türk devleti\n\nÖzellikleri:\n- Maniheizm ve Budizm'i benimsediler\n- Matbaayı kullanan ilk Türk topluluğu\n- 18 harfli Uygur alfabesi\n- Tarım ve ticaretle uğraştılar\n- Şehir kültürü geliştirdiler\n\nKültürel mirası çok zengindir: Minyatür, fresk, el yazmaları"
+    },
+    {
+      "id": "sc_tar_18",
+      "subject": "Tarih",
+      "topic": "Karahanlılar",
+      "front": "Karahanlılar neden önemlidir?",
+      "back": "840-1212\nİlk Müslüman Türk devleti (Satuk Buğra Han 920)\n\nÖnemli eserler:\n1. Kutadgu Bilig (Yusuf Has Hacib, 1069): Mutluluk veren bilgi, siyasetname\n2. Divan-ı Lügati't Türk (Kaşgarlı Mahmud, 1072): İlk Türkçe sözlük\n3. Atabetü'l Hakayık (Edib Ahmed Yükneki): Ahlak kitabı\n4. Divan-ı Hikmet (Ahmet Yesevi): Tasavvuf şiirleri\n\nTürk-İslam sentezinin başlangıcı"
+    },
+    {
+      "id": "sc_tar_19",
+      "subject": "Tarih",
+      "topic": "Büyük Selçuklu",
+      "front": "Büyük Selçuklu Devleti'nin önemi nedir?",
+      "back": "1040-1157\nKurucu: Tuğrul Bey\nEn parlak dönem: Alparslan ve Melikşah\n\nMalazgirt Savaşı (1071):\n- Alparslan × Bizans İmparatoru Romen Diyojen\n- Anadolu'nun kapıları Türklere açıldı\n\nNizamiye Medreseleri: İlk düzenli eğitim kurumları\nNizamülmülk: Ünlü vezir, Siyasetname yazarı\n\nBüyük Selçuklu → Anadolu Selçuklu → Osmanlı zinciri"
+    },
+    {
+      "id": "sc_tar_20",
+      "subject": "Tarih",
+      "topic": "Anadolu Selçuklu",
+      "front": "Anadolu Selçuklu Devleti'nin özellikleri nelerdir?",
+      "back": "1077-1308\nKurucu: Süleyman Şah\nBaşkent: Konya\n\nÖzellikleri:\n- Kervansaraylar (ticaret yolları güvenliği)\n- İpek Yolu ticareti\n- Medreseler, camiler, darüşşifalar\n\nKösedağ Savaşı (1243): Moğollara yenildi\n→ Moğol egemenliğine girdi\n→ Anadolu'da beylikler dönemi başladı\n→ Bu beyliklerden biri: Osmanlı Beyliği"
+    },
+    {
+      "id": "sc_tar_21",
+      "subject": "Tarih",
+      "topic": "Osmanlı Kuruluş",
+      "front": "Osmanlı kuruluş dönemi (1299-1453) özellikleri?",
+      "back": "Osman Bey (1299): Beylikten devlete\nOrhan Bey: İlk akçe, ilk medrese, ilk vezir atadı, Bursa başkent\nI. Murad: Devşirme, Yeniçeri Ocağı, Kosova Zaferi (1389)\nI. Bayezid (Yıldırım): Ankara Savaşı (1402) → Fetret Devri\nI. Mehmed (Çelebi): Fetret Devri'ni bitirdi\nII. Murad: Varna (1444), II. Kosova (1448) zaferleri"
+    },
+    {
+      "id": "sc_tar_22",
+      "subject": "Tarih",
+      "topic": "Osmanlı Yükselme",
+      "front": "Osmanlı yükselme dönemi hangi padişahları kapsar?",
+      "back": "Fatih Sultan Mehmed (1453): İstanbul'un fethi → Orta Çağ bitti\n- Kardeş katli yasası (Kanunname)\n\nYavuz Sultan Selim:\n- Çaldıran (1514): Safeviler\n- Mercidabık-Ridaniye (1516-17): Memlükler\n- Halifelik Osmanlı'ya geçti\n\nKanuni Sultan Süleyman (46 yıl):\n- Mohaç (1526), Viyana Kuşatması (1529)\n- Preveze Deniz Zaferi (1538)\n- En geniş sınırlar"
+    },
+    {
+      "id": "sc_tar_23",
+      "subject": "Tarih",
+      "topic": "Osmanlı Duraklama",
+      "front": "Duraklama dönemi (1579-1699) neden yaşandı?",
+      "back": "İç nedenler:\n- Padişahların yetiştirilme sorunu\n- Devşirme sisteminin bozulması\n- Tımar sisteminin bozulması\n- Yeniçerilerin bozulması (ocak me devlet)\n\nDış nedenler:\n- Avrupa'nın bilimsel-teknolojik gelişimi\n- Coğrafi keşifler → Ticaret yolları değişti\n\nKöprülüler Devri: Geçici toparlanma\nKarlofça Antlaşması (1699): İlk büyük toprak kaybı"
+    },
+    {
+      "id": "sc_tar_24",
+      "subject": "Tarih",
+      "topic": "Tanzimat Fermanı",
+      "front": "Tanzimat Fermanı (1839) nedir?",
+      "back": "Gülhane Hatt-ı Şerifi\nSultan Abdülmecid döneminde\nMustafa Reşit Paşa tarafından okundu\n\nÖnemli maddeleri:\n- Can, mal, namus güvencesi\n- Vergi adaleti\n- Askere alma düzeni\n- Yargılama olmadan ceza verilmemesi\n- Kanun önünde eşitlik\n\nÖnemi: Osmanlı'da anayasal sürecin başlangıcı\nPadişahın yetkilerini sınırlayan ilk belge"
+    },
+    {
+      "id": "sc_tar_25",
+      "subject": "Tarih",
+      "topic": "Islahat Fermanı",
+      "front": "Islahat Fermanı (1856) ne getirdi?",
+      "back": "Sultan Abdülmecid döneminde\nParis Konferansı öncesi Avrupa'yı memnun etmek için\n\nMaddeler:\n- Gayrimüslimlere devlet memurluğu hakkı\n- Gayrimüslimlere askerlik muafiyeti (bedel ödeme)\n- Din ve mezhep özgürlüğü\n- Okul, kilise, hastane açma hakkı\n- Karma mahkemeler kurulması\n\nAvrupa müdahalesine zemin hazırladığı için eleştirildi"
+    },
+    {
+      "id": "sc_tar_26",
+      "subject": "Tarih",
+      "topic": "I. Meşrutiyet",
+      "front": "I. Meşrutiyet (1876) nasıl ilan edildi?",
+      "back": "II. Abdülhamid tahta çıkma şartı olarak ilan etti\nKanun-i Esasi: İlk Osmanlı anayasası\nMithat Paşa hazırladı\n\nMebusan Meclisi açıldı (ilk parlamento)\n\n1877-78 Osmanlı-Rus Savaşı bahane edilerek:\n- Meclis kapatıldı (1878)\n- II. Abdülhamid İstibdat (baskı) dönemini başlattı\n- 30 yıl sürdü"
+    },
+    {
+      "id": "sc_tar_27",
+      "subject": "Tarih",
+      "topic": "II. Meşrutiyet",
+      "front": "II. Meşrutiyet (1908) nasıl ilan edildi?",
+      "back": "İttihat ve Terakki Cemiyeti (Jön Türkler)\nRumeli'de ayaklanma → II. Abdülhamid meclisi yeniden açtı\n\n31 Mart Olayı (1909): Meşrutiyete karşı isyan\nHareket Ordusu bastırdı (Mahmut Şevket Paşa)\nII. Abdülhamid tahttan indirildi, V. Mehmed Reşad tahta çıktı\n\nSonuç: İttihat ve Terakki iktidarı ele geçirdi"
+    },
+    {
+      "id": "sc_tar_28",
+      "subject": "Tarih",
+      "topic": "Mondros Ateşkesi",
+      "front": "Mondros Ateşkes Antlaşması (30 Ekim 1918) maddeleri?",
+      "back": "1. Boğazlar İtilaf Devletlerine açılacak\n2. Ordunun büyük kısmı terhis edilecek\n3. Silah ve cephane teslim edilecek\n4. Haberleşme ve ulaşım araçları teslim edilecek\n5. Tüm limanlar İtilaf'a açılacak\n7. Madde: İtilaf, güvenliğini tehdit eden yerleri işgal edebilir\n→ Bu madde işgallerin yasal dayanağı oldu\n\n24. Madde: 6 Doğu vilayetinde karışıklık çıkarsa işgal edilebilir"
+    },
+    {
+      "id": "sc_tar_29",
+      "subject": "Tarih",
+      "topic": "Amasya Genelgesi",
+      "front": "Amasya Genelgesi (22 Haziran 1919) neden önemlidir?",
+      "back": "Mustafa Kemal, Ali Fuat, Rauf Orbay, Refet Bele imzaladı\n\nÖnemli kararlar:\n1. Vatanın bütünlüğü, milletin istiklali tehlikededir\n2. İstanbul hükümeti görevini yapamıyor\n3. Milletin istiklalini yine milletin azim ve kararı kurtaracaktır\n4. Sivas'ta milli bir kongre toplanmalıdır\n\nÖnemi:\nKurtuluş Savaşı'nın gerekçesi, amacı ve yöntemi belirlendi\nMilli egemenlik ilk kez vurgulandı"
+    },
+    {
+      "id": "sc_tar_30",
+      "subject": "Tarih",
+      "topic": "Erzurum Kongresi",
+      "front": "Erzurum Kongresi (23 Temmuz-7 Ağustos 1919)?",
+      "back": "Bölgesel kongre (Doğu vilayetleri)\nMustafa Kemal başkan seçildi\n\nKararlar:\n1. Milli sınırlar içinde vatan bir bütündür, parçalanamaz\n2. Her türlü işgale karşı millet birlikte karşı koyacaktır\n3. Manda ve himaye kabul edilemez\n4. Geçici bir hükümet kurulmalıdır\n5. Milli irade hakim kılınmalıdır\n\nÖnemi: İlk kez manda ve himaye reddedildi"
+    },
+    {
+      "id": "sc_tar_31",
+      "subject": "Tarih",
+      "topic": "Sivas Kongresi",
+      "front": "Sivas Kongresi (4-11 Eylül 1919) kararları?",
+      "back": "Ulusal kongre (tüm yurdu temsil eder)\nMustafa Kemal başkan\n\nKararlar:\n1. Bölgesel cemiyetler birleştirildi → Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti\n2. Temsil Heyeti oluşturuldu (Mustafa Kemal başkan)\n3. Manda ve himaye kesinlikle reddedildi\n4. Mebusan Meclisi'nin toplanması istendi\n\nÖnemi: Ulusal birlik sağlandı, Temsil Heyeti yürütme yetkisi kazandı"
+    },
+    {
+      "id": "sc_tar_32",
+      "subject": "Tarih",
+      "topic": "Sakarya Meydan Muharebesi",
+      "front": "Sakarya Savaşı (23 Ağustos-13 Eylül 1921)?",
+      "back": "22 gün 22 gece süren meydan muharebesi\nMustafa Kemal başkomutan olarak yönetti\n\nÖnemi:\n1. Son savunma savaşı (bundan sonra taarruz)\n2. Mustafa Kemal'e Mareşal rütbesi ve Gazi unvanı verildi\n3. TBMM'nin otoritesi güçlendi\n4. Fransa ile Ankara Antlaşması (Güney cephesi kapandı)\n5. Sovyetlerle Kars Antlaşması\n\nHattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır."
+    },
+    {
+      "id": "sc_tar_33",
+      "subject": "Tarih",
+      "topic": "Mudanya Ateşkesi",
+      "front": "Mudanya Ateşkes Antlaşması (11 Ekim 1922)?",
+      "back": "Büyük Taarruz zaferinden sonra imzalandı\nİsmet Paşa Türk heyetine başkanlık etti\n\nKararlar:\n1. Doğu Trakya savaşsız Türkiye'ye bırakıldı\n2. İstanbul ve Boğazlar TBMM yönetimine bırakıldı\n3. Yunan kuvvetleri Meriç'in batısına çekilecek\n\nÖnemi:\n- Kurtuluş Savaşı fiilen sona erdi\n- İstanbul savaşsız kurtarıldı\n- Doğu Trakya diplomatik zaferle alındı"
+    },
+    {
+      "id": "sc_tar_34",
+      "subject": "Tarih",
+      "topic": "Hukuk İnkılapları",
+      "front": "Cumhuriyet döneminde yapılan hukuk inkılapları?",
+      "back": "1924: Şer'iye mahkemeleri kaldırıldı\n1926: Medeni Kanun (İsviçre'den alındı)\n- Tek eşle evlilik\n- Kadınlara boşanma hakkı\n- Miras eşitliği\n- Resmi nikah zorunluluğu\n\n1930: Kadınlara belediye seçimlerinde oy hakkı\n1934: Kadınlara milletvekili seçme-seçilme hakkı\n1926: Ceza Kanunu (İtalya'dan), Ticaret Kanunu (Almanya'dan)"
+    },
+    {
+      "id": "sc_tar_35",
+      "subject": "Tarih",
+      "topic": "Eğitim İnkılapları",
+      "front": "Eğitim alanında yapılan inkılaplar?",
+      "back": "1924: Tevhid-i Tedrisat (Öğretim Birliği) Kanunu\n- Tüm okullar MEB'e bağlandı\n- Medreseler kapatıldı\n\n1928: Harf İnkılabı\n- Arap alfabesi → Latin alfabesi\n- Millet Mektepleri açıldı\n\n1933: Üniversite reformu\n- Darülfünun kapatıldı → İstanbul Üniversitesi kuruldu\n\nTürk Tarih Kurumu (1931), Türk Dil Kurumu (1932)"
+    },
+    {
+      "id": "sc_tar_36",
+      "subject": "Tarih",
+      "topic": "Ekonomi İnkılapları",
+      "front": "Ekonomi alanında yapılan inkılaplar?",
+      "back": "1923: İzmir İktisat Kongresi (Misak-ı İktisadi)\n- Milli ekonomi hedeflendi\n- Yerli üretim teşvik edildi\n\n1925: Aşar vergisi kaldırıldı (köylü rahatladı)\n1927: Teşvik-i Sanayi Kanunu\n\nDevletçilik politikası:\n- Sümerbank (1933): Tekstil\n- Etibank (1935): Maden\n- MTA, THY, Karabük Demir-Çelik\n\n1. Beş Yıllık Kalkınma Planı (1934)"
+    },
+    {
+      "id": "sc_tar_37",
+      "subject": "Tarih",
+      "topic": "Sevr Antlaşması",
+      "front": "Sevr Antlaşması (10 Ağustos 1920) maddeleri?",
+      "back": "Osmanlı'yı parçalayan antlaşma (TBMM tarafından reddedildi!)\n\n- Doğu'da Ermeni, Güneydoğu'da Kürt devleti\n- İzmir ve çevresi Yunanistan'a\n- Boğazlar uluslararası komisyona\n- Kapitülasyonlar genişletildi\n- Suriye Fransa'ya, Irak İngiltere'ye manda\n- Osmanlı ordusu sembolik düzeye indirildi\n\nHiçbir zaman uygulanmadı → Lozan ile geçersiz kılındı"
+    },
+    {
+      "id": "sc_tar_38",
+      "subject": "Tarih",
+      "topic": "Lozan Antlaşması Detay",
+      "front": "Lozan Antlaşması'nın (24 Temmuz 1923) önemli maddeleri?",
+      "back": "İsmet İnönü başkanlığındaki heyet\n\n1. Sınırlar: Misak-ı Milli büyük ölçüde sağlandı\n   - Batı Trakya hariç (Yunanistan'da kaldı)\n   - Musul hariç (İngiltere mandası, 1926'da İngiliz mandası Irak'a)\n2. Kapitülasyonlar tamamen kaldırıldı\n3. Azınlıklar: Sadece gayrimüslimler azınlık sayıldı\n4. Boğazlar: Uluslararası komisyon (1936 Montrö ile değişti)\n5. Borçlar: Osmanlı borçları taksitle ödenecek"
+    },
+    {
+      "id": "sc_tar_39",
+      "subject": "Tarih",
+      "topic": "Atatürk İlkeleri - Cumhuriyetçilik",
+      "front": "Cumhuriyetçilik ilkesi ne anlama gelir?",
+      "back": "Egemenlik kayıtsız şartsız milletindir.\nHalk, yöneticilerini seçimle belirler.\n\nİlgili inkılaplar:\n- Saltanatın kaldırılması (1922)\n- Cumhuriyetin ilanı (1923)\n- Halifeliğin kaldırılması (1924)\n- Çok partili hayat denemeleri\n- Kadınlara seçme-seçilme hakkı (1930-1934)\n\nDemokrasi, insan hakları ve hukukun üstünlüğü temelinde"
+    },
+    {
+      "id": "sc_tar_40",
+      "subject": "Tarih",
+      "topic": "Atatürk İlkeleri - Milliyetçilik",
+      "front": "Atatürk milliyetçiliğinin özellikleri nelerdir?",
+      "back": "Birleştirici, bütünleştirici milliyetçilik\nIrkçılık değildir!\n\nTemel özellikleri:\n1. Laik: Dine değil, ulusal bilince dayanır\n2. Birleştirici: Tüm vatandaşları kapsar\n3. Barışçı: Diğer milletlere düşman değil\n4. Eşitlikçi: Üstünlük iddiası yok\n\nNe mutlu Türküm diyene! → Kim kendini Türk hissediyorsa Türk'tür\nMisak-ı Milli: Ulusal sınırlar içinde bağımsızlık"
+    },
+    {
+      "id": "sc_tur_9",
+      "subject": "Türkçe",
+      "topic": "Sözcükte Anlam",
+      "front": "Gerçek, mecaz ve terim anlamı nedir?",
+      "back": "Gerçek Anlam: Sözcüğün sözlükteki ilk anlamı\n'Kapıyı aç' → Gerçek\n\nMecaz Anlam: Gerçek anlamından uzaklaşmış kullanım\n'Kalbini aç' → Mecaz (sırlarını paylaş)\n\nTerim Anlamı: Bir bilim/sanat dalına özgü anlam\n'Kök' → Matematik: √, Biyoloji: bitkinin kökü, Dilbilgisi: sözcük kökü"
+    },
+    {
+      "id": "sc_tur_10",
+      "subject": "Türkçe",
+      "topic": "Eş-Zıt-Sesteş Sözcükler",
+      "front": "Eş anlamlı, zıt anlamlı ve sesteş sözcükler nedir?",
+      "back": "Eş Anlamlı: Aynı anlama gelen sözcükler\nyürek=kalp, güzel=hoş, ev=konut\n\nZıt (Karşıt) Anlamlı: Ters anlamlı sözcükler\nsıcak↔soğuk, uzun↔kısa, güzel↔çirkin\n\nSesteş (Eş Sesli): Yazılışı aynı, anlamı farklı\nyüz: sayı (100) / organ (surat) / eylem (yüzmek)\nbağ: üzüm bağı / bağlamak"
+    },
+    {
+      "id": "sc_tur_11",
+      "subject": "Türkçe",
+      "topic": "Cümlede Anlam",
+      "front": "Anlam ilişkisi türleri nelerdir?",
+      "back": "Neden-Sonuç: Hava soğuduğu için (N) üşüdüm (S)\nAmaç-Sonuç: Sınava hazırlanmak için (A) ders çalıştı (S)\nKoşul: Erken kalkarsan (K) yetişirsin (S)\nKarşılaştırma: Bu kitap ötekinden daha güzel\nÖznel yargı: Bu yemek çok güzel (kişisel)\nNesnel yargı: Su 100°C de kaynar (bilimsel, kanıtlanabilir)"
+    },
+    {
+      "id": "sc_tur_12",
+      "subject": "Türkçe",
+      "topic": "Deyimler",
+      "front": "Sık kullanılan deyimler ve anlamları?",
+      "back": "Ağzı açık kalmak: Çok şaşırmak\nBaşı göğe ermek: Çok sevinmek\nÇam devirmek: Pot kırmak, gaf yapmak\nDil dökmek: İkna etmeye çalışmak\nEl üstünde tutmak: Çok değer vermek\nGöz yummak: Görmezden gelmek\nKulak asmamak: Aldırış etmemek\nPabucunu dama atmak: Geride bırakmak, geçmek\nTaş çatlasa: Ne olursa olsun, en fazla\nYüzü gülmek: Sevinçli, mutlu olmak"
+    },
+    {
+      "id": "sc_tur_13",
+      "subject": "Türkçe",
+      "topic": "Atasözleri",
+      "front": "Önemli atasözleri ve anlamları?",
+      "back": "Damlaya damlaya göl olur: Az birikim zamanla çoğalır\nSakla samanı gelir zamanı: Her şeyin bir gün lazım olacağı\nAğaç yaşken eğilir: Eğitim küçük yaşta verilmeli\nBir elin nesi var iki elin sesi var: Birlik güçtür\nDost kara günde belli olur: Gerçek dost zor zamanlarda belli olur\nAcele işe şeytan karışır: Acele edilmemeli\nKörle yatan şaşı kalkar: Kötülerle arkadaşlık kötü alışkanlık kazandırır\nYuvarlanan taş yosun tutmaz: Sürekli değişen insan birikim yapamaz"
+    },
+    {
+      "id": "sc_tur_14",
+      "subject": "Türkçe",
+      "topic": "İsim (Ad)",
+      "front": "İsim türleri nelerdir?",
+      "back": "Özel İsim: Tek varlığa verilen (Ankara, Ayşe)\nCins İsim: Aynı tür varlıklara verilen (şehir, kız)\n\nSomut İsim: Duyu organlarıyla algılanan (masa, su)\nSoyut İsim: Düşüncede var olan (sevgi, özgürlük)\n\nTekil: Tek varlık (çocuk)\nÇoğul: Birden fazla (çocuklar, -ler/-lar)\nTopluluk: Tek görünüp çoğul anlatan (ordu, sürü, takım)"
+    },
+    {
+      "id": "sc_tur_15",
+      "subject": "Türkçe",
+      "topic": "Sıfat",
+      "front": "Sıfat türleri nelerdir?",
+      "back": "Niteleme Sıfatı: Varlığın özelliğini bildirir\ngüzel ev, tembel çocuk, soğuk su\n\nBelirtme Sıfatları:\n1. İşaret sıfatı: bu, şu, o, öteki (bu ev)\n2. Sayı sıfatı: beş elma, üçüncü sıra, yarım ekmek\n3. Belgisiz sıfat: birkaç, bazı, her, hiçbir (bazı insanlar)\n4. Soru sıfatı: hangi, kaç, nasıl, ne (hangi kitap)\n\nSıfat tamlaması: Sıfat + İsim (kırmızı gül)"
+    },
+    {
+      "id": "sc_tur_16",
+      "subject": "Türkçe",
+      "topic": "Zarf",
+      "front": "Zarf türleri nelerdir?",
+      "back": "Durum zarfı: Fiili niteler → hızlı koştu, güzel söyledi\nZaman zarfı: Ne zaman? → dün, şimdi, akşam geldi\nMiktar zarfı: Ne kadar? → çok, az, biraz, oldukça güzel\nSoru zarfı: nasıl? ne zaman? neden? nereye?\nYer-yön zarfı: ileri, geri, yukarı git\n\nDikkat: Aynı sözcük sıfat veya zarf olabilir\n'Hızlı araba' → sıfat (ismi niteler)\n'Hızlı koştu' → zarf (fiili niteler)"
+    },
+    {
+      "id": "sc_tur_17",
+      "subject": "Türkçe",
+      "topic": "Zamir",
+      "front": "Zamir türleri nelerdir?",
+      "back": "Kişi zamiri: ben, sen, o, biz, siz, onlar\nİşaret zamiri: bu, şu, o, bunlar (isim yerine kullanılır)\nBelgisiz zamir: birisi, kimse, hepsi, birçoğu\nSoru zamiri: kim, ne, hangisi, kaçı\nDönüşlülük zamiri: kendi, kendisi\nİlgi zamiri: -ki (benimki, seninki)\n\nDikkat: 'bu' bir ismin önündeyse → sıfat\n'bu' tek başına isim yerineyse → zamir"
+    },
+    {
+      "id": "sc_tur_18",
+      "subject": "Türkçe",
+      "topic": "Edat",
+      "front": "Edat (ilgeç) nedir ve örnekleri?",
+      "back": "İsimlerle ilişki kuran, tek başına anlamı olmayan sözcükler\n\niçin: Senin için geldim (amaç)\nile: Kalemle yazdı (araç)\ngibi: Aslan gibi güçlü (benzetme)\nkadar: Senin kadar çalışkan (karşılaştırma)\ngöre: Bana göre doğru (bakış açısı)\nkarşı: Akşama karşı geldik (zaman)\ndoğru: Eve doğru yürüdük (yön)\nrağmen: Yağmura rağmen gittik (zıtlık)"
+    },
+    {
+      "id": "sc_tur_19",
+      "subject": "Türkçe",
+      "topic": "Bağlaç",
+      "front": "Bağlaç türleri nelerdir?",
+      "back": "Sıralama: ve, ile (Ali ve Ayşe geldi)\nKarşıtlık: ama, fakat, ancak, lakin, oysa (Geldi ama gitti)\nNeden: çünkü, zira (Gitmedi çünkü hastaydı)\nKoşul: eğer, şayet (Eğer gelirsen sevinirim)\nİkili: hem...hem, ya...ya, ne...ne, gerek...gerek\n\nDikkat: 'de/da' bağlacı ayrı yazılır\n'Sen de gel' (bağlaç, dahi anlamında)\n'Evde kaldım' (hal eki, bitişik)"
+    },
+    {
+      "id": "sc_tur_20",
+      "subject": "Türkçe",
+      "topic": "Fiil Türleri",
+      "front": "Kılış, oluş ve durum fiilleri nedir?",
+      "back": "Kılış Fiili: Öznenin isteyerek yaptığı eylem\nyazmak, okumak, koşmak, yemek\n(Nesne alabilir → geçişli)\n\nOluş Fiili: Kendiliğinden olan eylem\nsolmak, büyümek, sararmak, paslanmak\n(Nesne almaz → geçişsiz)\n\nDurum Fiili: Süregelen durum bildiren eylem\noturmak, yatmak, uyumak, durmak\n(Nesne almaz → geçişsiz)"
+    },
+    {
+      "id": "sc_tur_21",
+      "subject": "Türkçe",
+      "topic": "İsim Tamlaması",
+      "front": "İsim tamlaması türleri nelerdir?",
+      "back": "Belirtili İsim Tamlaması: Her iki sözcük de ek alır\nkitab-ın sayfa-sı (kimin neyi)\n\nBelirtisiz İsim Tamlaması: İlk sözcük ek almaz\nmasa örtü-sü (ne neyi → tür belirtir)\n\nZincirleme Tamlama: İç içe geçmiş tamlamalar\nkapı-nın kol-u-nun vida-sı\n\nTakısız Tamlama: Hiç ek almaz\ndemir kapı, tahta masa (tür belirtir)"
+    },
+    {
+      "id": "sc_tur_22",
+      "subject": "Türkçe",
+      "topic": "Haber Kipleri",
+      "front": "Fiillerde haber (bildirme) kipleri nelerdir?",
+      "back": "Geçmiş zaman (-di): Gördüm, geldi (kesin)\nDuyulan geçmiş (-miş): Gelmiş (başkasından duyma)\nŞimdiki zaman (-yor): Geliyor, yazıyor\nGelecek zaman (-ecek): Gelecek, yazacak\nGeniş zaman (-r/-er/-ir): Gelir, yazar (her zaman, genelde)\n\nOlumsuz: Gelmedi, gelmiyor, gelmeyecek\nGeniş zaman olumsuz: gel-me-z"
+    },
+    {
+      "id": "sc_tur_23",
+      "subject": "Türkçe",
+      "topic": "Dilek Kipleri",
+      "front": "Fiillerde dilek kipleri nelerdir?",
+      "back": "Gereklilik (-meli/-malı): Gelmeli, çalışmalı\nİstek (-e/-a): Gele, çalışa (az kullanılır), gidelim, çalışalım\nDilek-Şart (-se/-sa): Gelse, çalışsa\nEmir: Gel!, Gelsin!, Gelin!, Gelsinler!\n(1. tekil kişinin emir çekimi yoktur)\n\nDilek kipleri zaman bildirmez, istek/niyet/şart/zorunluluk bildirir."
+    },
+    {
+      "id": "sc_tur_24",
+      "subject": "Türkçe",
+      "topic": "İsim Fiil",
+      "front": "İsim fiil (mastar) nedir?",
+      "back": "-mak/-mek: Okumak güzeldir, yazmak zor.\n-ma/-me: Okuma saati, yazma tahtası\n-ış/-iş/-uş/-üş: Bakış, gülüş, koşuş\n\nFiili isim gibi kullanır.\nCümlede özne, nesne, tümleç olabilir.\n\nÖrnek: 'Koşmak sağlıklıdır' → Koşmak özne\n'Gülüşünü sevdim' → Gülüş nesne\n\nDikkat: 'Yazma tahtaya!' → Olumsuz emir (isim fiil değil)"
+    },
+    {
+      "id": "sc_tur_25",
+      "subject": "Türkçe",
+      "topic": "Sıfat Fiil",
+      "front": "Sıfat fiil (ortaç) nedir?",
+      "back": "-an/-en: Koşan çocuk, gülen yüz\n-dık/-dik/-duk/-dük: Tanıdık adam, bildiğim konu\n-ecek/-acak: Gelecek zaman, okunacak kitap\n-miş/-mış: Pişmiş yemek, dolmuş araba\n-r/-er/-ir: Bilir kişi, gelir gelir\n-mez/-maz: Tükenmez kalem, bitmez iş\n\nFiili sıfat gibi kullanır, ismi niteler.\nYan cümle kurabilir: 'Dün gelen adam' → 'Adam dün geldi'"
+    },
+    {
+      "id": "sc_tur_26",
+      "subject": "Türkçe",
+      "topic": "Zarf Fiil",
+      "front": "Zarf fiil (ulaç/bağ fiil) nedir?",
+      "back": "-arak/-erek: Gülerek geldi, koşarak gitti\n-ınca/-ince: Gelince sevindim, görünce şaşırdı\n-ip/-ıp/-up/-üp: Gelip oturdu, alıp götürdü\n-ken: Gelirken, çalışırken\n-dıkça: Geldikçe, çalıştıkça\n-madan/-meden: Sormadan girdi, bakmadan geçti\n-alı/-eli: Geleli üç gün oldu\n-casına: Ölürcesine çalıştı\n\nFiili zarf gibi kullanır, ana fiile bağlar."
+    },
+    {
+      "id": "sc_tur_27",
+      "subject": "Türkçe",
+      "topic": "Cümle Türleri - Yapı",
+      "front": "Yapılarına göre cümle türleri?",
+      "back": "Basit Cümle: Tek yargı, tek yüklem\n'Ali okula gitti.'\n\nBirleşik Cümle: Yan cümlecik + temel cümlecik\n'Hava soğuyunca eve girdik.' (zarf fiil → yan cümle)\n\nSıralı Cümle: Bağımsız cümleler virgül/noktalı virgülle ayrılır\n'Geldi, gördü, yendi.'\n\nBağlı Cümle: Bağlaçla bağlanan\n'Geldi ama gitti.'"
+    },
+    {
+      "id": "sc_tur_28",
+      "subject": "Türkçe",
+      "topic": "Ünlü Uyumu",
+      "front": "Büyük ve küçük ünlü uyumu nedir?",
+      "back": "Büyük Ünlü Uyumu (Kalınlık-İncelik):\nSözcükteki ünlüler ya hep kalın ya hep ince olmalı\nKalın: a, ı, o, u\nİnce: e, i, ö, ü\nÖrnek: 'araba' ✓ (a-a-a hep kalın)\n'kitap' ✗ (i ince, a kalın → Türkçe kökenli değil)\n\nKüçük Ünlü Uyumu (Düzlük-Yuvarlaklık):\nDüz ünlüden sonra düz (a,e,ı,i)\nYuvarlak ünlüden sonra düz geniş (a,e) veya yuvarlak dar (u,ü)"
+    },
+    {
+      "id": "sc_tur_29",
+      "subject": "Türkçe",
+      "topic": "Ünsüz Yumuşaması",
+      "front": "Ünsüz yumuşaması kuralı nedir?",
+      "back": "Sert ünsüzle (p, ç, t, k) biten sözcüğe ünlüyle başlayan ek gelince:\np → b: kitap → kitabı\nç → c: ağaç → ağacı\nt → d: kanat → kanadı\nk → ğ: çocuk → çocuğu\n\nÖzel isimlerde uygulanmaz: Mehmet'e (Mehmed'e değil)\nTek heceli bazı sözcüklerde uygulanmaz: at → atı, et → eti"
+    },
+    {
+      "id": "sc_tur_30",
+      "subject": "Türkçe",
+      "topic": "Ünsüz Benzeşmesi",
+      "front": "Ünsüz benzeşmesi (sertleşme) kuralı?",
+      "back": "Sert ünsüzlerle (f, s, t, k, ç, ş, h, p) biten sözcüğe yumuşak ünsüzle başlayan ek gelince, ek sertleşir:\n\nc → ç: seç-ci → seççi → seçti\nd → t: git-di → gitti\ng → k: sok-gun → sokkun → ? (nadir)\n\nÖrnekler:\nAğaç-da → ağaçta\nSokak-dan → sokaktan\nBaş-dan → baştan\nKitap-cı → kitapçı"
+    },
+    {
+      "id": "sc_tur_31",
+      "subject": "Türkçe",
+      "topic": "Paragraf - Ana Düşünce",
+      "front": "Paragrafta ana düşünce nasıl bulunur?",
+      "back": "Ana düşünce paragrafın BÜTÜNÜNDE savunulan görüştür.\n\nBulma yöntemi:\n1. Her cümleyi tek tek oku\n2. Tüm cümleleri kapsayan ortak fikri bul\n3. 'Bu paragraf bir cümlede özetlense ne olurdu?' sorusunu sor\n\nGenellikle:\n- Giriş cümlesinde (tümdengelim)\n- Son cümlede (tümevarım)\n\nDikkat: Yardımcı düşünceler ana düşünceyi destekler, onu açıklar."
+    },
+    {
+      "id": "sc_tur_32",
+      "subject": "Türkçe",
+      "topic": "Anlatım Teknikleri",
+      "front": "Anlatım teknikleri nelerdir?",
+      "back": "Açıklama: Bilgi verme, tanımlama\n'Deprem, yerkabuğundaki kırılmalar sonucu oluşur.'\n\nÖyküleme (Hikâyeleme): Olay anlatma\n'O gün eve geldiğinde her şey değişmişti.'\n\nBetimleme (Tasvir): Varlığı resmetme\n'Ufukta kızıla boyanan güneş yavaşça batıyordu.'\n\nTartışma: Görüş savunma, karşı çıkma\n'Bu görüşe katılmak mümkün değildir çünkü...'"
+    },
+    {
+      "id": "sc_tur_33",
+      "subject": "Türkçe",
+      "topic": "Sıfat Tamlaması",
+      "front": "Sıfat tamlaması nedir?",
+      "back": "Sıfat + İsim yapısıdır. İsmi niteler veya belirtir.\n\nNiteleme: güzel ev, soğuk su, uzun yol\nBelirtme: bu ev, üç kalem, hangi kitap\n\nBirden fazla sıfat olabilir:\n'Küçük, güzel, eski ev'\n\nDikkat: Tamlamada sıfat ek almaz!\n'Güzel evler' ✓\n'Güzeller ev' ✗ (bu tamlama değil)"
+    },
+    {
+      "id": "sc_tur_34",
+      "subject": "Türkçe",
+      "topic": "Fiilde Yapı",
+      "front": "Fiillerde yapı nasıl çözümlenir?",
+      "back": "Basit Fiil: Kök halinde → gel-, yaz-, oku-\n\nTüretilmiş Fiil: Yapım eki almış\ngöz-le- (isimden fiil)\noku-t- (fiilden fiil)\n\nBirleşik Fiil:\n1. Yardımcı fiille: Hasta ol-, yardım et-, kabul et-\n2. Kurallı: Gid-e-bil- (yeterlilik), yaz-a-ma- (yetersizlik)\n   Oku-ya-dur- (sürerlik), bak-a-kal- (sürerlik)\n3. Kaynaşmış: Varsaymak, öngörmek"
+    },
+    {
+      "id": "sc_tur_35",
+      "subject": "Türkçe",
+      "topic": "Ünlem",
+      "front": "Ünlem nedir ve nasıl kullanılır?",
+      "back": "Duygu, heyecan, seslenme bildiren sözcükler\n\nDuygu ünlemleri: Eyvah!, Bravo!, Hayret!, Of!, Ah!\nSeslenme ünlemleri: Ey!, Hey!, Yahu!\nGösterme ünlemleri: İşte!, Buyurun!\n\nÜnlem cümlesinin sonuna ünlem işareti (!) konur.\n\nDikkat: Bazı sözcükler bağlama göre ünlem olabilir:\n'Güzel!' (ünlem) vs 'Güzel ev' (sıfat)"
+    },
+    {
+      "id": "sc_ede_9",
+      "subject": "Edebiyat",
+      "topic": "İslamiyet Öncesi - Sözlü",
+      "front": "İslamiyet öncesi Türk edebiyatının sözlü ürünleri?",
+      "back": "Koşuk: Şölenlerde söylenen lirik şiir (doğa, aşk, kahramanlık)\nSagu: Cenaze törenlerinde söylenen ağıt\nSav: Atasözü niteliğinde özlü sözler\nDestan: Kahramanlık anlatıları\n\nÖzellikleri:\n- Sözlü gelenek\n- Hece ölçüsü kullanılır\n- Yarım kafiye\n- Nazım birimi: Dörtlük\n- Konu: Doğa, savaş, aşk, ölüm"
+    },
+    {
+      "id": "sc_ede_10",
+      "subject": "Edebiyat",
+      "topic": "Destanlar",
+      "front": "Türk destanları hangileridir?",
+      "back": "Saka Türkleri: Alp Er Tunga, Şu Destanı\nHun: Oğuz Kağan Destanı, Attila Destanı\nGöktürk: Bozkurt, Ergenekon\nUygur: Türeyiş, Göç\n\nOğuz Kağan: Türk birliğini simgeler\nErgenekon: Demir dağı eritip çıkış\nTüreyiş: Kurt soyundan gelme\nGöç: Kutsal Yada taşının elden çıkması\n\nDoğal destan: Halk arasında oluşur\nYapma destan: Bir şair tarafından yazılır"
+    },
+    {
+      "id": "sc_ede_11",
+      "subject": "Edebiyat",
+      "topic": "Orhun Yazıtları",
+      "front": "Orhun Yazıtları'nın önemi nedir?",
+      "back": "8. yüzyıl (732-735)\nGöktürk alfabesiyle yazılmıştır\n\n3 yazıt:\n1. Bilge Kağan Yazıtı (735)\n2. Kül Tigin Yazıtı (732)\n3. Tonyukuk Yazıtı (720-725)\n\nÖnemi:\n- Türk edebiyatının ve tarihinin ilk yazılı belgeleri\n- Millete seslenen ilk hitabet örneği\n- 1893'te Danimarkalı Thomsen çözdü\n- Türk dilinin gelişmişliğini gösterir"
+    },
+    {
+      "id": "sc_ede_12",
+      "subject": "Edebiyat",
+      "topic": "Geçiş Dönemi Eserleri",
+      "front": "İslami dönem geçiş eserleri nelerdir?",
+      "back": "1. Kutadgu Bilig (1069): Yusuf Has Hacib\n   - Mutluluk veren bilgi, siyasetname\n   - Mesnevi tarzı, aruz ölçüsü\n\n2. Divan-ı Lügati't Türk (1072): Kaşgarlı Mahmud\n   - İlk Türkçe-Arapça sözlük, Türk dünyası haritası\n\n3. Atabetü'l Hakayık: Edib Ahmed Yükneki\n   - Ahlak ve öğüt kitabı\n\n4. Divan-ı Hikmet: Ahmet Yesevi\n   - Tasavvuf şiirleri, hikmet"
+    },
+    {
+      "id": "sc_ede_13",
+      "subject": "Edebiyat",
+      "topic": "Divan Şairleri",
+      "front": "Büyük Divan şairleri kimlerdir?",
+      "back": "Fuzuli (16. yy): Leyla vü Mecnun (en ünlü mesnevi), Su Kasidesi\n- Aşk acısı ve tasavvuf\n\nBaki (16. yy): Sultanüş-Şuara (şairler sultanı)\n- Kanuni mersiyesi, tabiat ve aşk\n\nNedim (18. yy): Lale Devri şairi, şarkı ustası\n- İstanbul'u anlattı, coşkulu şiirler\n\nNef'i (17. yy): Hiciv (yergi) ustası\n- Keskin dili yüzünden idam edildi\n\nŞeyh Galip (18. yy): Hüsn ü Aşk (son büyük mesnevi)"
+    },
+    {
+      "id": "sc_ede_14",
+      "subject": "Edebiyat",
+      "topic": "Halk Ozanları",
+      "front": "Önemli halk ozanları ve özellikleri?",
+      "back": "Yunus Emre (13-14. yy): Tasavvuf, insan sevgisi, ilahi\n- 'Sevelim sevilelim, dünya kimseye kalmaz'\n\nKaracaoğlan (17. yy): Aşk ve doğa şairi\n- Halk edebiyatının en lirik ozanı\n\nPir Sultan Abdal (16. yy): Toplumsal eleştiri, Alevi-Bektaşi\n\nKöroğlu (16-17. yy): Kahramanlık, isyan, yiğitlik\n\nDadaloğlu (19. yy): Göçebe Türkmen yaşamı\n- 'Ferman padişahınsa dağlar bizimdir'\n\nÂşık Veysel (20. yy): Son büyük ozan, Sivas"
+    },
+    {
+      "id": "sc_ede_15",
+      "subject": "Edebiyat",
+      "topic": "Servet-i Fünun",
+      "front": "Servet-i Fünun edebiyatı (1896-1901) özellikleri?",
+      "back": "Sanat sanat içindir anlayışı\nBatı edebiyatı (özellikle Fransız) etkisi\nAğır dil, ağdalı üslup\nAruz ölçüsü kullanıldı\n\nTevfik Fikret: Rübab-ı Şikeste, toplumsal şiir\nHalit Ziya Uşaklıgil: Aşk-ı Memnu, Mai ve Siyah\n- İlk modern Türk romancısı\nCenap Şahabettin: Şiir, gezi yazısı\nMehmet Rauf: Eylül (ilk psikolojik roman)\n\nSiyasi baskı nedeniyle bireysel konulara yöneldiler"
+    },
+    {
+      "id": "sc_ede_16",
+      "subject": "Edebiyat",
+      "topic": "Milli Edebiyat",
+      "front": "Milli Edebiyat dönemi (1911-1923) özellikleri?",
+      "back": "Sade Türkçe (konuşma dili)\nHece ölçüsü\nYerli konular (Anadolu, milli mücadele)\nSanat toplum içindir\n\nZiya Gökalp: Türkçülüğün babası, 'Türkçülüğün Esasları'\nÖmer Seyfettin: Milli Edebiyat'ın öykücüsü\n- Kaşağı, Bomba, Başını Vermeyen Şehit\nMehmet Emin Yurdakul: 'Türk şairi'\n- 'Ben bir Türküm dinim cinsim uludur'\nHalide Edib Adıvar: Ateşten Gömlek"
+    },
+    {
+      "id": "sc_ede_17",
+      "subject": "Edebiyat",
+      "topic": "Garip Akımı",
+      "front": "Garip Akımı (I. Yeni, 1941) nedir?",
+      "back": "Orhan Veli Kanık, Oktay Rifat, Melih Cevdet Anday\n\nÖzellikleri:\n- Ölçü ve kafiyeye karşı çıktılar\n- Süslü, sanatlı dile karşı sade dil\n- Günlük konular, sıradan insan\n- Şiirde şairaneliğe son\n- Mizahi ton\n\nOrhan Veli: 'Kitabe-i Seng-i Mezar', 'Anlatamıyorum'\n'Bir de rakı şişesinde balık olsam'\n'İstanbul'u dinliyorum gözlerim kapalı'"
+    },
+    {
+      "id": "sc_ede_18",
+      "subject": "Edebiyat",
+      "topic": "İkinci Yeni",
+      "front": "İkinci Yeni (1950'ler) akımı nedir?",
+      "back": "Garip'e tepki olarak doğdu\n\nÖzellikleri:\n- Soyut, kapalı anlatım\n- İmge (imaj) ağırlıklı\n- Bilinçaltı, bireysel dünya\n- Anlam ikinci plana itildi\n- Sözcüklerin çağrışım gücüne önem\n\nCemal Süreya: 'Üvercinka'\nTurgut Uyar: 'Divan'\nEdip Cansever: 'Yerçekimli Karanfil'\nİlhan Berk: 'Galile Denizi'\nEce Ayhan: 'Kınar Hanımın Denizleri'"
+    },
+    {
+      "id": "sc_ede_19",
+      "subject": "Edebiyat",
+      "topic": "Toplumcu Gerçekçi",
+      "front": "Toplumcu gerçekçi edebiyat nedir?",
+      "back": "Toplumsal sorunları, sınıf çatışmalarını, işçi-köylü yaşamını anlatır\n\nNâzım Hikmet: Serbest nazımın öncüsü\n- Memleketimden İnsan Manzaraları, Kuvayı Milliye\n\nOrhan Kemal: İşçi ve emekçi romanları\n- Bereketli Topraklar Üzerinde, Murtaza\n\nYaşar Kemal: Anadolu köylüsü, doğa\n- İnce Memed serisi\n\nAhmet Arif: Direniş şairi - '33 Kurşun'\nRıfat Ilgaz: Hababam Sınıfı"
+    },
+    {
+      "id": "sc_ede_20",
+      "subject": "Edebiyat",
+      "topic": "Köy Romanı",
+      "front": "Türk edebiyatında köy romanı geleneği?",
+      "back": "1950'lerden itibaren Anadolu köy gerçeğini anlatan romanlar\n\nMahmut Makal: Bizim Köy (1950, ilk köy romanı sayılır)\nFakir Baykurt: Yılanların Öcü, Tırpan\nYaşar Kemal: İnce Memed (köylünün isyanı)\nKemal Tahir: Rahmet Yolları Kesti\nOrhan Kemal: Bereketli Topraklar Üzerinde\n\nKonu: Ağa-köylü çatışması, yoksulluk, göç, eğitimsizlik, toprak sorunu"
+    },
+    {
+      "id": "sc_ede_21",
+      "subject": "Edebiyat",
+      "topic": "Roman Türleri",
+      "front": "Türk edebiyatında roman türleri?",
+      "back": "Psikolojik Roman: Bireyin iç dünyası\n- Peyami Safa: 9. Hariciye Koğuşu\n- Sabahattin Ali: Kürk Mantolu Madonna\n\nToplumsal Roman: Toplum sorunları\n- Y.K. Karaosmanoğlu: Yaban, Kiralık Konak\n- Orhan Kemal: Cemile\n\nTarihi Roman: Geçmiş dönemler\n- Tarık Buğra: Küçük Ağa\n- Kemal Tahir: Devlet Ana\n\nPostmodern Roman:\n- Oğuz Atay: Tutunamayanlar\n- Orhan Pamuk: Kara Kitap, Benim Adım Kırmızı"
+    },
+    {
+      "id": "sc_ede_22",
+      "subject": "Edebiyat",
+      "topic": "Hikaye Türleri",
+      "front": "Hikaye türleri ve temsilcileri?",
+      "back": "Olay Hikayesi (Maupassant Tarzı):\n- Serim-düğüm-çözüm yapısı\n- Olay merkezli, merak unsuru\n- Ömer Seyfettin, Refik Halit Karay\n\nDurum Hikayesi (Çehov Tarzı):\n- Olay ikinci planda\n- Belli bir kesit, ruh hali, atmosfer\n- Net sonuç yok, okuyucu düşündürülür\n- Sait Faik Abasıyanık, Memduh Şevket Esendal\n\nSait Faik: 'Son Kuşlar', 'Semaver' - İstanbul insanını anlattı"
+    },
+    {
+      "id": "sc_ede_23",
+      "subject": "Edebiyat",
+      "topic": "Fecr-i Ati",
+      "front": "Fecr-i Ati (1909-1912) topluluğu nedir?",
+      "back": "Servet-i Fünun'un devamı niteliğinde\nSanat şahsi ve muhteremdir (sanat kişisel ve saygındır)\n\nBireysel konular, Batı etkisi\nKısa sürdü, çoğu üye Milli Edebiyat'a geçti\n\nÖnemli isimler:\n- Ahmet Haşim: Sembolist şair\n  'Göl Saatleri', 'Piyale'\n  Şiir musiki ile söz arasında bir sanattır\n- Fuat Köprülü: Edebiyat tarihçisi (daha sonra)"
+    },
+    {
+      "id": "sc_ede_24",
+      "subject": "Edebiyat",
+      "topic": "Cumhuriyet Dönemi Roman",
+      "front": "Cumhuriyet dönemi romanının gelişimi?",
+      "back": "1920-40: Kurtuluş Savaşı ve inkılap romanları\nHalide Edib: Ateşten Gömlek, Vurun Kahpeye\n\n1940-50: Toplumcu gerçekçilik yükselir\nSabahattin Ali: İçimizdeki Şeytan, Kürk Mantolu Madonna\n\n1950-70: Köy romanı ve bireysel roman\nYaşar Kemal, Fakir Baykurt, Orhan Kemal\n\n1970+: Postmodern ve çoksesli roman\nOğuz Atay: Tutunamayanlar (1972)\nOrhan Pamuk: Nobel 2006\nLatife Tekin: Sevgili Arsız Ölüm"
+    },
+    {
+      "id": "sc_ede_25",
+      "subject": "Edebiyat",
+      "topic": "Edebi Türler",
+      "front": "Düz yazı türleri nelerdir?",
+      "back": "Makale: Bilgi verme, kanıtlama. Nesnel.\nDeneme: Kişisel düşünce, samimi. Montaigne kurucusu.\nFıkra (Köşe yazısı): Güncel konularda kısa görüş.\nSohbet: Okuyucuyla konuşur gibi yazma.\nEleştiri: Sanat eserini değerlendirme.\nRöportaj: Kişi veya konuyla ilgili mülakat/inceleme.\nBiyografi: Bir kişinin hayatı (başkası yazar)\nOtobiyografi: Kişi kendi hayatını yazar\nAnı (Hatırat): Yaşanmış olayların anlatımı\nGezi Yazısı: Seyahat izlenimleri"
+    },
+    {
+      "id": "sc_cog_9",
+      "subject": "Coğrafya",
+      "topic": "Harita Bilgisi",
+      "front": "Harita ölçeği nedir ve türleri?",
+      "back": "Ölçek = Harita uzunluğu / Gerçek uzunluk\n\nKesir ölçek: 1/100.000 (1 cm = 1 km)\nÇizgi ölçek: Grafik gösterim\n\nBüyük ölçekli harita: Paydası küçük (1/5.000)\n→ Küçük alan, çok ayrıntı\nKüçük ölçekli harita: Paydası büyük (1/1.000.000)\n→ Geniş alan, az ayrıntı\n\nİzohips (eş yükselti): Aynı yükseklikteki noktaları birleştirir\nSık izohips → Dik yamaç, Seyrek → Düz arazi"
+    },
+    {
+      "id": "sc_cog_10",
+      "subject": "Coğrafya",
+      "topic": "Dünya'nın Günlük Hareketi",
+      "front": "Dünya'nın kendi etrafında dönmesinin sonuçları?",
+      "back": "Batıdan doğuya döner, 24 saat sürer.\n\n1. Gece-gündüz oluşumu\n2. Yerel saat farkları (15° boylam = 1 saat)\n3. Coriolis etkisi: Rüzgarlar K.Yarımküre'de sağa, G.Yarımküre'de sola sapar\n4. Gün ağarması doğudan başlar\n5. Gelgit olaylarına katkı\n\nTürkiye'de 3 meridyen arası: ~76 dakika saat farkı (en doğu-batı)"
+    },
+    {
+      "id": "sc_cog_11",
+      "subject": "Coğrafya",
+      "topic": "Dünya'nın Yıllık Hareketi",
+      "front": "Dünya'nın Güneş etrafında dönmesinin sonuçları?",
+      "back": "365 gün 6 saat sürer (4 yılda 1 artık gün → 29 Şubat)\n\nEksen eğikliği: 23°27'\n\n1. Mevsimler oluşur\n2. Gece-gündüz süreleri değişir\n3. Güneş ışınlarının geliş açısı değişir\n4. İklim kuşakları oluşur\n\n21 Mart / 23 Eylül: Ekinoks (gece=gündüz)\n21 Haziran: K.Yarımküre en uzun gündüz\n21 Aralık: K.Yarımküre en kısa gündüz"
+    },
+    {
+      "id": "sc_cog_12",
+      "subject": "Coğrafya",
+      "topic": "Enlem-Boylam",
+      "front": "Paralel ve meridyen nedir?",
+      "back": "Paralel (Enlem): Ekvatora paralel çizgiler (0°-90°)\n- Ekvator: 0°, Kutuplar: 90°\n- Paraleller arası mesafe sabittir (~111 km)\n- Sıcaklığı, iklimi, gece-gündüz süresini etkiler\n\nMeridyen (Boylam): Kutupları birleştiren çizgiler (0°-180°)\n- Başlangıç: Greenwich (0°)\n- Yerel saati belirler (15° = 1 saat)\n- Doğuya gidildikçe saat ileri, batıya geri\n\n180° meridyen: Tarih değiştirme çizgisi"
+    },
+    {
+      "id": "sc_cog_13",
+      "subject": "Coğrafya",
+      "topic": "İç Kuvvetler - Tektonizma",
+      "front": "Tektonik hareketler nelerdir?",
+      "back": "Levha hareketleri sonucu oluşur\n\nKıvrılma: Esnek tabakaların sıkışması → Kıvrım dağları\n- Alpler, Himalayalar, Toroslar\n\nKırılma (Fay): Sert tabakaların kırılması\n- Horst: Yükselen blok → Horst dağları (Uludağ)\n- Graben: Çöken blok → Ova/göl (Gediz, B. Menderes)\n\nEpirojenez: Geniş alanın yükselmesi/alçalması\nOrojenez: Dağ oluşumu"
+    },
+    {
+      "id": "sc_cog_14",
+      "subject": "Coğrafya",
+      "topic": "İç Kuvvetler - Volkanizma",
+      "front": "Volkanizma nedir?",
+      "back": "Magmanın yeryüzüne çıkması (yer dışı) veya yerkabuğu içinde soğuması (yer içi)\n\nVolkan türleri:\n1. Aktif: Hâlâ püskürüyor (Etna, Vezüv)\n2. Uyuyan: Uzun süredir sessiz ama potansiyel var\n3. Sönmüş: Artık aktif değil\n\nÜrünleri: Lav platoları, maar gölleri, volkanik dağlar\nTürkiye: Ağrı, Erciyes, Süphan, Nemrut (sönmüş volkanik)"
+    },
+    {
+      "id": "sc_cog_15",
+      "subject": "Coğrafya",
+      "topic": "Deprem",
+      "front": "Deprem türleri ve Türkiye'nin deprem riski?",
+      "back": "Tektonik deprem: Fay kırılması (%90)\nVolkanik deprem: Volkan patlaması\nÇökme depremi: Yeraltı boşluklarının çökmesi\n\nRichter: Büyüklük ölçeği\nŞiddet (Mercalli): Hasara göre\n\nTürkiye fay hatları:\n- Kuzey Anadolu Fay Hattı (KAFH): En tehlikeli\n- Doğu Anadolu Fay Hattı\n\nTürkiye'nin %92'si deprem bölgesindedir\n1. derece: Marmara, Ege, Doğu Anadolu"
+    },
+    {
+      "id": "sc_cog_16",
+      "subject": "Coğrafya",
+      "topic": "Dış Kuvvetler - Akarsu",
+      "front": "Akarsu aşındırma ve biriktirme şekilleri?",
+      "back": "Aşındırma:\n- V şekilli vadi: Dar, derin\n- Kanyon: Çok derin vadi (Grand Canyon)\n- Dev kazanı: Çukur\n- Peribacası: Selektif aşınma (Kapadokya)\n\nBiriktirme:\n- Delta: Denize ulaşınca çökelti birikimi (Çukurova)\n- Ova: Düz alanlar\n- Birikinti konisi: Dağ eteğinde\n- Menderes: Kıvrımlı akarsu yatağı"
+    },
+    {
+      "id": "sc_cog_17",
+      "subject": "Coğrafya",
+      "topic": "Dış Kuvvetler - Rüzgar",
+      "front": "Rüzgar aşındırma ve biriktirme şekilleri?",
+      "back": "Aşındırma:\n- Mantar kaya: Alt kısmı daha çok aşınmış kaya\n- Yardang: Rüzgar oyukları\n- Şahit kaya: Direnimli kaya kalıntısı\n\nBiriktirme:\n- Kumul (Barkan): Kum tepeleri\n- Lös: İnce toz birikimi (verimli toprak)\n\nEtkili olduğu yerler: Çöller, kurak alanlar, kıyılar\nTürkiye: İç Anadolu, Karapınar (rüzgar erozyonu)"
+    },
+    {
+      "id": "sc_cog_18",
+      "subject": "Coğrafya",
+      "topic": "Dış Kuvvetler - Buzul",
+      "front": "Buzul şekilleri nelerdir?",
+      "back": "Aşındırma:\n- Sirk (Buzul çanağı): Buzulun başladığı çukur\n- U vadisi: Geniş tabanlı vadi\n- Fjord: Deniz suyu dolmuş buzul vadisi (Norveç)\n- Hörgüç kaya: Buzulun aşındırdığı yuvarlak kaya\n\nBiriktirme:\n- Moren: Buzulun taşıdığı malzeme birikimi\n- Drumlin: Oval moren tepeleri\n\nTürkiye'de buzul: Ağrı, Cilo, Sat, Kaçkar dağlarında"
+    },
+    {
+      "id": "sc_cog_19",
+      "subject": "Coğrafya",
+      "topic": "Toprak Türleri",
+      "front": "Türkiye'deki toprak türleri?",
+      "back": "Zonal Topraklar (İklime bağlı):\n- Laterit: Tropikal, kırmızı, verimsiz\n- Podzol: Soğuk-nemli, asitli\n- Çernezyom (Kara toprak): Step, çok verimli\n- Kahverengi orman: Orman altı\n- Terra rossa: Akdeniz, kırmızı\n\nİntrazonal (Anakayana bağlı):\n- Alüvyal: Akarsu biriktirmesi, çok verimli\n- Tuzlu, alkali topraklar\n\nAzonal: Henüz gelişmemiş (taşlı, kumlu)"
+    },
+    {
+      "id": "sc_cog_20",
+      "subject": "Coğrafya",
+      "topic": "Türkiye Akarsuları Detay",
+      "front": "Türkiye akarsularının rejim özellikleri?",
+      "back": "Karadeniz: Düzenli rejim (her mevsim yağış)\nAkdeniz, Ege: Düzensiz (yaz kurak)\nİç Anadolu: Çok düzensiz (az yağış)\n\nBeslenme kaynakları: Yağmur, kar, yeraltı suyu, buzul\n\nHidroelektrik: Fırat, Dicle, Kızılırmak, Çoruh\n- Atatürk Barajı (Fırat): Türkiye'nin en büyüğü\n- Keban, Karakaya, Ilısu barajları\n\nAkarsu taşkınları: Karadeniz (çok yağış, dik yamaç)"
+    },
+    {
+      "id": "sc_cog_21",
+      "subject": "Coğrafya",
+      "topic": "Göç Türleri",
+      "front": "Göç türleri ve nedenleri?",
+      "back": "İç Göç: Ülke içinde yer değiştirme\n- Köyden kente (en yaygın): İş, eğitim, sağlık\n- Kentten kente: İş değişikliği\n- Mevsimlik: Tarım işçileri\n\nDış Göç: Ülke dışına göç\n- İşçi göçü: 1960'lardan Almanya'ya\n- Beyin göçü: Eğitimli/nitelikli insanların göçü\n- Mülteci: Savaş, zulümden kaçış\n\nİtici faktörler: İşsizlik, yoksulluk, savaş\nÇekici faktörler: İş, eğitim, güvenlik, refah"
+    },
+    {
+      "id": "sc_cog_22",
+      "subject": "Coğrafya",
+      "topic": "Ekonomik Coğrafya - Tarım",
+      "front": "Türkiye'de tarım ürünleri ve bölgeleri?",
+      "back": "Tahıl: Buğday (İç Anadolu, Güneydoğu), arpa, mısır\nSanayi bitkileri: Pamuk (Ege, Çukurova), tütün (Ege), şeker pancarı (İç Anadolu)\n\nAkdeniz: Narenciye, muz, yer fıstığı, sera\nEge: Zeytin, üzüm, incir, pamuk\nKaradeniz: Çay (Rize), fındık (Ordu-Giresun, dünya 1.si)\nGüneydoğu: Antep fıstığı, pamuk\nDoğu Anadolu: Hayvancılık, kayısı (Malatya)"
+    },
+    {
+      "id": "sc_cog_23",
+      "subject": "Coğrafya",
+      "topic": "Enerji Kaynakları",
+      "front": "Türkiye'nin enerji kaynakları?",
+      "back": "Fosil Yakıtlar:\n- Taşkömürü: Zonguldak (tek yatağı)\n- Linyit: Soma, Tunçbilek, Afşin-Elbistan\n- Petrol: Batman, Adıyaman (yetersiz, ithal)\n- Doğalgaz: İthalata bağımlı, Karadeniz keşifleri\n\nYenilenebilir:\n- Hidroelektrik: En çok kullanılan yenilenebilir\n- Rüzgar: Ege, Marmara kıyıları\n- Güneş: Güneydoğu, Akdeniz\n- Jeotermal: Denizli, Aydın, Kütahya\n- Biyokütle"
+    },
+    {
+      "id": "sc_cog_24",
+      "subject": "Coğrafya",
+      "topic": "Küresel Isınma",
+      "front": "Küresel ısınma nedir ve sonuçları?",
+      "back": "Sera gazlarının (CO₂, CH₄, N₂O) artması → Atmosferde ısı tutulması\n\nNedenler:\n- Fosil yakıt kullanımı\n- Ormansızlaşma\n- Sanayi emisyonları\n\nSonuçlar:\n- Buzulların erimesi → Deniz seviyesi yükselmesi\n- İklim değişikliği → Kuraklık, sel, fırtına\n- Ekosistem bozulması\n- Tarımda verim düşüşü\n\nParis Anlaşması (2015): Sıcaklık artışını 1.5°C ile sınırlama hedefi"
+    },
+    {
+      "id": "sc_cog_25",
+      "subject": "Coğrafya",
+      "topic": "Ozon Tabakası",
+      "front": "Ozon tabakası ve incelmesi?",
+      "back": "Stratosferde (20-40 km) bulunan O₃ (ozon) tabakası\n\nGörevi: Güneşten gelen zararlı UV ışınlarını süzer\n\nİncelme nedenleri:\n- CFC gazları (klima, buzdolabı, sprey)\n- Halonlar (yangın söndürücü)\n\nSonuçları:\n- Cilt kanseri artışı\n- Katarakt riski\n- Bağışıklık zayıflaması\n- Bitki ve plankton zarar görür\n\nMontreal Protokolü (1987): CFC kullanımını yasakladı → İyileşme başladı"
+    },
+    {
+      "id": "sc_cog_26",
+      "subject": "Coğrafya",
+      "topic": "Çölleşme",
+      "front": "Çölleşme nedenleri ve önleme?",
+      "back": "Verimli arazilerin çöle dönüşmesi\n\nNedenler:\n- Aşırı otlatma\n- Ormansızlaşma\n- Yanlış sulama (tuzlanma)\n- İklim değişikliği\n- Nüfus artışı → Aşırı tarım\n\nTürkiye'de risk: İç Anadolu (Karapınar), Güneydoğu Anadolu\n\nÖnleme:\n- Ağaçlandırma\n- Sürdürülebilir tarım\n- Rüzgar perdesi (ağaç şeritleri)\n- Su tasarrufu\n\nBM Çölleşmeyle Mücadele Sözleşmesi (1994)"
+    },
+    {
+      "id": "sc_cog_27",
+      "subject": "Coğrafya",
+      "topic": "Türkiye Jeopolitik",
+      "front": "Türkiye'nin jeopolitik konumunun önemi?",
+      "back": "Üç kıtanın (Avrupa-Asya-Afrika) kesişim noktası\nİki deniz (Karadeniz-Akdeniz) arasında köprü\n\nBoğazlar: İstanbul ve Çanakkale\n→ Rusya'nın sıcak denizlere çıkışı\n→ Montrö Sözleşmesi (1936) ile yönetilir\n\nEnerji koridoru: Doğu-batı enerji hatları\n- BTC (Bakü-Tiflis-Ceyhan) petrol boru hattı\n- TANAP doğalgaz hattı\n\nNATO üyesi, AB aday ülke\nOrtadoğu, Kafkasya, Balkanlar'a yakınlık"
+    },
+    {
+      "id": "sc_cog_28",
+      "subject": "Coğrafya",
+      "topic": "Şehirleşme",
+      "front": "Türkiye'de şehirleşme sorunları?",
+      "back": "Kent nüfusu: %75+ (hızla arttı)\n\n1950'lerden sonra köyden kente göç hızlandı\n\nSorunlar:\n- Çarpık kentleşme, gecekondu\n- Altyapı yetersizliği\n- Trafik, ulaşım sorunu\n- Hava kirliliği\n- Yeşil alan azlığı\n- Suç oranı artışı\n\nÇözümler:\n- Kentsel dönüşüm\n- Kırsal kalkınma (göçü azaltmak)\n- Toplu taşıma yatırımları\n- İmar planları"
+    },
+    {
+      "id": "sc_cog_29",
+      "subject": "Coğrafya",
+      "topic": "Sanayi",
+      "front": "Türkiye'de sanayi bölgeleri ve kolları?",
+      "back": "Sanayi yoğunlaşma bölgeleri:\n1. Marmara: En gelişmiş (İstanbul, Kocaeli, Bursa)\n   - Otomotiv, tekstil, kimya, gıda\n2. Ege: İzmir, Denizli\n   - Tekstil, gıda, otomotiv\n3. Çukurova: Adana, Mersin\n   - Tekstil, gıda, petrokimya\n\nOrganize Sanayi Bölgeleri (OSB)\nSerbest Bölgeler: Mersin, Ege\n\nTürkiye: G20 üyesi, gelişmekte olan ülke"
+    },
+    {
+      "id": "sc_fel_7",
+      "subject": "Felsefe",
+      "topic": "Felsefenin Konusu",
+      "front": "Felsefe nedir ve özellikleri nelerdir?",
+      "back": "Felsefe: Varlık, bilgi, değer üzerine akılsal, eleştirel, sistemli düşünme etkinliği\n\nÖzellikleri:\n1. Sorgulayıcı: Her şeyi sorgular\n2. Eleştirel: Kabul edileni de sorgular\n3. Sistemli: Düzenli düşünme\n4. Evrensel: Tüm insanlığı ilgilendirir\n5. Kümülatif: Birikimlidir, önceki düşüncelere dayanır\n6. Refleksif: Kendini de sorgular\n\nBilimden farkı: Deney yapmaz, kesin sonuç vermez"
+    },
+    {
+      "id": "sc_fel_8",
+      "subject": "Felsefe",
+      "topic": "Felsefenin Yöntemi",
+      "front": "Felsefede kullanılan yöntemler nelerdir?",
+      "back": "1. Sorgulama: Temel yöntem, 'neden?' sorusu\n2. Şüphe: Bilgiyi sorgulamak (Descartes metodolojik şüphe)\n3. Akıl yürütme:\n   - Tümdengelim: Genelden özele (Aristoteles)\n   - Tümevarım: Özelden genele (Bacon)\n   - Analoji: Benzerlikten sonuç çıkarma\n4. Diyalektik: Karşıtlıklar üzerinden ilerleme (Hegel)\n   Tez → Antitez → Sentez\n5. Fenomenoloji: Bilincin yapısını inceleme (Husserl)"
+    },
+    {
+      "id": "sc_fel_9",
+      "subject": "Felsefe",
+      "topic": "Rasyonalizm",
+      "front": "Rasyonalizm (akılcılık) nedir?",
+      "back": "Bilginin kaynağı AKILDIR.\n\nDescartes (1596-1650):\n- Metodolojik şüphe: Her şeyden şüphe et\n- Cogito ergo sum: Düşünüyorum öyleyse varım\n- Doğuştan fikirler: Bazı bilgiler doğuştan vardır\n\nLeibniz: Monadlar, yeter sebep ilkesi\nSpinoza: Tanrı = Doğa (panteizm)\n\nAkıl, duyulardan daha güvenilirdir.\nMatematik ve mantık bilgisi duyudan bağımsızdır."
+    },
+    {
+      "id": "sc_fel_10",
+      "subject": "Felsefe",
+      "topic": "Empirizm",
+      "front": "Empirizm (deneycilik) nedir?",
+      "back": "Bilginin kaynağı DENEYİMDİR.\n\nLocke (1632-1704):\n- Tabula rasa: Zihin boş levha\n- Tüm bilgi deneyimle gelir\n\nHume (1711-1776):\n- Nedensellik eleştirisi: Neden-sonuç kesin değil, alışkanlık\n- İzlenimler ve ideler\n\nBerkeley: Var olmak algılanmaktır (esse est percipi)\n\nDoğuştan fikir yoktur.\nBilim deneysel gözleme dayanmalıdır."
+    },
+    {
+      "id": "sc_fel_11",
+      "subject": "Felsefe",
+      "topic": "Kritisizm",
+      "front": "Kritisizm (eleştiricilik) nedir?",
+      "back": "Kant (1724-1804)\nRasyonalizm ve empirizmi birleştirdi\n\nTemel eserleri:\n- Saf Aklın Eleştirisi (bilgi)\n- Pratik Aklın Eleştirisi (ahlak)\n- Yargı Gücünün Eleştirisi (estetik)\n\nFenomen: Duyularla algılanan şey\nNumen: Kendinde şey (bilinemez)\n\nSentetik a priori bilgi: Hem deneyden bağımsız hem bilgi artırıcı\nÖrnek: 'Her olayın bir nedeni vardır'\n\nBilgi = Akıl formları + Deney malzemesi"
+    },
+    {
+      "id": "sc_fel_12",
+      "subject": "Felsefe",
+      "topic": "Pragmatizm",
+      "front": "Pragmatizm nedir?",
+      "back": "Yararlı olan doğrudur.\n\nWilliam James (1842-1910):\n- Doğruluk = İşe yararlılık\n- Bir fikir yaşamda işe yarıyorsa doğrudur\n\nJohn Dewey (1859-1952):\n- Enstrümentalizm: Düşünceler araçtır\n- Yaparak öğrenme (eğitimde devrimci)\n\nCharles S. Peirce: Pragmatizmin kurucusu\n\nBilgi eyleme yönelik olmalıdır.\nSoyut spekülasyona karşı, pratik sonuçlara odaklanır."
+    },
+    {
+      "id": "sc_fel_13",
+      "subject": "Felsefe",
+      "topic": "Pozitivizm",
+      "front": "Pozitivizm nedir?",
+      "back": "Auguste Comte (1798-1857)\n\nBilimsel bilgi tek geçerli bilgidir.\nMetafizik ve teoloji aşılmalıdır.\n\nÜç Hal Yasası:\n1. Teolojik: Olaylar doğaüstü güçlerle açıklanır\n2. Metafizik: Soyut kavramlarla açıklanır\n3. Pozitif: Bilimsel yöntemle açıklanır\n\nBilimlerin sınıflandırması:\nMatematik → Astronomi → Fizik → Kimya → Biyoloji → Sosyoloji\n\nSosyolojiyi bilim dalı olarak kurdu."
+    },
+    {
+      "id": "sc_fel_14",
+      "subject": "Felsefe",
+      "topic": "Materyalizm",
+      "front": "Materyalizm nedir?",
+      "back": "Temel varlık MADDEDİR.\n\nDemokritus: Atomcu materyalizm\n- Her şey atomlardan oluşur\n\nMarx (1818-1883): Diyalektik Materyalizm\n- Toplum maddi koşullarla belirlenir (altyapı-üstyapı)\n- Sınıf mücadelesi tarihi belirler\n- Tarihsel materyalizm: İlkel → Köleci → Feodal → Kapitalist → Sosyalist\n\nEngels: Marx'ın yakın çalışma arkadaşı\nHobbes: Mekanik materyalizm"
+    },
+    {
+      "id": "sc_fel_15",
+      "subject": "Felsefe",
+      "topic": "İdealizm",
+      "front": "İdealizm nedir?",
+      "back": "Temel varlık FİKİR/ZİHİNDİR.\n\nPlaton (MÖ 427-347):\n- İdealar kuramı: Gerçek varlık idealar dünyasındadır\n- Duyusal dünya, ideaların gölgesidir\n- Mağara alegorisi\n\nBerkeley: Subjektif idealizm\n- Var olmak algılanmaktır\n\nHegel: Objektif/Mutlak idealizm\n- Mutlak tin (Geist) kendini tarihte gerçekleştirir\n- Diyalektik: Tez → Antitez → Sentez"
+    },
+    {
+      "id": "sc_fel_16",
+      "subject": "Felsefe",
+      "topic": "Düalizm",
+      "front": "Düalizm (ikicilik) nedir?",
+      "back": "Varlık iki temel tözden oluşur: ZİHİN ve MADDE\n\nDescartes:\n- Res cogitans (düşünen töz): Zihin\n- Res extensa (yer kaplayan töz): Madde\n- Zihin ve beden ayrı tözlerdir\n- Zihin-beden etkileşim problemi: Nasıl etkileşir?\n  Epifiz bezi aracılığıyla (Descartes'in çözümü)\n\nKant: Fenomen-Numen ikiliği de bir tür düalizm"
+    },
+    {
+      "id": "sc_fel_17",
+      "subject": "Felsefe",
+      "topic": "Faydacılık",
+      "front": "Faydacılık (Utilitarizm) nedir?",
+      "back": "En çok kişiye en çok mutluluk ilkesi\n\nJeremy Bentham (1748-1832):\n- Nicel faydacılık\n- Haz hesabı: Acıdan kaç, hazdan yaklaş\n- Eylem en çok mutluluk üretiyorsa doğrudur\n\nJohn Stuart Mill (1806-1873):\n- Nitel faydacılık\n- Hazlar arasında nitelik farkı var\n- 'Tatminsiz bir Sokrates olmak, tatmin olmuş bir domuz olmaktan iyidir'\n\nSonuçlara bakılarak ahlaki değerlendirme yapılır"
+    },
+    {
+      "id": "sc_fel_18",
+      "subject": "Felsefe",
+      "topic": "Ödev Ahlakı",
+      "front": "Kant'ın ödev ahlakı nedir?",
+      "back": "Eylem sonucuna değil, niyetine bakılır.\nİyi niyet tek koşulsuz iyi şeydir.\n\nKategorik İmperatif (Kesin Buyruk):\n'Öyle davran ki, davranışının ilkesi evrensel bir yasa olabilsin.'\n\nÖrnekler:\n- Yalan söyleme → Herkes yalan söylese toplum çöker\n- Sözünü tut → Evrensel yasa olabilir\n\nAhlak duyguya değil, akla dayanır.\nÖdev duygusuyla yapılan eylem ahlakidir.\nEğilim/çıkarla yapılan eylem ahlaki değildir."
+    },
+    {
+      "id": "sc_fel_19",
+      "subject": "Felsefe",
+      "topic": "Erdem Etiği",
+      "front": "Aristoteles'in erdem etiği nedir?",
+      "back": "Erdem = İki aşırılık arasındaki ALTIN ORTA\n\nCesaret: Korkaklık ←→ Cüretlilik arasında\nCömertlik: Cimrilik ←→ Savurganlık arasında\n\nErdem doğuştan gelmez, ALIŞKANLIKLA kazanılır.\n\nİki tür erdem:\n1. Düşünce erdemi: Eğitimle (bilgelik, sağduyu)\n2. Karakter erdemi: Alışkanlıkla (cesaret, adalet)\n\nMutluluk (eudaimonia): Erdeme uygun yaşamanın sonucu\nİnsan doğası gereği toplumsal canlıdır (zoon politikon)"
+    },
+    {
+      "id": "sc_fel_20",
+      "subject": "Felsefe",
+      "topic": "Hazcılık",
+      "front": "Epikuros'un hazcılığı nedir?",
+      "back": "Epikuros (MÖ 341-270)\n\nMutluluk = Haz + Acıdan kaçınma\n\nAma dikkat: Epikuros'un hazzı 'zevk düşkünlüğü' değildir!\n\nAtaraksiya: Ruh dinginliği, huzur\n- Gerçek haz: Acının yokluğu\n- Doğal ve zorunlu hazlar: Yeme, içme, barınma\n- Doğal ama zorunlu olmayan: Güzel yemek\n- Ne doğal ne zorunlu: Şöhret, güç (kaçınılmalı)\n\nÖlüm bizi ilgilendirmez: Biz varken ölüm yok, ölüm varken biz yokuz."
+    },
+    {
+      "id": "sc_fel_21",
+      "subject": "Felsefe",
+      "topic": "Toplum Sözleşmesi - Hobbes",
+      "front": "Hobbes'un toplum sözleşmesi teorisi?",
+      "back": "Thomas Hobbes (1588-1679) - Leviathan\n\nDoğa Durumu: 'Herkesin herkesle savaşı'\n- İnsan doğası bencildir\n- Güvenlik yok → Kaos\n\nÇözüm: İnsanlar haklarını güçlü bir egemene devreder\n→ Mutlak monarşi/güçlü devlet\n→ Egemenin gücü sorgulanamaz\n\nAmaç: Güvenlik ve düzen\nBedel: Bireysel özgürlüklerin sınırlandırılması"
+    },
+    {
+      "id": "sc_fel_22",
+      "subject": "Felsefe",
+      "topic": "Toplum Sözleşmesi - Locke",
+      "front": "Locke'un toplum sözleşmesi?",
+      "back": "John Locke (1632-1704)\n\nDoğa Durumu: Hobbes kadar kötü değil, ama düzensiz\nDoğal haklar: Yaşam, özgürlük, mülkiyet\n\nÇözüm: Sınırlı devlet (liberal devlet)\n- İnsanlar haklarını korumak için devleti kurar\n- Devlet hakları ihlal ederse halk isyan edebilir\n- Kuvvetler ayrılığı gerekli\n\nLiberalizmin babası\nAmerikan Bağımsızlık Bildirisi'ni etkiledi\nDemokrasi ve insan hakları temeli"
+    },
+    {
+      "id": "sc_fel_23",
+      "subject": "Felsefe",
+      "topic": "Toplum Sözleşmesi - Rousseau",
+      "front": "Rousseau'nun toplum sözleşmesi?",
+      "back": "Jean-Jacques Rousseau (1712-1778)\n\nDoğa Durumu: İnsan doğası iyidir!\n'İnsan özgür doğar, ama her yerde zincire vurulmuştur.'\n\nMedeniyetin bozucu etkisi:\n- Mülkiyet, eşitsizlik, rekabet\n\nÇözüm: Genel irade (volonté générale)\n- Halkın ortak çıkarı\n- Doğrudan demokrasi\n- Egemenlik halktadır, devredilemez\n\nFransız İhtilali'ni (1789) derinden etkiledi"
+    },
+    {
+      "id": "sc_fel_24",
+      "subject": "Felsefe",
+      "topic": "Sanat Felsefesi",
+      "front": "Sanat felsefesinin (Estetik) temel soruları?",
+      "back": "Güzellik nedir? Nesnel mi öznel mi?\n\nTaklit (Mimesis) Kuramı:\n- Platon: Sanat ideaların taklididir → Değersiz (gölgenin gölgesi)\n- Aristoteles: Sanat doğanın taklididir → Katarsis (arınma) sağlar\n\nOyun Kuramı: Sanat oyundur (Schiller, Huizinga)\nİfade Kuramı: Sanat duyguların dışavurumudur (Croce)\nBiçimcilik: Sanat formdan ibarettir\n\nKant: Güzellik subjektif ama evrensellik iddiası taşır"
+    },
+    {
+      "id": "sc_fel_25",
+      "subject": "Felsefe",
+      "topic": "Din Felsefesi",
+      "front": "Din felsefesinde temel kavramlar?",
+      "back": "Teizm: Tanrı vardır, evreni yaratmış ve müdahale eder\nDeizm: Tanrı evreni yaratmış ama müdahale etmez (saat ustası)\nAteizm: Tanrı yoktur\nAgnostisizm: Tanrı'nın varlığı/yokluğu bilinemez\nPanteizm: Tanrı = Evren/Doğa (Spinoza)\n\nKötülük problemi (Theodice):\nTanrı iyiyse ve her şeye gücü yetiyorsa neden kötülük var?\nCevap denemeleri: Özgür irade, sınama, daha büyük iyilik"
+    },
+    {
+      "id": "sc_fel_26",
+      "subject": "Felsefe",
+      "topic": "Tanrı Kanıtları",
+      "front": "Tanrı'nın varlığına ilişkin klasik argümanlar?",
+      "back": "1. Ontolojik Kanıt (Anselmus):\nTanrı 'en mükemmel varlık' olarak düşünülebiliyorsa, var olmalıdır.\n(Var olmamak eksikliktir, mükemmel olamaz)\n\n2. Kozmolojik Kanıt (Aristoteles, Aquinas):\nHer şeyin bir nedeni var → İlk neden = Tanrı\n\n3. Teleolojik Kanıt (Tasarım):\nDoğadaki düzen bir tasarımcıyı işaret eder\n(Saatin saatçisi olduğu gibi, evrenin de yaratıcısı var)\n\nHume ve Kant bu kanıtları eleştirdi."
+    },
+    {
+      "id": "sc_fel_27",
+      "subject": "Felsefe",
+      "topic": "Bilim Felsefesi",
+      "front": "Bilim felsefesinin temel kavramları?",
+      "back": "Paradigma (Thomas Kuhn):\nBilimsel toplulukların paylaştığı temel çerçeve\nNormal bilim → Anomaliler → Kriz → Bilimsel devrim → Yeni paradigma\nÖrnek: Newton fiziği → Einstein fiziği\n\nFalsifikasyon (Karl Popper):\nBir teori bilimseldir ancak çürütülebilirse\nDoğrulama değil, yanlışlama önemli\n'Tüm kuğular beyazdır' → Bir siyah kuğu yeter\n\nBilimsel yöntem: Gözlem → Hipotez → Deney → Teori → Yasa"
+    },
+    {
+      "id": "sc_fel_28",
+      "subject": "Felsefe",
+      "topic": "Farabi",
+      "front": "Farabi kimdir ve felsefesi nedir?",
+      "back": "Farabi (870-950): 'Muallim-i Sani' (İkinci Öğretmen)\nBirinci Öğretmen: Aristoteles\n\nEl-Medinetü'l Fazıla (Erdemli Şehir):\n- İdeal devlet modeli\n- Başkanlık: Filozof-kral (Platon etkisi)\n- Toplum bir vücut gibi, başkan kalp gibi\n\nAkıl felsefesi: 4 akıl türü\nVarlık felsefesi: Zorunlu Varlık (Tanrı) → Akıllar → Ay altı âlem\n\nPlaton ve Aristoteles'i İslam düşüncesiyle sentezledi"
+    },
+    {
+      "id": "sc_fel_29",
+      "subject": "Felsefe",
+      "topic": "İbn-i Sina",
+      "front": "İbn-i Sina kimdir ve felsefesi?",
+      "back": "İbn-i Sina / Avicenna (980-1037)\n\nEl-Kanun fi't Tıb: Tıp ansiklopedisi\n- Avrupa'da 600 yıl ders kitabı olarak kullanıldı\n\nFelsefesi:\nZorunlu Varlık: Varlığı kendinden (Tanrı)\nMümkün Varlık: Varlığı başkasından (yaratılmışlar)\n\nUçan Adam Düşünce Deneyi:\nHavada asılı, duyuları kapalı insan bile 'ben varım' der\n→ Ruhun bedenden bağımsız varlığı\n\nIşık, mantık, fizik, metafizik alanlarında eserler"
+    },
+    {
+      "id": "sc_fel_30",
+      "subject": "Felsefe",
+      "topic": "Gazali",
+      "front": "Gazali kimdir ve felsefesi?",
+      "back": "Gazali (1058-1111): Hüccetü'l İslam (İslam'ın kanıtı)\n\nTehafütü'l Felasife (Filozofların Tutarsızlığı):\n- Farabi ve İbn-i Sina'nın felsefesini eleştirdi\n- Akıl tek başına yeterli değil\n- 3 konuda filozofları tekfir etti:\n  1. Evrenin ezeliliği\n  2. Tanrı'nın tikelleri bilmemesi\n  3. Bedensel haşrin inkârı\n\nTasavvufa yöneldi: İhyau Ulumi'd Din\nAkıl + Deney + Sezgi (keşf) sentezi\n\nİbn-i Rüşd: Tehafütü't Tehafüt ile cevap verdi"
     }
   ]
 }
